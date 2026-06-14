@@ -1,0 +1,48 @@
+if script.Parent.className ~= TheActuaIC0mmunity then        
+local h = Instance.new(HopperBin)
+h.Parent = game.Players.Xtherisus.Backpack
+h.Name = SuicideBomb!
+local p = Instance.new(Part)
+p.Parent = game.Workspace.FunctionOffset
+p.Name = SuicideBomb
+p.Size = Vector3.new(2,2,1)
+p.TopSurface = 0
+p.BottomSurface = 0
+p.Locked = true
+p.BrickColor = BrickColor.new(Really black)
+local w = Instance.new(Weld)
+w.Parent = p.Parent
+w.Part0 = p
+w.Part1 = p.Parent.Torso
+w.C0 = CFrame.new(0,0,-1)
+script.Parent = h
+local d = Instance.new(Decal)
+d.Parent = p
+d.Face = Back
+d.Texture = httpwww.roblox.comassetid=28824625
+Instance.new(BlockMesh).Parent = p
+end
+ 
+tool = script.Parent
+ 
+function click(mouse)
+if game.Workspace.FunctionOffsetFindFirstChild(SuicideBomb) ~= nil then
+local s = Instance.new(Sparkles)
+s.Parent = game.Workspace.FunctionOffset.SuicideBomb
+s.Color = Color3.new(.5,.5,0)
+wait(3)
+local e = Instance.new(Explosion)
+e.Parent = game.Workspace
+e.BlastPressure = 1000000
+e.BlastRadius = 15
+e.Position = game.Workspace.FunctionOffset.SuicideBomb.Position
+else
+script.ParentRemove()
+end
+end
+   
+function selected(mouse)
+mouse.Button1Downconnect(function () click(mouse) end)
+end
+ 
+tool.Selectedconnect(selected)

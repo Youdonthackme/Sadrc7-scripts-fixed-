@@ -1,0 +1,209 @@
+local la = Instance.new("Weld")
+la.Parent = script.Parent["Left Arm"]
+la.Part0 = script.Parent.HumanoidRootPart
+la.Part1 = script.Parent["Left Arm"]
+la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-1.5,.9,0)
+
+local ra = Instance.new("Weld")
+ra.Parent = script.Parent["Right Arm"]
+ra.Part0 = script.Parent.HumanoidRootPart
+ra.Part1 = script.Parent["Right Arm"]
+ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-1.5,-.2,.15)
+
+local attack = false
+local mouse = game.Players[script.Parent.Name]:GetMouse()
+local d = false
+function damage(hit)
+	local h = hit.Parent:findFirstChildOfClass("Humanoid")
+	if h ~= nil and attack == true then
+		h.Health = h.Health - math.random(10,20)
+	end
+end
+local katana = Instance.new("Model")
+katana.Parent = script.Parent
+katana.Name = "Katana"
+local handle = Instance.new("Part")
+handle.Parent = katana
+handle.BrickColor = BrickColor.new('Really black')
+handle.Name = "Handle"
+handle.Size = Vector3.new(.5,2,.5)
+handle.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
+handle.BackSurface = Enum.SurfaceType.SmoothNoOutlines
+handle.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
+handle.RightSurface = Enum.SurfaceType.SmoothNoOutlines
+handle.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
+handle.TopSurface = Enum.SurfaceType.SmoothNoOutlines
+handle.CanCollide = false
+local hw = Instance.new("Weld")
+hw.Parent = handle
+hw.Part0 = handle
+hw.Part1 = script.Parent["Right Arm"]
+hw.C1 = CFrame.new(0,-1,.4) * CFrame.fromEulerAnglesXYZ(1.6,0,0)
+
+local part = Instance.new("Part")
+part.Parent = katana
+part.BrickColor = BrickColor.new('Dark stone grey')
+part.Name = "KatanaPart"
+part.Size = Vector3.new(.5,.2,1)
+part.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
+part.BackSurface = Enum.SurfaceType.SmoothNoOutlines
+part.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
+part.RightSurface = Enum.SurfaceType.SmoothNoOutlines
+part.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
+part.TopSurface = Enum.SurfaceType.SmoothNoOutlines
+part.CanCollide = false
+local pw = Instance.new("Weld")
+pw.Parent = part
+pw.Part0 = part
+pw.Part1 = handle
+pw.C1 = CFrame.new(0,-1,0) * CFrame.fromEulerAnglesXYZ(0,0,0)
+
+local part = Instance.new("Part")
+part.Parent = katana
+part.BrickColor = BrickColor.new('Dark stone grey')
+part.Name = "KatanaPart"
+part.Size = Vector3.new(.2,.2,.7)
+part.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
+part.BackSurface = Enum.SurfaceType.SmoothNoOutlines
+part.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
+part.RightSurface = Enum.SurfaceType.SmoothNoOutlines
+part.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
+part.TopSurface = Enum.SurfaceType.SmoothNoOutlines
+part.CanCollide = false
+local pw = Instance.new("Weld")
+pw.Parent = part
+pw.Part0 = part
+pw.Part1 = handle
+pw.C1 = CFrame.new(.35,-1,0) * CFrame.fromEulerAnglesXYZ(0,0,0)
+
+local part = Instance.new("Part")
+part.Parent = katana
+part.BrickColor = BrickColor.new('Dark stone grey')
+part.Name = "KatanaPart"
+part.Size = Vector3.new(.2,.2,.7)
+part.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
+part.BackSurface = Enum.SurfaceType.SmoothNoOutlines
+part.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
+part.RightSurface = Enum.SurfaceType.SmoothNoOutlines
+part.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
+part.TopSurface = Enum.SurfaceType.SmoothNoOutlines
+part.CanCollide = false
+local pw = Instance.new("Weld")
+pw.Parent = part
+pw.Part0 = part
+pw.Part1 = handle
+pw.C1 = CFrame.new(-.35,-1,0) * CFrame.fromEulerAnglesXYZ(0,0,0)
+
+local blade = Instance.new("Part")
+blade.Parent = katana
+blade.BrickColor = BrickColor.new('White')
+blade.Name = "DamagingBlade"
+blade.Size = Vector3.new(.1,3,.4)
+blade.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
+blade.BackSurface = Enum.SurfaceType.SmoothNoOutlines
+blade.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
+blade.RightSurface = Enum.SurfaceType.SmoothNoOutlines
+blade.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
+blade.TopSurface = Enum.SurfaceType.SmoothNoOutlines
+blade.CanCollide = false
+local bw = Instance.new("Weld")
+bw.Parent = blade
+bw.Part0 = blade
+bw.Part1 = handle
+bw.C1 = CFrame.new(0,-2.5,0) * CFrame.fromEulerAnglesXYZ(0,0,0)
+
+local blade2 = Instance.new("Part")
+blade2.Parent = katana
+blade2.BrickColor = BrickColor.new('White')
+blade2.Name = "Blade"
+blade2.Size = Vector3.new(.1,.4,.2)
+blade2.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
+blade2.BackSurface = Enum.SurfaceType.SmoothNoOutlines
+blade2.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
+blade2.RightSurface = Enum.SurfaceType.SmoothNoOutlines
+blade2.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
+blade2.TopSurface = Enum.SurfaceType.SmoothNoOutlines
+blade2.CanCollide = false
+local bw2 = Instance.new("Weld")
+bw2.Parent = blade2
+bw2.Part0 = blade2
+bw2.Part1 = handle
+bw2.C1 = CFrame.new(0,-4.2,0) * CFrame.fromEulerAnglesXYZ(0,0,0)
+
+local a0 = Instance.new("Attachment")
+a0.Parent = blade
+a0.Position = Vector3.new(0,1.5,0)
+
+local a1 = Instance.new("Attachment")
+a1.Parent = blade
+a1.Position = Vector3.new(0,-2,0)
+
+local trail = Instance.new("Trail")
+trail.Parent = blade
+trail.Transparency = NumberSequence.new(.5,1)
+trail.Attachment0 = a0
+trail.Attachment1 = a1
+trail.Lifetime = .1
+function attack()
+	if d == false then
+		local attackID = 0
+		attackID = math.random(1,2)
+		attack = true
+		d = true
+		if attackID == 1 then
+			
+			la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-1.5,.9,0)
+			ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-1.5,-.2,.15)
+			wait(.01)
+			la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-1.5,.9,0)
+			ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-1.5,-.2,.4)
+			wait(.05)
+			la.C1 = CFrame.new(1,-.1,.35) * CFrame.fromEulerAnglesXYZ(-1,.9,0)
+			ra.C1 = CFrame.new(-1,0,.7) * CFrame.fromEulerAnglesXYZ(-1,-.2,.4)
+			wait(.05)
+			la.C1 = CFrame.new(1,.1,.2) * CFrame.fromEulerAnglesXYZ(-.5,.9,0)
+			ra.C1 = CFrame.new(-1,.2,.5) * CFrame.fromEulerAnglesXYZ(-.5,-.2,.4)
+			wait(.05)
+			la.C1 = CFrame.new(1,.1,.1) * CFrame.fromEulerAnglesXYZ(0,.9,0)
+			ra.C1 = CFrame.new(-1,.2,.3) * CFrame.fromEulerAnglesXYZ(0,-.2,.4)
+			wait(.05)
+			la.C1 = CFrame.new(1,.1,.2) * CFrame.fromEulerAnglesXYZ(-.5,.9,0)
+			ra.C1 = CFrame.new(-1,.2,.5) * CFrame.fromEulerAnglesXYZ(-.5,-.2,.4)
+			wait(.05)
+			la.C1 = CFrame.new(1,-.1,.35) * CFrame.fromEulerAnglesXYZ(-1,.9,0)
+			ra.C1 = CFrame.new(-1,0,.7) * CFrame.fromEulerAnglesXYZ(-1,-.2,.4)
+			wait(.01)
+			la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-1.5,.9,0)
+			ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-1.5,-.2,.4)
+			wait(.01)
+			la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-1.5,.9,0)
+			ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-1.5,-.2,.15)
+		end
+		if attackID == 2 then
+			la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-1.5,.9,0)
+			ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-1.5,-.2,.15)
+			wait(.01)
+			la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-1.5,.9,.3)
+			ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-1.5,-.2,.5)
+			wait(.01)
+			la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-1.5,.9,.6)
+			ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-1.5,-.2,.8)
+			wait(.05)
+			la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-1,.9,.6)
+			ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-1,-.2,.8)
+			wait(.05)
+			la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-.5,.9,.6)
+			ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-.5,-.2,.8)
+			wait(.05)
+			la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-1,.9,.6)
+			ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-1,-.2,.8)
+			wait(.1)
+			la.C1 = CFrame.new(1,.3,.35) * CFrame.fromEulerAnglesXYZ(-1.5,.9,0)
+			ra.C1 = CFrame.new(-1,.4,.7) * CFrame.fromEulerAnglesXYZ(-1.5,-.2,.15)
+		end
+		attack = false
+		d = false
+	end
+end
+mouse.Button1Down:connect(attack)
+blade.Touched:connect(damage)

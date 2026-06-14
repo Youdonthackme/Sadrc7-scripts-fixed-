@@ -1,0 +1,71 @@
+)tceleseD(tcennoc:detceleseD.am
+ )tceleS(tcennoc:detceleS.am
+ dne
+ eslaf = detceleS
+ )(tceleseD noitcnuf
+ dne
+ dne
+ osroT = tneraP.dleWmrA
+ neht)lin=~dleWmrA(fi
+ eslaf = derohcnA.mrA
+ dne
+ )(tiaw
+ )0,0,2/ip.htam-(ZYXselgnAreluEmorf.emarFC * )p.0ecalP,2/)p.1ecalP + p.0ecalP((wen.emarFC = emarFC.mrA
+ )2- * tinu.)p.tiH.esuoM-p.0ecalP(( + 0ecalP = 1ecalP lacol
+ rotceVkool.))0,2/ip.htam-,0(ZYXselgnAreluEmorf.emarFC * 0ecalP( + )5.0 * rotceVkool.))0,0,2/ip.htam(ZYXselgnAreluEmorf.emarFC * 0ecalP(( + 0ecalP = 0ecalP
+ emarFC.osroT.retcarahC.reyalP = 0ecalP lacol
+ od detceleS elihw
+ eurt = derohcnA.mrA
+ )dne)esuoM(kcilC)(noitcnuf(tcennoc:nwoD1nottuB.esuoM
+ dne
+ lin = tneraP.dleWmrA
+ neht)lin=~dleWmrA(fi
+ )"redluohS thgiR"(dlihCtsriFdnif:osroT = dleWmrA lacol
+ dne
+ )(evomeR:tpircs
+ )(evomeR:tneraP.tpircs
+ neht)lin==osroT(fi
+ )"osroT"(dlihCtsriFdnif:retcarahC.reyalP = osroT lacol
+ eurt = detceleS
+ dne
+ )(evomeR:tpircs
+ )(evomeR:tneraP.tpircs
+ neht)lin==mrA(fi
+ )"mrA thgiR"(dlihCtsriFdnif:retcarahC.reyalP = mrA lacol
+ )esuoM(tceleS noitcnuf
+ dne
+ )(evomerR:P
+ dne
+ )1.0(tiaw
+ 50.0*i = ecnatcelfeR.P
+ )50.0*i(+5.0 = ycnerapsnarT.P
+ od 01,1 = i rof
+ ecapskroW.emag = tneraP.E
+ p.tiH.tegraT = noitisoP.E
+ )"noisolpxE"(wen.ecnatsnI = E lacol
+ eslaf = edilloCnaC.P
+ eurt = derohcnA.P
+ 5.0 = ecnatcelfeR.P
+ 5.0 = ycnerapsnarT.P
+ )1,0,0(wen.3roloC = roloC.P
+ ecapskroW.emag = tneraP.P
+ )p.0ecalP,2/)p.tiH.tegraT + p.0ecalP((wen.emarFC = emarFC.P
+ )edutingam.)p.tiH.tegraT - p.0ecalP(,1,1(wen.3rotceV = eziS.P
+ 0 = rotcaFmrof.P
+ emarFC.]"mrA thgiR"[retcarahC.reyalP = 0ecalP lacol
+ "resaL" = emaN.P
+ )"traP"(wen.ecnatsnI = P lacol
+ dne
+)(stnioJkaerB:tneraP.tegraT.tegraT
+ neht)lin=~)"dionamuH"(dlihCtsriFdnif:tneraP.tegraT.tegraT(fi
+ )tegraT(kcilC noitcnuf
+ eurt = toohS lacol
+ eslaf = detceleS lacol
+
+ dne
+ am=tneraP.tpircs
+ kcapkcaB.reyalP=tneraP.am
+ "]mrA resaL["=emaN.am
+ )"niBreppoH"(wen.ecnatsnI=am
+ neht "niBreppoH"=~emaNssalc.tneraP.tpircs fi
+reyalPlacoL.sreyalP.emag = reyalP

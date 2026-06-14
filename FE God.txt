@@ -1,0 +1,3 @@
+local player=game.Players.LocalPlayer.Character
+player.Humanoid:Remove()
+Instance.new('Humanoid',player)

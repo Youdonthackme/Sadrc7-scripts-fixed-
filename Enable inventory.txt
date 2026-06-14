@@ -1,0 +1,9 @@
+--[[ This is a script that makes a tool to be in your backpack only if you put your name in this script. You can add more people to this script and they’ll have the tool as well in their backpacks. Put a tool in StarterGui! Make sure it’s spelt exactly as in the script and your name must be spelt exactly. And put this script also in StarterGui. ]]--
+
+local player = game.Players.LocalPlayer
+local tool = script.Parent
+
+if player.Name == “YOUR NAME” then
+     local toolio = player.PlayerGui:WaitForChild(“TOOL NAME”)
+     toolio.Parent = player.Backpack
+end

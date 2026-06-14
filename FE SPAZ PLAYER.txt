@@ -1,0 +1,13 @@
+while wait(0.1) do
+	for i,v in pairs(game.Players:GetChildren()) do
+		if game.Players:FindFirstChild(v) then
+			if v:FindFirstChild("Character") then
+				for i,b in pairs(v.Character:GetChildren()) do
+					if b:IsA("Part") or b:IsA("MeshPart") then
+						b.BrickColor=BrickColor.Random()
+					end
+				end
+			end
+		end
+	end
+end

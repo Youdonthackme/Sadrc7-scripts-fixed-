@@ -1,0 +1,10 @@
+print('[Checking...]')
+wait(1)
+ if game.Workspace.FilteringEnabled == false then
+    print('Filtering is Disabled.')
+    warn('RC7')
+end
+ if game.Workspace.FilteringEnabled == true then
+    print('Filtering is Enabled')
+    warn('RC7')
+end
