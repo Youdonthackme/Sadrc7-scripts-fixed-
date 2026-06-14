@@ -1,0 +1,6 @@
+script.Parent.Touched:Connect(function(hit)
+    local player = game.Players:GetPlayerFromCharacter(hit.Parent)
+    if player ~= nil then
+        player.Character.Humanoid.WalkSpeed = 40
+    end
+end)

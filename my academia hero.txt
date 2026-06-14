@@ -1,0 +1,321 @@
+local BokunoRobloxGUI = Instance.new("ScreenGui")
+local TitleFrm = Instance.new("Frame")
+local TitltTxt = Instance.new("TextLabel")
+local CloseBtn = Instance.new("TextButton")
+local Body = Instance.new("Frame")
+local HeroBtn = Instance.new("TextButton")
+local WVillBtn = Instance.new("TextButton")
+local VillBtn = Instance.new("TextButton")
+local NomuBtn = Instance.new("TextButton")
+local PolBtn = Instance.new("TextButton")
+local CrimBtn = Instance.new("TextButton")
+local TomBtn = Instance.new("TextButton")
+local UASBtn = Instance.new("TextButton")
+local EndBtn = Instance.new("TextButton")
+local AllMBtn = Instance.new("TextButton")
+local TextLabel = Instance.new("TextLabel")
+local StopBtn = Instance.new("TextButton")
+--Properties:
+BokunoRobloxGUI.Name = "Boku no Roblox GUI"
+BokunoRobloxGUI.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+BokunoRobloxGUI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+BokunoRobloxGUI.ResetOnSpawn = false
+
+TitleFrm.Name = "TitleFrm"
+TitleFrm.Parent = BokunoRobloxGUI
+TitleFrm.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
+TitleFrm.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+TitleFrm.BorderSizePixel = 2
+TitleFrm.Position = UDim2.new(0, 0, 0.335863382, 50)
+TitleFrm.Size = UDim2.new(0, 249, 0, 20)
+
+TitltTxt.Name = "TitltTxt"
+TitltTxt.Parent = TitleFrm
+TitltTxt.BackgroundColor3 = Color3.new(1, 1, 1)
+TitltTxt.BackgroundTransparency = 1
+TitltTxt.BorderSizePixel = 0
+TitltTxt.Size = UDim2.new(0, 228, 0, 20)
+TitltTxt.Font = Enum.Font.SourceSansBold
+TitltTxt.Text = " BNR:R GUI"
+TitltTxt.TextColor3 = Color3.new(1, 1, 1)
+TitltTxt.TextSize = 14
+
+CloseBtn.Name = "CloseBtn"
+CloseBtn.Parent = TitleFrm
+CloseBtn.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
+CloseBtn.BorderSizePixel = 0
+CloseBtn.Position = UDim2.new(0.916013539, 2, 0, 0)
+CloseBtn.Size = UDim2.new(0, 20, 0, 20)
+CloseBtn.Font = Enum.Font.SourceSansItalic
+CloseBtn.Text = "X"
+CloseBtn.TextColor3 = Color3.new(1, 1, 1)
+CloseBtn.TextSize = 14
+
+Body.Name = "Body"
+Body.Parent = TitleFrm
+Body.BackgroundColor3 = Color3.new(0.156863, 0.156863, 0.156863)
+Body.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+Body.BorderSizePixel = 2
+Body.Position = UDim2.new(0, 0, 1, 2)
+Body.Size = UDim2.new(0, 249, 0, 181)
+
+HeroBtn.Name = "HeroBtn"
+HeroBtn.Parent = Body
+HeroBtn.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
+HeroBtn.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+HeroBtn.BorderSizePixel = 2
+HeroBtn.Position = UDim2.new(0, 5, 0, 61)
+HeroBtn.Size = UDim2.new(0, 116, 0, 21)
+HeroBtn.Font = Enum.Font.SourceSansItalic
+HeroBtn.Text = "HERO"
+HeroBtn.TextColor3 = Color3.new(1, 1, 1)
+HeroBtn.TextSize = 14
+
+WVillBtn.Name = "WVillBtn"
+WVillBtn.Parent = Body
+WVillBtn.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
+WVillBtn.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+WVillBtn.BorderSizePixel = 2
+WVillBtn.Position = UDim2.new(0, 5, 0, 33)
+WVillBtn.Size = UDim2.new(0, 116, 0, 21)
+WVillBtn.Font = Enum.Font.SourceSansItalic
+WVillBtn.Text = "WEAK VILLAIN"
+WVillBtn.TextColor3 = Color3.new(1, 1, 1)
+WVillBtn.TextSize = 14
+
+VillBtn.Name = "VillBtn"
+VillBtn.Parent = Body
+VillBtn.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
+VillBtn.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+VillBtn.BorderSizePixel = 2
+VillBtn.Position = UDim2.new(0, 128, 0, 33)
+VillBtn.Size = UDim2.new(0, 116, 0, 21)
+VillBtn.Font = Enum.Font.SourceSansItalic
+VillBtn.Text = "VILLAIN"
+VillBtn.TextColor3 = Color3.new(1, 1, 1)
+VillBtn.TextSize = 14
+
+NomuBtn.Name = "NomuBtn"
+NomuBtn.Parent = Body
+NomuBtn.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
+NomuBtn.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+NomuBtn.BorderSizePixel = 2
+NomuBtn.Position = UDim2.new(0, 128, 0, 61)
+NomuBtn.Size = UDim2.new(0, 116, 0, 21)
+NomuBtn.Font = Enum.Font.SourceSansItalic
+NomuBtn.Text = "NOUMU"
+NomuBtn.TextColor3 = Color3.new(1, 1, 1)
+NomuBtn.TextSize = 14
+
+PolBtn.Name = "PolBtn"
+PolBtn.Parent = Body
+PolBtn.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
+PolBtn.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+PolBtn.BorderSizePixel = 2
+PolBtn.Position = UDim2.new(0, 5, 0, 5)
+PolBtn.Size = UDim2.new(0, 116, 0, 21)
+PolBtn.Font = Enum.Font.SourceSansItalic
+PolBtn.Text = "POLICE"
+PolBtn.TextColor3 = Color3.new(1, 1, 1)
+PolBtn.TextSize = 14
+
+CrimBtn.Name = "CrimBtn"
+CrimBtn.Parent = Body
+CrimBtn.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
+CrimBtn.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+CrimBtn.BorderSizePixel = 2
+CrimBtn.Position = UDim2.new(0, 128, 0, 5)
+CrimBtn.Size = UDim2.new(0, 116, 0, 21)
+CrimBtn.Font = Enum.Font.SourceSansItalic
+CrimBtn.Text = "CRIMINAL"
+CrimBtn.TextColor3 = Color3.new(1, 1, 1)
+CrimBtn.TextSize = 14
+
+TomBtn.Name = "TomBtn"
+TomBtn.Parent = Body
+TomBtn.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
+TomBtn.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+TomBtn.BorderSizePixel = 2
+TomBtn.Position = UDim2.new(0, 128, 0, 89)
+TomBtn.Size = UDim2.new(0, 116, 0, 21)
+TomBtn.Font = Enum.Font.SourceSansItalic
+TomBtn.Text = "TOMURA"
+TomBtn.TextColor3 = Color3.new(1, 1, 1)
+TomBtn.TextSize = 14
+
+UASBtn.Name = "UASBtn"
+UASBtn.Parent = Body
+UASBtn.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
+UASBtn.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+UASBtn.BorderSizePixel = 2
+UASBtn.Position = UDim2.new(0, 5, 0, 89)
+UASBtn.Size = UDim2.new(0, 116, 0, 21)
+UASBtn.Font = Enum.Font.SourceSansItalic
+UASBtn.Text = "UA STUDENTS"
+UASBtn.TextColor3 = Color3.new(1, 1, 1)
+UASBtn.TextSize = 14
+
+EndBtn.Name = "EndBtn"
+EndBtn.Parent = Body
+EndBtn.BackgroundColor3 = Color3.new(0.772549, 0, 0)
+EndBtn.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+EndBtn.BorderSizePixel = 2
+EndBtn.Position = UDim2.new(0, 128, 0, 117)
+EndBtn.Size = UDim2.new(0, 116, 0, 21)
+EndBtn.Font = Enum.Font.SourceSansItalic
+EndBtn.Text = "ENDEAVOR"
+EndBtn.TextColor3 = Color3.new(0, 0, 0)
+EndBtn.TextSize = 14
+
+AllMBtn.Name = "AllMBtn"
+AllMBtn.Parent = Body
+AllMBtn.BackgroundColor3 = Color3.new(0.764706, 0.764706, 0)
+AllMBtn.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+AllMBtn.BorderSizePixel = 2
+AllMBtn.Position = UDim2.new(0, 5, 0, 117)
+AllMBtn.Size = UDim2.new(0, 116, 0, 21)
+AllMBtn.Font = Enum.Font.SourceSansItalic
+AllMBtn.Text = "ALL MIGHT"
+AllMBtn.TextColor3 = Color3.new(0, 0, 0)
+AllMBtn.TextSize = 14
+
+TextLabel.Parent = Body
+TextLabel.BackgroundColor3 = Color3.new(1, 1, 1)
+TextLabel.BackgroundTransparency = 1
+TextLabel.BorderSizePixel = 0
+TextLabel.Position = UDim2.new(0, 0, 0.925000012, 1)
+TextLabel.Size = UDim2.new(0, 249, 0, 11)
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.Text = "CLICK ON A NPC TO START FARMING"
+TextLabel.TextColor3 = Color3.new(1, 1, 1)
+TextLabel.TextSize = 13
+
+StopBtn.Name = "EndBtn"
+StopBtn.Parent = TitleFrm
+StopBtn.BackgroundColor3 = Color3.new(0.772549, 0, 0)
+StopBtn.BorderColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+StopBtn.BorderSizePixel = 2
+StopBtn.Position = UDim2.new(0, 5, 0, 166)
+StopBtn.Size = UDim2.new(0, 239, 0, 21)
+StopBtn.Font = Enum.Font.SourceSansSemibold
+StopBtn.Text = "STOP FARMING"
+StopBtn.TextColor3 = Color3.new(0, 0, 0)
+StopBtn.TextSize = 14
+
+local plr = game.Players.LocalPlayer
+local Quirk = ""
+local FarmV = false
+local WP = ""
+local ANPC = ""
+
+local function FindQ()
+for i,v in pairs(game.Workspace[game.Players.LocalPlayer.Name]:GetChildren())do
+if string.match(v.Name, "Quirk") then
+Quirk = v.Name
+end
+end
+for i,v in pairs(game.Players.LocalPlayer.PlayerGui.Menu.Menu.Inventory.Weapons:GetChildren())do
+if v:IsA("ImageButton")then
+game.ReplicatedStorage.WeaponShop.Equip:FireServer(v.Name)
+WP = v.Name
+end
+end
+plr.Character:WaitForChild("Humanoid").Died:Connect(function()
+if FarmV then
+FarmV = false
+wait(7)
+FarmV = true
+Farm(ANPC)end
+end)
+end
+
+function Farm(npc)
+FindQ()
+while true do
+if FarmV then
+for i,v in pairs(game.Workspace.NPCs:GetChildren())do
+if v.Name == npc and v.Humanoid.Health > 0 then
+while v.Humanoid.Health > 0 do
+if not FarmV then break end
+if game.Workspace[game.Players.LocalPlayer.Name].Humanoid.Health > 0 then
+plr.Character.HumanoidRootPart.CFrame = v.HumanoidRootPart.CFrame + v.HumanoidRootPart.CFrame.lookVector * -3
+game.Workspace[game.Players.LocalPlayer.Name][Quirk].E:FireServer()
+game.Workspace[game.Players.LocalPlayer.Name].Main.Swing:FireServer(v.HumanoidRootPart.CFrame)
+wait()
+else
+wait()
+end
+end
+end
+end
+else
+break
+end
+end
+end
+CloseBtn.MouseButton1Down:Connect(function()
+BokunoRobloxGUI:Destroy()
+end)
+HeroBtn.MouseButton1Down:Connect(function()
+if not FarmV then
+FarmV = true
+ANPC="Hero"
+Farm("Hero")end
+end)
+WVillBtn.MouseButton1Down:Connect(function()
+if not FarmV then
+FarmV = true
+ANPC="Weak Villain"
+Farm("Weak Villain")end
+end)
+VillBtn.MouseButton1Down:Connect(function()
+if not FarmV then
+FarmV = true
+ANPC="Villain"
+Farm("Villain")end
+end)
+NomuBtn.MouseButton1Down:Connect(function()
+if not FarmV then
+FarmV = true
+ANPC="Noumu"
+Farm("Noumu")end
+end)
+CrimBtn.MouseButton1Down:Connect(function()
+if not FarmV then
+FarmV = true
+ANPC="Criminal"
+Farm("Criminal")end
+end)
+PolBtn.MouseButton1Down:Connect(function()
+if not FarmV then
+FarmV = true
+ANPC="Police"
+Farm("Police")end
+end)
+TomBtn.MouseButton1Down:Connect(function()
+if not FarmV then
+FarmV = true
+Farm("Tomura")
+ANPC="Tomura"end
+end)
+UASBtn.MouseButton1Down:Connect(function()
+if not FarmV then
+FarmV = true
+ANPC="UA Student"
+Farm("UA Student")end
+end)
+EndBtn.MouseButton1Down:Connect(function()
+if not FarmV then
+FarmV = true
+ANPC="Endeavor"
+Farm("Endeavor")end
+end)
+AllMBtn.MouseButton1Down:Connect(function()
+if not FarmV then
+FarmV = true
+ANPC="All Might 1"
+Farm("All Might 1")end
+end)
+StopBtn.MouseButton1Down:Connect(function()
+FarmV = false
+end)

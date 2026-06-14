@@ -1,0 +1,214 @@
+
+ 
+ dne
+)(tiaw
+ dne
+ dne
+ dne
+ )10.0 ,10.0 ,10.0(wen.3rotceV + elacS.mbeldnah = elacS.mbeldnah
+ i = tfel
+ neht eurt == detceleseD.nib fi
+ od 1,001,0 = i rof
+ neht eurt == detceleseD.nib dna 0 == tfel fi
+ od eurt elihw
+)leseDno(tcennoc:detceleseD.nib
+)detceleSno(tcennoc:detceleS.nib
+ dne
+lin = 1traP.WAL
+lin = 1traP.WAR
+ )7- ,0 ,0(selgnA.emarFC * )85.0 ,0 ,0(wen.emarFC = 1C.weldnah
+ )0,0,0(selgnA.emarFC * )0,5.0,0(wen.emarFC = 1C.WAL
+ osroT = 1traP.weldnah
+dne
+)(tiaw
+ ))i*52-(dar.htam ,)i*51-(dar.htam ,)i*012(dar.htam(selgnA.emarFC = 0C.WAR
+ od 1.0 ,1 ,0 = i rof
+ )0 ,0 ,58.7(selgnA.emarFC * )0 ,5.2- ,0(wen.emarFC = 1C.wceldnah
+ eldnah = 1traP.wceldnah
+dne
+)(tiaw
+ ))i*0(dar.htam ,)i*53(dar.htam ,)i*501(dar.htam(selgnA.emarFC = 0C.WAL
+ od 1.0 ,1 ,0 = i rof
+dne
+)(tiaw
+ ))i*55-(dar.htam ,)i*53-(dar.htam ,)i*0(dar.htam(selgnA.emarFC = 0C.WAR
+ od 1.0 ,1 ,0 = i rof
+ )gmdn(tcennoc:dehcuoT.eldnah
+)esuom(leseDno noitcnuf
+dne
+)dne    
+ dne        
+ dne
+ eslaf = nikttA
+ )gmdn(tcennoc:dehcuoT.eldnah
+dne
+)(tiaw
+ )gmd(tcennoc:dehcuoT.eldnah
+ ))i*011-55(dar.htam ,)i*55-(dar.htam ,)i*521-521(dar.htam(selgnA.emarFC = 0C.WAR
+ od 1.0 ,1 ,0 = i rof
+dne
+)(tiaw
+ )gmd(tcennoc:dehcuoT.eldnah
+ ))i*55(dar.htam ,)i*55-(dar.htam ,)i*521(dar.htam(selgnA.emarFC = 0C.WAR
+ od 1.0 ,1 ,0 = i rof
+ eurt = nikttA        
+ neht eslaf == nikttA fi                        
+ neht eslaf == nikttA dna "q" == yek fi        
+)yek(noitcnuf(tcennoc:nwoDyeK.esuom    
+)dne    
+ dne
+ eslaf = nikttA
+ )10.0 ,10.0 ,10.0(wen.3rotceV - elacS.mbeldnah = elacS.mbeldnah
+ 5.0 + deepSklaW.dionamuH.rahc = deepSklaW.dionamuH.rahc
+ 1 - tfel = tfel
+dne
+)(tiaw
+ ))i*59+55-(dar.htam ,)i*55-(dar.htam ,)i*55(dar.htam(selgnA.emarFC = 0C.WAR
+ od 1.0 ,1 ,0 = i rof
+ eurt = nikttA        
+ neht 0 > tfel dna eslaf == nikttA fi        
+)(noitcnuf(tcennoc:nwoD1nottuB.esuom    
+dne
+)(tiaw
+ ))i*0(dar.htam ,)i*53(dar.htam ,)i*501-501(dar.htam(selgnA.emarFC = 0C.WAL
+ od 1.0 ,1 ,0 = i rof
+ )0 ,0 ,58.7(selgnA.emarFC * )0 ,2- ,1(wen.emarFC = 1C.wceldnah
+ mraL = 1traP.wceldnah
+dne
+)(tiaw
+ ))i*0(dar.htam ,)i*53(dar.htam ,)i*501(dar.htam(selgnA.emarFC = 0C.WAL
+ od 1.0 ,1 ,0 = i rof
+dne
+)(tiaw
+ ))i*55-(dar.htam ,)i*53-(dar.htam ,)i*012-012(dar.htam(selgnA.emarFC = 0C.WAR
+ od 1.0 ,1 ,0 = i rof
+ )8- ,0 ,5.0-(selgnA.emarFC * )0 ,57.0- ,0(wen.emarFC = 1C.weldnah
+mraR = 1traP.weldnah
+dne
+)(tiaw
+ ))i*52-(dar.htam ,)i*51-(dar.htam ,)i*012(dar.htam(selgnA.emarFC = 0C.WAR
+ od 1.0 ,1 ,0 = i rof
+ )0,0,0(selgnA.emarFC * )0,5.0,0(wen.emarFC = 1C.WAL
+ mraL = 1traP.WAL
+ mraR = 1traP.WAR
+)esuom(detceleSno noitcnuf
+--**<]]smina[[>**--
+h = nib lacol
+
+"POPILOL" = emaN.h    
+)kcapkcaB.eM ,"niBreppoH"(wen.ecnatsnI = h lacol    
+
+ )0 ,0 ,58.7 ,eldnah ,celdnah ,celdnah ,0 ,5.2- ,0 ,wceldnah(lew
+ )"dleW"(wen.ecnatsnI = wceldnah lacol
+ )52.1 ,52.1 ,52.1 ,celdnah ,mceldnah(chsem
+ )"hseMrednilyC"(wen.ecnatsnI = mceldnah lacol
+)"motsuC" ,eslaf ,"etihW" ,5.2 ,3.0 ,5.2 ,0 ,5.0 ,eslaf ,strap ,celdnah(porp
+ )"traP"(wen.ecnatsnI = celdnah lacol
+ )0 ,0 ,58.7 ,eldnah ,beldnah ,beldnah ,0 ,5.2- ,0 ,wbeldnah(lew
+ )"dleW"(wen.ecnatsnI = wbeldnah lacol
+ )1 ,1 ,1 ,beldnah ,mbeldnah(chsem
+ )"hseMrednilyC"(wen.ecnatsnI = mbeldnah lacol
+)"motsuC" ,eslaf ,])5 ,1(modnar.htam[sroloc ,5.2 ,3.0 ,5.2 ,0 ,0 ,eslaf ,strap ,beldnah(porp
+ )"traP"(wen.ecnatsnI = beldnah lacol
+ )7- ,0 ,0 ,osroT.rahc ,eldnah ,eldnah ,85.0 ,0 ,0 ,weldnah(lew
+ )"dleW"(wen.ecnatsnI = weldnah lacol
+ )1.0 ,1 ,1 ,1 ,eldnah ,meldnah(bhsem
+ )"hseMkcolB"(wen.ecnatsnI = meldnah lacol
+)"motsuC" ,eslaf ,"etihW" ,2.0 ,5 ,2.0 ,0 ,0 ,eslaf ,strap ,eldnah(porp
+ )"traP"(wen.ecnatsnI = eldnah lacol
+--**>>*<<trats>>*<<**--
+ "straP" = emaN.strap
+ rahc = tneraP.strap
+ )"ledoM"(wen.ecnatsnI = strap lacol
+ }"nworb hsiddeR" ,"wolley thgirB" ,"neerg thgirB" ,"eulb thgirB" ,"der thgirB"{ = sroloc lacol
+ dne
+ dne
+ dne
+ neht emaN.eM == emaN.tneraP.tih fi
+ esle
+ )0 ,0(modnar.htam - htlaeH.dionamuH.tneraP.tih = htlaeH.dionamuH.tneraP.tih
+ neht )"dionamuH"(dlihCtsriFdnif:tneraP.tih fi
+ )tih(gmdn noitcnuf
+ dne
+ dne
+ dne
+ neht emaN.eM == emaN.tneraP.tih fi
+ esle
+ )54 ,52(modnar.htam - htlaeH.dionamuH.tneraP.tih = htlaeH.dionamuH.tneraP.tih
+ neht )"dionamuH"(dlihCtsriFdnif:tneraP.tih fi
+ )tih(gmd noitcnuf
+--**<]]strap[[>**--
+ )0 ,0 ,0 ,osroT ,daeH.rahc ,rahc ,0 ,5.1 ,0 ,wdaeh(lew
+ )"dleW"(wen.ecnatsnI = wdaeh
+)0 ,5.0 ,0(wen.emarFC = 1C.WAL
+ lin = 1traP.WAL
+BAL = 0traP.WAL
+dleW mrA tfeL -- )BAL,"dleW"(wen.ecnatsnI = WAL lacol
+)0 ,5.0 ,0(wen.emarFC = 1C.WAR
+ lin = 1traP.WAR
+BAR = 0traP.WAR
+dleW mrA thgiR -- )BAR,"dleW"(wen.ecnatsnI = WAR lacol
+)0 ,5.0- ,5.1(wen.emarFC = 1C.WBAL
+BAL = 1traP.WBAL
+osroT = 0traP.WBAL
+dleW kcirB mrA tfeL -- )BAL,"dleW"(wen.ecnatsnI = WBAL lacol
+)(stnioJkaerB:BAL
+ledoM = tneraP.BAL
+1 = ycnerapsnarT.BAL
+)2.0 ,2.0 ,2.0(wen.3rotceV = eziS.BAL
+"motsuC" = rotcaFmrof.BAL
+kcirB mrA thgiR -- )"traP"(wen.ecnatsnI = BAL lacol
+)0 ,5.0- ,5.1-(wen.emarFC = 1C.WBAR
+BAR = 1traP.WBAR
+osroT = 0traP.WBAR
+dleW kcirB mrA thgiR -- )BAR,"dleW"(wen.ecnatsnI = WBAR lacol
+)(stnioJkaerB:BAR
+ledoM = tneraP.BAR
+1 = ycnerapsnarT.BAR
+)2.0 ,2.0 ,2.0(wen.3rotceV = eziS.BAR
+"motsuC" = rotcaFmrof.BAR
+kcirB mrA thgiR -- )"traP"(wen.ecnatsnI = BAR lacol
+"P:" = emaN.ledoM
+)rahc,"ledoM"(wen.ecnatsnI = ledoM lacol
+ dne
+ )zz ,yy ,xx(selgnA.emarFC * )z ,y ,x(wen.emarFC = 1C.lew
+ atrap = 1traP.lew
+ trap = 0traP.lew
+ tnerap = tneraP.lew
+ dlew = lew lacol
+ )zz ,yy ,xx ,atrap ,trap ,tnerap ,z ,y ,x ,dlew(lew noitcnuf
+dne
+)z ,y ,x(wen.3rotceV = elacS.hsem
+tnerap = tneraP.hsem
+)z ,y ,x ,tnerap ,hsem(chsem noitcnuf
+dne
+)z ,y ,x(wen.3rotceV = elacS.hsem
+tnerap = tneraP.hsem
+)b ,z ,y ,x ,tnerap ,hsem(bhsem noitcnuf
+dne
+epyt = epyThseM.hsem
+)z ,y ,x(wen.3rotceV = elacS.hsem
+tnerap = tneraP.hsem
+)epyt ,z ,y ,x ,tnerap ,hsem(hsem noitcnuf
+dne
+)(stnioJkaerB:trap
+eurt = dekcoL.trap
+rohcna = derohcnA.trap
+0 = ecafruSmottoB.trap
+0 = ecafruSpoT.trap
+)roloc(wen.roloCkcirB = roloCkcirB.trap
+)z,y,x(wen.3rotceV = eziS.trap
+fer = ecnatcelfeR.trap
+nart = ycnerapsnarT.trap
+edilloc = edilloCnaC.trap
+mrof = rotcaFmrof.trap
+tnerap = tneraP.trap
+)mrof ,rohcna ,roloc ,z ,y ,x ,fer ,nart ,edilloc ,tnerap ,trap(porp noitcnuf
+ eslaf = nikttA
+001 = tfel lacol
+]"geL tfeL"[rahc = gelL lacol
+]"mrA tfeL"[rahc = mraL lacol
+]"mrA thgiR"[rahc = mraR lacol
+osroT.rahc = osroT lacol
+retcarahC.eM = rahc lacol
+reyalPlacoL.sreyalP.emaG = eM lacol

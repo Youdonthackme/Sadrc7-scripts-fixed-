@@ -1,0 +1,409 @@
+
+)()dne
+dne        
+dne                
+dne                        
+dne                                
+eurt == gnillaFeerF ro eurt == pmuJ.muH ro eurt == gnikcattA ro eurt == gniklaW litnu )(tiaw taeper                                        
+dne                                        
+)2.,)0,0,)09-(rm(ac*)0,1-,0(fc,0C.WeldnaH(prelc = 0C.WeldnaH                                                
+)2.,))5(rm,0,)09(rm(ac*)0,5.,5.1(fc,0C.WaR(prelc = 0C.WaR                                                
+dne kaerb neht eurt == gnikcattA ro eurt == gniklaW fi                                                
+)20.(tiaw                                                
+od 02,0 = i rof                                        
+dne                                        
+)4.,)0,0,)09-(rm(ac*)0,1-,0(fc,0C.WeldnaH(prelc = 0C.WeldnaH                                                
+)4.,))5(rm,0,)001(rm(ac*)0,5.,5.1(fc,0C.WaR(prelc = 0C.WaR                                                
+dne kaerb neht eurt == gnikcattA ro eurt == gniklaW fi                                                
+)20.(tiaw                                                
+od 01,0 = i rof                                        
+esle                                
+eurt == gnikcattA ro eurt == gnillaFeerF ro eslaf == pmuJ.muH litnu )(tiaw taeper                                        
+dne                                        
+)5.,)0,0,)09-(rm(ac*)0,1-,0(fc,0C.WeldnaH(prelc = 0C.WeldnaH                                                
+)5.,))03(rm,0,)0(rm(ac*)0,5.,5.1(fc,0C.WaR(prelc = 0C.WaR                                                
+dne kaerb neht eurt == gnikcattA ro eslaf == pmuJ.muH fi                                                
+)20.(tiaw                                                
+od 5,0 = i rof                                        
+neht eurt == pmuJ.muH fiesle                                
+eurt == gnikcattA ro eslaf == gnillaFeerF litnu )(tiaw taeper                                        
+dne                                        
+)5.,)0,0,)001-(rm(ac*)0,1-,0(fc,0C.WeldnaH(prelc = 0C.WeldnaH                                                
+)5.,))001(rm,0,)0(rm(ac*)0,5.,5.1(fc,0C.WaR(prelc = 0C.WaR                                                
+dne kaerb neht eurt == gnikcattA ro eslaf == pmuJ.muH fi                                                
+)20.(tiaw                                                
+od 5,0 = i rof                                        
+neht eurt == gnillaFeerF fi                                
+esle                        
+eurt == gnikcattA ro eslaf == gniklaW litnu )(tiaw taeper                                
+dne                                
+)5.,)0,0,)531-(rm(ac*)0,1-,0(fc,0C.WeldnaH(prelc = 0C.WeldnaH                                        
+)5.,))02(rm,0,)0(rm(ac*)0,5.,5.1(fc,0C.WaR(prelc = 0C.WaR                                        
+dne kaerb neht eurt == gnikcattA ro eslaf == gniklaW fi                                        
+)20.(tiaw                                        
+od 5,0 = i rof                                
+neht eurt == gniklaW fi                        
+neht eslaf == gnikcattA fi                
+)20.(tiaw                
+od eurt elihw        
+)(noitcnuf(wc
+)dne
+dne        
+dne                
+)5.,)0,)081(rm,)09-(rm(ac*)0,1-,0(fc,0C.WeldnaH(prelc = 0C.WeldnaH--                        
+)5.,))0(rm,0,)001(rm(ac*)0,5.,5.1(fc,0C.WaR(prelc = 0C.WaR                        
+)20.(tiaw                        
+od 5,0 = i rof                
+)1(tiaw                
+eslaf = mia                
+dne                
+)5.,)0,)081(rm,)09-(rm(ac*)0,1-,0(fc,0C.WeldnaH(prelc = 0C.WeldnaH--                        
+)5.,))0(rm,0,)54-(rm(ac*)0,5.,5.1(fc,0C.WaR(prelc = 0C.WaR                        
+)20.(tiaw                        
+od 5,0 = i rof                
+)()dne                
+eslaf = gnikcattA                        
+)0,0,)09-(rm(ac*)0,1-,0(fc = 0C.WeldnaH                        
+aR = 0traP.WeldnaH                        
+                        
+eslaf = derohcnA.eldnaH                        
+)2.(tiaw                        
+dne                        
+)2.,)0,0,)09-(rm(ac*)0,1-,0(fc*emarFC.aR,emarFC.eldnaH(prelc = emarFC.eldnaH                                
+)200.(tiaw                                
+od 03,0 = i rof                        
+eurt = tiHdid                        
+dne                        
+eurt = derohcnA.eldnaH                                
+)(yortseD:ew                                
+dne                                
+dne                                        
+dne                                                
+eurt = tiHdid                                                        
+neht eurt == x fi                                                
+ )0,)5,2(modnar.htam,tih(cnuFegamaD = x lacol                                                
+esle                                        
+kaerb                                                
+neht lin == tih ro eurt == tiHdid fi                                        
+)1.(tiaw                                        
+od 1.,01,0 = i rof                                
+ )1.,egamaDworhT,tih(cnuFegamaD                                
+))emarFC.tih(ecapStcejbOot:zfc,tih,eldnaH,eldnaH(w = ew lacol                                
+eslaf = derohcnA.eldnaH                                
+)0,3-,0(fc*)0,0,2/ip.htam(ac*)p.))0,01-,0(fc*emarFC.eldnaH(,sop(fc = zfc lacol                                
+neht lin=~tih dna eurt == zepyt fi                        
+eslaf = mia                        
+eslaf = tiHdid                        
+dne                        
+dne kaerb neht eurt == tiHdid fi                                
+)0,x,0(3v+tiH = tiH                                
+)0,i,0(fc*)0,0,)09-(rm(ac*)tiH,p.fceldnah(fc = emarFC.eldnaH                                
+10.-x = x                                
+1 + d = d                                
+dne                                
+0 = d                                        
+)20.(tiaw                                        
+neht 3 == d fi                                
+od 2,005,0 = i rof                        
+0 = x lacol                        
+)()dne                        
+eurt == tiHdid litnu                                
+dne                                        
+eurt = zepyt                                                
+h = tih                                                
+p = sop                                                
+eurt = tiHdid                                                
+neht 5. => sid dna lin =~ h fi                                        
+)p(fc = emarFC.P eurt = derohcnA.P)eslaf,0,"revliS",)1,1,1(3v,ecapskroW(trap=P lacol--                                        
+edutingam.)p-p.emarFC.eldnaH( = sid lacol                                        
+)rahC,r(yaRnOtraPdniF:ecapskrow = p,h lacol                                        
+)01*tinu.)p.emarFC.eldnaH-tiH(,p.emarFC.eldnaH(wen.yaR = r lacol                                        
+)200.(tiaw taeper                                
+ )(noitcnuf(wc                        
+0 = d lacol                        
+lin = tih lacol                        
+)(3v = sop lacol                        
+eslaf = zepyt lacol                        
+eslaf = tiHdid                        
+)0,0,)09-(rm(ac*)tiH,p.fceldnah(fc = emarFC.eldnaH                        
+eurt = derohcnA.eldnaH                        
+lin = 0traP.WeldnaH                        
+p.tiH.esuoM = tiH lacol                        
+emarFC.eldnaH = fceldnah lacol                        
+)2.(tiaw                        
+)(noitcnuf(wc                
+)50.(tiaw                
+dne                
+)5.,))081(rm,0,)09-(rm(ac*)0,1-,0(fc,0C.WeldnaH(prelc = 0C.WeldnaH                        
+)5.,))0(rm,0,)071(rm(ac*)0,5.,5.1(fc,0C.WaR(prelc = 0C.WaR                        
+)20.(tiaw                        
+od 5,0 = i rof                
+)()dne                
+)(yortseD:gbrot                        
+dne                        
+))z.p.tiH.esuoM,y.p.emarFC.osroT,x.p.tiH.esuoM(3v,p.emarFC.osroT(fc = emarfc.gbrot                                
+)20.(tiaw                                
+od mia elihw                        
+)(noitcnuf(wc                
+00005 = P.gbrot                
+0 = D.gbrot                
+eguh.htam*)(3v = euqroTxam.gbrot                
+))z.p.tiH.esuoM,y.p.emarFC.osroT,x.p.tiH.esuoM(3v,p.emarFC.osroT(fc = emarfc.gbrot                
+)osroT,"oryGydoB"(wen.ecnatsnI = gbrot lacol                
+eurt = mia lacol                
+eurt = gnikcattA                
+neht eslaf == gnikcattA fi        
+eurt = tiHdid        
+)(noitcnuf(tcennoc:nwoD1nottuB.esuoM
+)dne
+dne        
+dne                
+)5.,)0,)081(rm,)09-(rm(ac*)0,1-,0(fc,0C.WeldnaH(prelc = 0C.WeldnaH--                        
+)5.,))0(rm,0,)001(rm(ac*)0,5.,5.1(fc,0C.WaR(prelc = 0C.WaR                        
+)20.(tiaw                        
+od 5,0 = i rof                
+)1(tiaw                
+eslaf = mia                
+dne                
+)5.,)0,)081(rm,)09-(rm(ac*)0,1-,0(fc,0C.WeldnaH(prelc = 0C.WeldnaH--                        
+)5.,))0(rm,0,)54-(rm(ac*)0,5.,5.1(fc,0C.WaR(prelc = 0C.WaR                        
+)20.(tiaw                        
+od 5,0 = i rof                
+)()dne                
+eslaf = gnikcattA                        
+)0,0,)09-(rm(ac*)0,1-,0(fc = 0C.WeldnaH                        
+aR = 0traP.WeldnaH                        
+                        
+eslaf = derohcnA.eldnaH                        
+)2.(tiaw                        
+dne                        
+)3.,)0,0,)09-(rm(ac*)0,1-,0(fc*emarFC.aR,emarFC.eldnaH(prelc = emarFC.eldnaH                                
+)200.(tiaw                                
+od 02,0 = i rof                        
+eurt = tiHdid                        
+dne                        
+eurt = derohcnA.eldnaH                                
+)(yortseD:ew                                
+)(yortseD:pb                                
+eurt == tiHdid litnu noitisoP.gnir = noitisop.pb)(tiaw taeper                                
+eguh.htam*)(3v = ecroFxam.pb                                
+noitisoP.gnir = noitisop.pb                                
+)osroT,"noitisoPydoB"(wen.ecnatsnI = pb lacol                                
+))emarFC.tih(ecapStcejbOot:zfc,tih,eldnaH,eldnaH(w = ew lacol                                
+eslaf = derohcnA.eldnaH                                
+)0,3-,0(fc*)0,0,2/ip.htam(ac*)p.))0,01-,0(fc*emarFC.eldnaH(,sop(fc = zfc lacol                                
+neht lin=~tih dna eurt == zepyt fi                        
+eslaf = mia                        
+eslaf = tiHdid                        
+dne                        
+dne kaerb neht eurt == tiHdid fi                                
+)0,i,0(fc*)0,0,)09-(rm(ac*)tiH,p.fceldnah(fc = emarFC.eldnaH                                
+1.-x = x                                
+1 + d = d                                
+dne                                
+0 = d                                        
+)20.(tiaw                                        
+neht 3 == d fi                                
+od 2,005,0 = i rof                        
+)()dne                        
+)(yortseD:p                                
+dne                                
+)2/ecnatsid-,52.-,0(fc*)noitisoP.gnir,p.))0,1-,0(fc*emarFC.aR((fc = emarFC.p                                        
+ )ecnatsid,2.,2.(3v=eziS.p                                        
+edutingam.)noitisoP.gnir-p.))0,1-,0(fc*emarFC.aR(( = ecnatsid                                        
+)20.(tiaw                                        
+od lin =~ p dna eurt == gnikcattA elihw                                
+)(noitcnuf(wc                        
+)2/ecnatsid-,2.-,0(fc*)noitisoP.gnir,p.))0,1-,0(fc*emarFC.aR((fc = emarFC.p eurt = derohcnA.p)eslaf,0,"revliS",)ecnatsid,2.,2.(3v,niaM(trap = p lacol                        
+edutingam.)noitisoP.gnir-p.))0,1-,0(fc*emarFC.aR(( = ecnatsid lacol                        
+0 = x lacol                        
+)()dne                        
+eurt == tiHdid litnu                                
+dne                                        
+eurt = zepyt                                                
+h = tih                                                
+p = sop                                                
+eurt = tiHdid                                                
+neht 5. => sid dna lin =~ h fi                                        
+)p(fc = emarFC.P eurt = derohcnA.P)eslaf,0,"revliS",)1,1,1(3v,ecapskroW(trap=P lacol--                                        
+edutingam.)p-p.emarFC.eldnaH( = sid lacol                                        
+)rahC,r(yaRnOtraPdniF:ecapskrow = p,h lacol                                        
+)01*tinu.)p.emarFC.eldnaH-tiH(,p.emarFC.eldnaH(wen.yaR = r lacol                                        
+)200.(tiaw taeper                                
+ )(noitcnuf(wc                        
+0 = d lacol                        
+lin = tih lacol                        
+)(3v = sop lacol                        
+eslaf = zepyt lacol                        
+eslaf = tiHdid                        
+)0,0,)09-(rm(ac*)tiH,p.fceldnah(fc = emarFC.eldnaH                        
+eurt = derohcnA.eldnaH                        
+lin = 0traP.WeldnaH                        
+p.tiH.esuoM = tiH lacol                        
+emarFC.eldnaH = fceldnah lacol                        
+)2.(tiaw                        
+)(noitcnuf(wc                
+)50.(tiaw                
+dne                
+)5.,))081(rm,0,)09-(rm(ac*)0,1-,0(fc,0C.WeldnaH(prelc = 0C.WeldnaH                        
+)5.,))0(rm,0,)071(rm(ac*)0,5.,5.1(fc,0C.WaR(prelc = 0C.WaR                        
+)20.(tiaw                        
+od 5,0 = i rof                
+)()dne                
+)(yortseD:gbrot                        
+dne                        
+))z.p.tiH.esuoM,y.p.emarFC.osroT,x.p.tiH.esuoM(3v,p.emarFC.osroT(fc = emarfc.gbrot                                
+)20.(tiaw                                
+od mia elihw                        
+)(noitcnuf(wc                
+00005 = P.gbrot                
+0 = D.gbrot                
+eguh.htam*)(3v = euqroTxam.gbrot                
+))z.p.tiH.esuoM,y.p.emarFC.osroT,x.p.tiH.esuoM(3v,p.emarFC.osroT(fc = emarfc.gbrot                
+)osroT,"oryGydoB"(wen.ecnatsnI = gbrot lacol                
+eurt = mia lacol                
+eurt = gnikcattA                
+eurt = tiHdid                
+neht eslaf == gnikcattA dna "q" == yeK fi        
+)yeK(noitcnuf(tcennoc:nwoDyeK.esuoM
+eslaf = tiHdid lacol
+]])dne
+dne        
+eslaf = gnillaFeerF                
+esle        
+eurt = gnillaFeerF                
+neht eurt == s fi        
+)s(noitcnuf(tcennoc:gnillaFeerF.muH[[--
+)dne
+dne        
+eurt = gniklaW                
+esle        
+eslaf = gniklaW                
+neht 0 == s fi        
+)s(noitcnuf(tcennoc:gninnuR.muH
+))0,4,0(fc,xobtih,ffats,xobtih(w)eslaf,1,"revliS",)52.1,3,3.(3v,niaM(trap = xobtih
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,)081(rm(ac*)2/2.,576.4,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,52.,2.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,0,)081(rm(ac*)2/2.-,576.4,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,52.,2.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,0(ac*)2/52.-,578.3,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,52.,2.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))2/52.,578.3,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,52.,2.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))520.-2/5212.-,521.5,0(fc,p,ffats,p(w)eslaf,0,"revliS",)572.,57.,2.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,0(ac*)520.+2/5212.,521.5,0(fc,p,ffats,p(w)eslaf,0,"revliS",)572.,57.,2.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))61.-,5,0(fc,p,ffats,p(w)eslaf,0,"revliS",)523.,5.,2.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,0(ac*)61.,5,0(fc,p,ffats,p(w)eslaf,0,"revliS",)523.,5.,2.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))5212.-,578.4,0(fc,p,ffats,p(w)eslaf,0,"revliS",)524.,52.,2.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,0(ac*)5212.,578.4,0(fc,p,ffats,p(w)eslaf,0,"revliS",)524.,52.,2.(3v,niaM(trap = p lacol
+))3.-,52.4,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,1,2.(3v,niaM(trap = p lacol
+))3.,52.4,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,1,2.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,)081(rm(ac*)3.-,526.3,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,52.,2.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,0,)081(rm(ac*)3.,526.3,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,52.,2.(3v,niaM(trap = p lacol
+))0,52.3,0(fc,p,ffats,p(w)eslaf,0,"revliS",)4.,1,2.(3v,niaM(trap = p lacol
+piT--
+))1,1,1(3v,"egdeW","","",p(hsem))53.,50.3,0(fc,p,ffats,p(w)eslaf,0,"revliS",)3.,5.,52.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,0(ac*)53.-,50.3,0(fc,p,ffats,p(w)eslaf,0,"revliS",)3.,5.,52.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))3.,3,0(fc,p,ffats,p(w)eslaf,0,"revliS",)4.,4.,52.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,0(ac*)3.-,3,0(fc,p,ffats,p(w)eslaf,0,"revliS",)4.,4.,52.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))52.,59.2,0(fc,p,ffats,p(w)eslaf,0,"revliS",)5.,3.,52.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,0(ac*)52.-,59.2,0(fc,p,ffats,p(w)eslaf,0,"revliS",)5.,3.,52.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,)081(rm(ac*)52.-,576.2,0(fc,p,ffats,p(w)eslaf,0,"revliS",)5.,52.,52.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,0,)081(rm(ac*)52.,576.2,0(fc,p,ffats,p(w)eslaf,0,"revliS",)5.,52.,52.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,)081(rm(ac*)2/53.-,6.2,0(fc,p,ffats,p(w)eslaf,0,"revliS",)53.,53.,52.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,0,)081(rm(ac*)2/53.,6.2,0(fc,p,ffats,p(w)eslaf,0,"revliS",)53.,53.,52.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,)081(rm,)081(rm(ac*)2/52.-,55.2,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,5.,52.(3v,niaM(trap = p lacol
+))1,1,1(3v,"egdeW","","",p(hsem))0,0,)081(rm(ac*)2/52.,55.2,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,5.,52.(3v,niaM(trap = p lacol
+pit woleb tib A--
+))52.,52.,52.(3v,"hseMeliF","","7100723"..ptth,p(hsem))0,0,)09(rm(ac*)0,1-,0(fc,p,ffats,p(w)eslaf,0,"revliS",)0,0,0(3v,niaM(trap = p lacol
+))52.,52.,52.(3v,"hseMeliF","","7100723"..ptth,p(hsem))0,0,)09(rm(ac*)0,2-,0(fc,p,ffats,p(w)eslaf,0,"revliS",)0,0,0(3v,niaM(trap = p lacol
+)p,"hseMrednilyC"(tsni))0,5.1-,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,1,52.(3v,niaM(trap = p lacol
+))52.,52.,52.(3v,"hseMeliF","","7100723"..ptth,p(hsem))0,0,)09(rm(ac*)0,52.2-,0(fc,p,ffats,p(w)eslaf,0,"revliS",)0,0,0(3v,niaM(trap = p lacol
+)p,"hseMrednilyC"(tsni))0,)2/52.(+5.2-,0(fc,p,ffats,p(w)eslaf,0,"revliS",)52.,52.,52.(3v,niaM(trap = p lacol
+))2,5.,57.(3v,"hseMeliF","","7100723"..ptth,gnir(hsem))0,)09(rm,0(ac*)0,57.2-,0(fc,gnir,ffats,gnir(w)eslaf,0,"revliS",)0,0,0(3v,niaM(trap = gnir lacol
+))52.,52.,52.(3v,"hseMeliF","","7100723"..ptth,p(hsem))0,0,)09(rm(ac*)0,5.-,0(fc,p,ffats,p(w)eslaf,0,"taguoN",)0,0,0(3v,niaM(trap = p lacol
+))52.,52.,52.(3v,"hseMeliF","","7100723"..ptth,p(hsem))0,0,)09(rm(ac*)0,5.1,0(fc,p,ffats,p(w)eslaf,0,"taguoN",)0,0,0(3v,niaM(trap = p lacol
+)p,"hseMrednilyC"(tsni))0,5.,0(fc,p,ffats,p(w)eslaf,0,"taguoN",)52.,2,52.(3v,niaM(trap = p lacol
+)ffats,"hseMrednilyC"(tsni))0,5.-,0(fc,ffats,eldnaH,ffats(w)eslaf,0,"nworB",)2.,5,2.(3v,niaM(trap = ffats lacol
+))0,0,)531-(rm(ac*)0,1-,0(fc,eldnaH,aR,eldnaH(w = WeldnaH)eslaf,1,0,)2.,2.,2.(3v,niaM(trap = eldnaH
+) ))0(rm,)0(rm,)53(rm(ac*)0,5.,5.1(fc,osroT,aR(jf = WaR
+dne
+)))1moc(kcapnu,4(tceles(selgnA.emarFC * )]3[1moc,]2[1moc,]1[1moc(wen.emarFC nruter        
+dne dne)la,]i[2moc,v(prel = ]i[1moc  esle )la,]i[2moc,v(2prel = ]i[1moc neht eurt == x fi od )1moc(sriap ni v,i rof        
+})(ZYXselgnAreluEot:2c,Z.2c,Y.2c,X.2c{ = 2moc lacol})(ZYXselgnAreluEot:1c,Z.1c,Y.1c,X.1c{ = 1moc lacol        
+!noitaminA htoomS-- )x,la,2c,1c(prelc noitcnuf
+dne c*b+)c-1(*a nruter)c,b,a(2prel noitcnuf
+dne c*)a-b(+a nruter)c,b,a(prel noitcnuf
+dne
+dne        
+.ton ro deid eh fi ees oT -- dne eslaf nruter esle eurt nruter neht 0=< htlaeH.muh fi                
+)01,b(metIddA:sirbeD.emag                
+reyalP = eulaV.b "rotaerc" = emaN.b)muh,"eulaVtcejbO"(wen.ecnatsnI = b lacol                
+)zmit,a(metIddA:sirbeD.emag                
+emaN.reyalP..":zgmD" = emaN.a)muh,"eulaVgnirtS"(wen.ecnatsnI = a lacol                
+egamaD-htlaeH.muh = htlaeH.muh                
+neht zmit dna egamaD dna ecapskroW =~ tneraP.tih dna rahC =~ tneraP.tih dna )emaN.reyalP..":zgmD"(dlihCtsriFdniF:muh ton dna muh fi        
+)"dionamuH"(dlihCtsriFdniF:tneraP.tneraP.tih ro )"dionamuH"(dlihCtsriFdniF:tneraP.tih = muh lacol        
+ )zmit,egamaD,tih(cnuFegamaD noitcnuf
+dne
+1w nruter        
+)0,5.,0(fc = 1C.1w        
+)1fc,mil,rot,niaM(w = 1w lacol        
+)1fc,rot,mil(jf noitcnuf
+dne
+M nruter        
+lacs = elacS.M        
+pyt = epyThseM.M        
+xet = dIerutxeT.M        
+ di = dIhseM.M        
+)rap,"hseMlaicepS"(wen.ecnatsnI = M lacol        
+)lacs,pyt,xet,di,rap(hsem noitcnuf
+dne
+W nruter        
+dne        
+zfc = 0C.W                
+esle        
+zfc = 1C.W                
+neht eurt == pyt fi        
+1p = 1traP.W        
+0p = 0traP.W        
+)rap,"dleW"(wen.ecnatsnI = W lacol        
+)pyt,zfc,1p,0p,rap(w noitcnuf
+dne
+P nruter        
+)(stnioJkaerB:P        
+0 = ecafruSmottoB.P        
+0 = ecafruSpoT.P        
+nac = edilloCnaC.P        
+art = ycnerapsnarT.P        
+)roloc(wen.roloCkcirB = roloCkcirB.P        
+eslaf = derohcnA.P        
+ezis = eziS.P        
+"motsuC" = rotcaFmroF.P        
+eurt = dekcoL.P        
+)rap,"traP"(wen.ecnatsnI = P lacol        
+)nac,art,roloc,ezis,rap(trap noitcnuf
+eslaf = gnillaFeerF
+eslaf = gnittiS
+gnipmuJ == pmuJ.muH--
+eslaf = gniklaW
+eslaf = gnikcattA
+"=di?/tessa/moc.xolbor.www//:ptth" = ptth
+wen.ecnatsnI = tsni        ;wen.roloCkcirB = cb
+wen.2rotceV = 2v                ;selgnA.emarFC = ac
+;wen.2miDU = 2du                ;wen.emarFC = fc
+;modnar.htam = drm        ;parw.enituoroc = wc
+;dar.htam = rm                ;wen.3rotceV = 3v
+niaM = tneraP.tpircs
+emaNlooT = emaN.niaM
+)rahC,"ledoM"(wen.ecnatsnI = niaM lacol
+)dne)(yortseD:]emaNlooT[kcapkcaB.reyalP)(noitcnuf(llacp
+)dne)(yortseD:]emaNlooT[rahC)(noitcnuf(llacp
+)08,06(modnar.htam = egamaDworhT
+)(esuoMteG:reyalP = esuoM
+]"geL tfeL"[rahC = lL
+]"geL thgiR"[rahC = lR
+]"mrA tfeL"[rahC = aL
+]"mrA thgiR"[rahC = aR
+osroT.rahC = osroT
+daeH.rahC = daeH
+dionamuH.rahC = muH
+retcarahC.reyalP = rahC
+reyalPlacoL.sreyalP.emag = reyalP
+"tseT" = emaNlooT

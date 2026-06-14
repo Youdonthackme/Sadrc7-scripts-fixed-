@@ -1,0 +1,915 @@
+dne
+ 
+ dne
+ 
+eslaf = elbisiV.gd
+ 
+0 = ycnerapsnarT.daeH.retcarahC.eM
+ 
+61 = deepSklaW.dionamuH.retcarahC.eM
+ 
+esle
+ 
+eurt = elbisiV.gd
+ 
+1 = ycnerapsnarT.daeH.retcarahC.eM
+ 
+04 = deepSklaW.dionamuH.retcarahC.eM
+ 
+)52. ,daeH.tneraP.osroT(tfe
+ 
+)52.0 ,]"geL thgiR"[tneraP.osroT(tfe
+ 
+)52.0 ,]"geL tfeL"[tneraP.osroT(tfe
+ 
+)52.0 ,mraL(tfe
+ 
+)52.0 ,mraR(tfe
+ 
+)52.0 ,osroT(tfe
+ 
+neht eurt == giar fi
+ 
+od )(tiaw elihw
+ 
+)leseDno(tcennoc:detceleseD.nib
+ 
+)detceleSno(tcennoc:detceleS.nib
+ 
+dne
+ 
+ lin = 1traP.WAR
+ 
+dne                        
+ 
+)10.0(tiaw                        
+ 
+ ))i*0(dar.htam ,)i*0(dar.htam ,)i*012-012(dar.htam(selgnA.emarFC = 0C.WAR                        
+ 
+        od 1.0 ,1 ,0 = i rof                        
+ 
+ 
+ ))03(dar.htam ,0 ,)0(dar.htam(selgnA.emarFC * )7.0- ,0 ,0(wen.emarFC = 1C.wah
+ 
+osroT = 0traP.wah
+ 
+ dne                        
+ 
+)10.0(tiaw                        
+ 
+ ))i*0(dar.htam ,)i*0(dar.htam ,)i*021+09(dar.htam(selgnA.emarFC = 0C.WAR                        
+ 
+        od 1.0 ,1 ,0 = i rof                        
+ 
+ )esuom(leseDno noitcnuf
+ 
+ dne
+ 
+ )dne        
+ 
+ dne                        
+ 
+ dne                        
+ 
+lin = 1traP.WAL                        
+ 
+eslaf = nikcatta                        
+ 
+ dne                        
+ 
+)100000000000000000000000000000000000000000000000000.0(tiaw                        
+ 
+ ))i*06-06(dar.htam ,)i*51-51(dar.htam ,)i*03-03(dar.htam(selgnA.emarFC = 0C.WAL                        
+ 
+ ))i*03+03-(dar.htam ,)i*03-03(dar.htam ,)i*54+54(dar.htam(selgnA.emarFC = 0C.WAR                        
+ 
+        od 1.0 ,1 ,0 = i rof                        
+ 
+ dne                        
+ 
+)bh ,01 ,5.2(truh                        
+ 
+)1.0 ,bh(tfe                        
+ 
+)1000000000000000000000000000000000000000000000000000000000000000000000000.0(tiaw                        
+ 
+ ))i*06(dar.htam ,)i*51(dar.htam ,)i*03(dar.htam(selgnA.emarFC = 0C.WAL                        
+ 
+ ))i*03-(dar.htam ,)i*03(dar.htam ,)i*06+0(dar.htam(selgnA.emarFC = 0C.WAR                        
+ 
+        od 2.0 ,1 ,0 = i rof                        
+ 
+eurt = nikcatta                        
+ 
+neht eurt == giar fi                        
+ 
+neht eslaf == nikcatta fi                        
+ 
+mraL = 1traP.WAL                        
+ 
+)(noitcnuf(tcennoc:nwoD1nottuB.esuom    
+ 
+)dne 
+ 
+  dne            
+ 
+ dne                        
+ 
+noitisoP.osroT = noitisoP.pxe                                
+ 
+)osroT,"noisolpxE"(wen.ecnatsnI = pxe                                
+ 
+neht eslaf == nikcatta fi                        
+ 
+neht "u" == yek fiesle        
+ 
+ dne                        
+ 
+)5.0 ,pb ,)leD(etaerc.enituoroc(emuser.enituoroc                                
+ 
+)5.0 ,b ,)leD(etaerc.enituoroc(emuser.enituoroc                                
+ 
+)0,32,0(wen.3rotceV - emarFC.osroT = emarFC.b                                
+ 
+]2[sehsem = dIhseM.mb                                
+ 
+)02,02,02(wen.3rotceV = elacS.mb                                
+ 
+"hseMeliF" = epyThseM.mb                                
+ 
+)b,"hseMlaicepS"(wen.ecnatsnI = mb                                
+ 
+eurt = derohcnA.b                                
+ 
+)"eulb yllaeR"(wen.roloCkcirB = roloCkcirB.b                                
+ 
+)02,02,02(wen.3rotceV = eziS.b                                
+ 
+)osroT,"traP"(wen.ecnatsnI = b                                
+ 
+)eguh.htam,eguh.htam,eguh.htam(wen.3rotceV = ecroFxam.pb                                
+ 
+)0,02,0(wen.3rotceV + noitisoP.osroT = noitisop.pb                                
+ 
+)osroT,"noitisoPydoB"(wen.ecnatsnI = pb                                
+ 
+neht eslaf == nikcatta fi                        
+ 
+ neht "p" == yek fiesle        
+ 
+ dne                
+ 
+eslaf = nikcatta                                        
+ 
+)dne dne )dne )5,1(modnar.htam - htlaeH.dionamuH.tneraP.tih = htlaeH.dionamuH.tneraP.tih )(noitcnuf(llacp neht emaN.eM =~ emaN.tneraP.tih fi )tih(noitcnuf(tcennoc:dehcuoT.b                                
+ 
+)p.tiH.esuom ,noitisoP.ah(wen.emarFC = emarfc.gb                                
+ 
+ )b ,"oryGydoB"(wen.ecnatsnI = gb                                
+ 
+ 084 * rotceVkool.emarFC.b = yticolev.vb                                
+ 
+)b,"yticoleVydoB"(wen.ecnatsnI = vb                                
+ 
+ )b,"eriF"(wen.ecnatsnI = rf                                
+ 
+)"der thgirB"(wen.roloCkcirB = roloCkcirB.b                                
+ 
+"htoomS" = ecafruSmottoB.b                                
+ 
+"htoomS" = ecafruSpoT.b                                
+ 
+5.0 = ycnerapsnarT.b                                
+ 
+ )p.tiH.esuom ,noitisoP.bh(wen.emarFC = emarFC.b                                
+ 
+"llaB" = epahS.b                                
+ 
+)1,1,1(wen.3rotceV = eziS.b                                
+ 
+)ecapskroW,"traP"(wen.ecnatsnI = b                                
+ 
+eurt = nikcatta                                        
+ 
+neht eslaf == nikcatta fi                
+ 
+neht "e" == yek fiesle        
+ 
+ 
+ 
+                        
+ 
+dne                        
+ 
+eslaf = giar                        
+ 
+neht eurt == giar fiesle                        
+ 
+eurt = giar                        
+ 
+neht eslaf == giar fi                        
+ 
+mraL = 1traP.WAL                        
+ 
+neht "r" == yek fiesle        
+ 
+ 
+ 
+                        
+ 
+dne                        
+ 
+)(evomeR:g                        
+ 
+)(evomeR:pb                        
+ 
+lin = 1traP.WAL                        
+ 
+eslaf = nikcatta                        
+ 
+ dne                        
+ 
+)10.0(tiaw                        
+ 
+ ))i*54-54(dar.htam ,)i*0(dar.htam ,)i*09-09(dar.htam(selgnA.emarFC = 0C.WAL                        
+ 
+ ))i*54+54-(dar.htam ,)i*03-03(dar.htam ,)i*09(dar.htam(selgnA.emarFC = 0C.WAR                        
+ 
+        od 1.0 ,1 ,0 = i rof                        
+ 
+)50.0(tiaw                        
+ 
+                        
+ 
+                        
+ 
+ dne                        
+ 
+)10000000000.0(tiaw                        
+ 
+emarFC.osroT = emarFC.g                        
+ 
+510.0 + ycnerapsnarT.g = ycnerapsnarT.g                        
+ 
+)1,1,1(wen.3rotceV + eziS.g = eziS.g                        
+ 
+od 05 ,1 = i rof                        
+ 
+)52.0(tiaw                        
+ 
+ dne                        
+ 
+)dne dne )dne )01,5(modnar.htam - htlaeH.dionamuH.tneraP.tih = htlaeH.dionamuH.tneraP.tih )(noitcnuf(llacp neht emaN.eM =~ emaN.tneraP.tih fi )tih(noitcnuf(tcennoc:dehcuoT.g                        
+ 
+esle                        
+ 
+)dne dne )dne )51,01(modnar.htam - htlaeH.dionamuH.tneraP.tih = htlaeH.dionamuH.tneraP.tih )(noitcnuf(llacp neht emaN.eM =~ emaN.tneraP.tih fi )tih(noitcnuf(tcennoc:dehcuoT.g                        
+ 
+neht eurt == giar fi                        
+ 
+eurt = derohcnA.g                        
+ 
+"htoomS" = ecafruSmottoB.g                        
+ 
+"htoomS" = ecafruSpoT.g                        
+ 
+"llaB" = epahS.g                        
+ 
+)3001(wen.roloCkcirB = roloCkcirB.g                        
+ 
+3.0 = ycnerapsnarT.g                        
+ 
+eslaf = edilloCnaC.g                        
+ 
+)2dom,"traP"(wen.ecnatsnI = g                        
+ 
+)1dom,"ledoM"(wen.ecnatsnI = 2dom                        
+ 
+)osroT,"ledoM"(wen.ecnatsnI = 1dom                        
+ 
+)0,01,0(wen.3rotceV + noitisoP.osroT = noitisop.pb                        
+ 
+)eguh.htam,eguh.htam,eguh.htam(wen.3rotceV = ecroFxam.pb                        
+ 
+)osroT,"noitisoPydoB"(wen.ecnatsnI = pb                        
+ 
+ dne                        
+ 
+)10.0(tiaw                        
+ 
+ ))i*54(dar.htam ,)i*0(dar.htam ,)i*09(dar.htam(selgnA.emarFC = 0C.WAL                        
+ 
+ ))i*54-(dar.htam ,)i*03(dar.htam ,)i*09(dar.htam(selgnA.emarFC = 0C.WAR                        
+ 
+od 1.0 ,1 ,0 = i rof                        
+ 
+eurt = nikcatta                        
+ 
+neht eslaf == nikcatta fi                        
+ 
+mraL = 1traP.WAL                        
+ 
+neht "j" == yek fiesle        
+ 
+eslaf = nikcatta        
+ 
+ 
+lin = 1traP.WAL                
+ 
+ dne                
+ 
+ dne                
+ 
+ )40.(tiaw                
+ 
+ ))i*03-03(dar.htam ,)i*09-09(dar.htam ,)i*09(dar.htam(selgnA.emarFC = 0C.WAR                
+ 
+ ))i*0+0(dar.htam ,)i*0+0(dar.htam ,)i*021-021(dar.htam(selgnA.emarFC = 0C.WAL                
+ 
+ od 1.0 ,1 ,0 = i rof                       
+ 
+)(evomeR:b                
+ 
+ dne                
+ 
+)6-,0,0(wen.emarFC * emarFC.b = emarFC.b                
+ 
+)(tiaw                
+ 
+od 05 ,1 = i rof                
+ 
+)(tiaw                
+ 
+ dne                
+ 
+)10000000000000000000000000000000000.0(tiaw                
+ 
+10.0 + ycnerapsnarT.b = ycnerapsnarT.b                
+ 
+)0,2.0,0(wen.3rotceV + emarFC.b = emarFC.b                
+ 
+od 05 ,1 = i rof                
+ 
+)0,01,0(wen.3rotceV - emarFC.b = emarFC.b                
+ 
+)41-,0,0(wen.emarFC * emarFC.osroT = emarFC.b                
+ 
+)dne dne )dne )01,5(modnar.htam - htlaeH.dionamuH.tneraP.tih = htlaeH.dionamuH.tneraP.tih )(noitcnuf(llacp neht emaN.eM =~ emaN.tneraP.tih fi )tih(noitcnuf(tcennoc:dehcuoT.b                
+ 
+2.0 = ycnerapsnarT.b                
+ 
+eslaf = edilloCnaC.b                
+ 
+eurt = derohcnA.b                
+ 
+"htoomS" = ecafruSmottoB.b                
+ 
+"htoomS" = ecafruSpoT.b                
+ 
+"llaB" = epahS.b                
+ 
+)"der thgirB"(wen.roloCkcirB = roloCkcirB.b                
+ 
+)01,01,01(wen.3rotceV = eziS.b                
+ 
+)ecapskroW,"traP"(wen.ecnatsnI = b                
+ 
+)5.0(tiaw                
+ 
+ dne                
+ 
+ )40.(tiaw                
+ 
+ ))i*03(dar.htam ,)i*09+0(dar.htam ,)i*09(dar.htam(selgnA.emarFC = 0C.WAR                
+ 
+ ))i*0+0(dar.htam ,)i*54+0(dar.htam ,)i*09+0(dar.htam(selgnA.emarFC = 0C.WAL                
+ 
+ od 1 ,1 ,0 = i rof                       
+ 
+mraL = 1traP.WAL                
+ 
+eurt = nikcatta                
+ 
+neht eslaf == nikcatta fi                
+ 
+ neht "t" == yek fiesle        
+ 
+ 
+eslaf = nikcatta        
+ 
+ 
+lin = 1traP.WAL                
+ 
+ dne                
+ 
+ dne                
+ 
+ )40.(tiaw                
+ 
+ ))i*03-03(dar.htam ,)i*09-09(dar.htam ,)i*09(dar.htam(selgnA.emarFC = 0C.WAR                
+ 
+ ))i*0+0(dar.htam ,)i*0+0(dar.htam ,)i*021-021(dar.htam(selgnA.emarFC = 0C.WAL                
+ 
+ od 1.0 ,1 ,0 = i rof                       
+ 
+)(evomeR:b                
+ 
+)1(tiaw                
+ 
+ dne                
+ 
+)100000000000000.0(tiaw                
+ 
+)0,5.0,0(wen.3rotceV + emarFC.b = emarFC.b                
+ 
+od 05 ,1 = i rof                
+ 
+)0,71,0(wen.3rotceV - emarFC.b = emarFC.b                
+ 
+)2-,0,0(wen.emarFC * emarFC.osroT = emarFC.b                
+ 
+)dne dne )dne )01,5(modnar.htam - htlaeH.dionamuH.tneraP.tih = htlaeH.dionamuH.tneraP.tih )(noitcnuf(llacp neht emaN.eM =~ emaN.tneraP.tih fi )tih(noitcnuf(tcennoc:dehcuoT.b                
+ 
+5.0 = ycnerapsnarT.b                
+ 
+eslaf = edilloCnaC.b                
+ 
+eurt = derohcnA.b                
+ 
+]2[sehsem = dIhseM.mb                
+ 
+)02,02,02(wen.3rotceV = elacS.mb                
+ 
+"hseMeliF" = epyThseM.mb                
+ 
+)b,"hseMlaicepS"(wen.ecnatsnI = mb                
+ 
+)"der yllaeR"(wen.roloCkcirB = roloCkcirB.b                
+ 
+)02,02,02(wen.3rotceV = eziS.b                
+ 
+)ecapskroW,"traP"(wen.ecnatsnI = b                
+ 
+)5.0(tiaw                
+ 
+ dne                
+ 
+ )40.(tiaw                
+ 
+ ))i*03(dar.htam ,)i*09+0(dar.htam ,)i*09(dar.htam(selgnA.emarFC = 0C.WAR                
+ 
+ ))i*0+0(dar.htam ,)i*0+0(dar.htam ,)i*021+0(dar.htam(selgnA.emarFC = 0C.WAL                
+ 
+ od 1.0 ,1 ,0 = i rof                       
+ 
+mraL = 1traP.WAL                
+ 
+eurt = nikcatta                
+ 
+neht eslaf == nikcatta fi                
+ 
+ neht "q" == yek fi        
+ 
+)yek(noitcnuf(tcennoc:nwoDyeK.esuom
+ 
+)dne    
+ 
+)(noitcnuf(tcennoc:nwoD1nottuB.esuom    
+ 
+ 
+ dne
+ 
+ )40.(tiaw
+ 
+ ))i*0(dar.htam ,)i*0(dar.htam ,)i*021-012(dar.htam(selgnA.emarFC = 0C.WAR
+ 
+ od 1.0 ,1 ,0 = i rof
+ 
+))09(dar.htam ,0 ,)09(dar.htam(selgnA.emarFC * )0 ,0 ,50.1-(wen.emarFC = 1C.wah
+ 
+mraR = 0traP.wah
+ 
+ dne                        
+ 
+)10.0(tiaw                        
+ 
+ ))i*0(dar.htam ,)i*0(dar.htam ,)i*012+0(dar.htam(selgnA.emarFC = 0C.WAR                        
+ 
+        od 1.0 ,1 ,0 = i rof
+ 
+ mraR = 1traP.WAR
+ 
+eslaf = nikcatta
+ 
+ )esuom(detceleSno noitcnuf
+ 
+h = nib lacol
+ 
+
+ 
+h = tneraP.tpircs    
+ 
+"nuhsraS" = emaN.h    
+ 
+)kcapkcaB.eM ,"niBreppoH"(wen.ecnatsnI = h lacol    
+ 
+
+ 
+ 
+ 
+ 
+stcnuf ad fo dne---
+ 
+ 
+ dne
+ 
+ dne
+ 
+ ))dne
+ 
+ )(evomer:trap
+ 
+ ))57.0 ,5.0(modnar.htam(tiaw
+ 
+ )(noitcnuf(etaerc.enituoroc(emuser.enituoroc
+ 
+ )(stnioJkaerB:trap
+ 
+ ))5.1 ,5.1-(modnar.htam ,)5.0 ,5.0-(modnar.htam ,)5.1 ,5.1-(modnar.htam(wen.3rotceV + emarFC.jbo = emarFC.trap
+ 
+ )2.0 ,sid ,sid(wen.3rotceV = eziS.trap
+ 
+ "htoomS" = ecafruSmottoB.trap
+ 
+ "htoomS" = ecafruSpoT.trap
+ 
+ )"der yllaeR"(wen.roloCkcirB = roloCkcirB.trap
+ 
+ "motsuC" = rotcaFmrof.trap
+ 
+ eslaf = derohcnA.trap
+ 
+ eslaf = edilloCnaC.trap
+ 
+ )capskrow ,"traP"(wen.ecnatsnI = trap
+ 
+)56.0 ,52.0(modnar.htam = sid
+ 
+ od )7 ,5(modnar.htam ,1 = i rof
+ 
+ )jbo(deelb noitcnuf
+ 
+ 
+ dne
+ 
+ dne
+ 
+ dne
+ 
+ dne
+ 
+ dne
+ 
+ )trap(deelb
+ 
+ )gmd(egamaDekaT:dionamuH.v
+ 
+ neht gam < edutingam.)noitisoP.trap - noitisoP.osroT.v( fi
+ 
+ neht lin =~ )"osroT"(dlihCtsriFdnif:v dna lin =~ )"dionamuH"(dlihCtsriFdnif:v fi
+ 
+ neht eman =~ emaN.v fi
+ 
+ od ))(nerdlihCteG:capskrow(sriap ni v,_ rof
+ 
+ )trap ,gmd ,gam(truh noitcnuf
+ 
+ 
+ dne
+ 
+))dne
+ 
+ )(evomer:tsp
+ 
+ )emit(tiaw
+ 
+ )(noitcnuf(etaerc.enituoroc(emuser.enituoroc
+ 
+)"etihW"(wen.roloCkcirB = roloCkcirB.tsp
+ 
+)(stnioJkaerB:tsp
+ 
+ 5.0 = ycnerapsnarT.tsp
+ 
+ eslaf = edilloCnaC.tsp
+ 
+ emarFC.trap = emarFC.tsp
+ 
+ eziS.trap = eziS.tsp
+ 
+eslaf = edilloCnaC.tsp
+ 
+ eurt = derohcnA.tsp
+ 
+ ecapskrow = tneraP.tsp
+ 
+ )(enolc:trap = tsp lacol
+ 
+ )emit ,trap(tfe noitcnuf
+ 
+snoticnuf--
+ 
+ 
+--
+ 
+ )0 ,0 ,)0(dar.htam(selgnA.emarFC * )0 ,7.1 ,0(wen.emarFC = 1C.wfh
+ 
+ fh = 1traP.wfh
+ 
+ah = 0traP.wfh
+ 
+ fh = tneraP.wfh
+ 
+ )"dleW"(wen.ecnatsnI = wfh lacol
+ 
+ )3.0 ,3.0 ,3.0(wen.3rotceV = elacS.mfh
+ 
+ fh = tneraP.mfh
+ 
+"hseMeliF" = epyThseM.mfh
+ 
+ ]3[sehsem = dIhseM.mfh
+ 
+)"hseMlaicepS"(wen.ecnatsnI = mfh lacol
+ 
+ )"motsuC",eslaf,eslaf,3001,2.0,2.0,2.0,2ledoM,fh(porp
+ 
+)(stnioJkaerB:fh
+ 
+ )"traP"(wen.ecnatsnI = fh lacol
+ 
+--
+ 
+ )0 ,0 ,)0(dar.htam(selgnA.emarFC * )0 ,7.1- ,0(wen.emarFC = 1C.weh
+ 
+ eh = 1traP.weh
+ 
+ah = 0traP.weh
+ 
+ eh = tneraP.weh
+ 
+ )"dleW"(wen.ecnatsnI = weh lacol
+ 
+ )3.0 ,3.0 ,3.0(wen.3rotceV = elacS.meh
+ 
+ eh = tneraP.meh
+ 
+"hseMeliF" = epyThseM.meh
+ 
+ ]3[sehsem = dIhseM.meh
+ 
+)"hseMlaicepS"(wen.ecnatsnI = meh lacol
+ 
+ )"motsuC",eslaf,eslaf,3001,2.0,2.0,2.0,2ledoM,eh(porp
+ 
+)(stnioJkaerB:eh
+ 
+ )"traP"(wen.ecnatsnI = eh lacol
+ 
+--
+ 
+ ))0(dar.htam ,0 ,)0(dar.htam(selgnA.emarFC * )0 ,0 ,0(wen.emarFC = 1C.wdh
+ 
+ dh = 1traP.wdh
+ 
+ ah = 0traP.wdh
+ 
+ dh = tneraP.wdh
+ 
+ )"dleW"(wen.ecnatsnI = wdh lacol
+ 
+ )53.0 ,5.0 ,53.0(wen.3rotceV = elacS.mdh
+ 
+ dh = tneraP.mdh
+ 
+ )"hseMrednilyC"(wen.ecnatsnI = mdh lacol
+ 
+ )"motsuC",eslaf,eslaf,"kcalb yllaeR",2.0,5.1,2.0,2ledoM,dh(porp
+ 
+)(stnioJkaerB:dh
+ 
+ )"traP"(wen.ecnatsnI = dh lacol
+ 
+--
+ 
+ )0 ,0 ,)081(dar.htam(selgnA.emarFC * )0 ,7.2- ,0(wen.emarFC = 1C.wch
+ 
+ ch = 1traP.wch
+ 
+ah = 0traP.wch
+ 
+ ch = tneraP.wch
+ 
+ )"dleW"(wen.ecnatsnI = wch lacol
+ 
+ )3.0 ,3.0 ,3.0(wen.3rotceV = elacS.mch
+ 
+ ch = tneraP.mch
+ 
+"hseMeliF" = epyThseM.mch
+ 
+ ]2[sehsem = dIhseM.mch
+ 
+)"hseMlaicepS"(wen.ecnatsnI = mch lacol
+ 
+ )"motsuC",eslaf,eslaf,3001,2.0,2.0,2.0,2ledoM,ch(porp
+ 
+)(stnioJkaerB:ch
+ 
+ )"traP"(wen.ecnatsnI = ch lacol
+ 
+--
+ 
+ )0 ,0 ,)0(dar.htam(selgnA.emarFC * )0 ,7.2- ,0(wen.emarFC = 1C.wbh
+ 
+ bh = 1traP.wbh
+ 
+ah = 0traP.wbh
+ 
+ bh = tneraP.wbh
+ 
+ )"dleW"(wen.ecnatsnI = wbh lacol
+ 
+ )3.0 ,3.0 ,3.0(wen.3rotceV = elacS.mbh
+ 
+ bh = tneraP.mbh
+ 
+"hseMeliF" = epyThseM.mbh
+ 
+ ]2[sehsem = dIhseM.mbh
+ 
+)"hseMlaicepS"(wen.ecnatsnI = mbh lacol
+ 
+ )"motsuC",eslaf,eslaf,3001,2.0,2.0,2.0,2ledoM,bh(porp
+ 
+)(stnioJkaerB:bh
+ 
+ )"traP"(wen.ecnatsnI = bh lacol
+ 
+--
+ 
+ 
+ ))03(dar.htam ,0 ,)0(dar.htam(selgnA.emarFC * )7.0- ,0 ,0(wen.emarFC = 1C.wah
+ 
+osroT = 0traP.wah
+ 
+ ah = 1traP.wah
+ 
+ ah = tneraP.wah
+ 
+ )"dleW"(wen.ecnatsnI = wah lacol
+ 
+ )3.0 ,4 ,3.0(wen.3rotceV = elacS.mah
+ 
+ ah = tneraP.mah
+ 
+ )"hseMrednilyC"(wen.ecnatsnI = mah lacol
+ 
+ )"motsuC",eslaf,eslaf,"yerg enots thgiL",2.0,5.1,2.0,2ledoM,ah(porp
+ 
+)(stnioJkaerB:ah
+ 
+ )"traP"(wen.ecnatsnI = ah lacol
+ 
+ 
+)0 ,5.0 ,0(wen.emarFC = 1C.WAL
+ 
+ lin = 1traP.WAL
+ 
+BAL = 0traP.WAL
+ 
+dleW mrA tfeL -- )BAL,"dleW"(wen.ecnatsnI = WAL lacol
+ 
+)0 ,5.0 ,0(wen.emarFC = 1C.WAR
+ 
+ lin = 1traP.WAR
+ 
+BAR = 0traP.WAR
+ 
+dleW mrA thgiR -- )BAR,"dleW"(wen.ecnatsnI = WAR lacol
+ 
+)0 ,5.0- ,5.1(wen.emarFC = 1C.WBAL
+ 
+BAL = 1traP.WBAL
+ 
+osroT = 0traP.WBAL
+ 
+dleW kcirB mrA tfeL -- )BAL,"dleW"(wen.ecnatsnI = WBAL lacol
+ 
+)(stnioJkaerB:BAL
+ 
+ledoM = tneraP.BAL
+ 
+1 = ycnerapsnarT.BAL
+ 
+)2.0 ,2.0 ,2.0(wen.3rotceV = eziS.BAL
+ 
+"motsuC" = rotcaFmrof.BAL
+ 
+kcirB mrA thgiR -- )"traP"(wen.ecnatsnI = BAL lacol
+ 
+)0 ,5.0- ,5.1-(wen.emarFC = 1C.WBAR
+ 
+BAR = 1traP.WBAR
+ 
+osroT = 0traP.WBAR
+ 
+dleW kcirB mrA thgiR -- )BAR,"dleW"(wen.ecnatsnI = WBAR lacol
+ 
+)(stnioJkaerB:BAR
+ 
+ledoM = tneraP.BAR
+ 
+1 = ycnerapsnarT.BAR
+ 
+)2.0 ,2.0 ,2.0(wen.3rotceV = eziS.BAR
+ 
+"motsuC" = rotcaFmrof.BAR
+ 
+kcirB mrA thgiR -- )"traP"(wen.ecnatsnI = BAR lacol
+ 
+ 
+"edalbb" = emaN.2ledoM
+ 
+)rahc,"ledoM"(wen.ecnatsnI = 2ledoM lacol
+ 
+"P:" = emaN.ledoM
+ 
+)rahc,"ledoM"(wen.ecnatsnI = ledoM lacol
+ 
+ 
+)dne )(evomeR:]"nuhsraS"[kcapkcaB.eM )(noitcnuf(llacp
+ 
+)dne )(evomer:]"edalbb"[rahc )(noitcnuf(llacp
+ 
+)dne )(evomer:]"P:"[rahc )(noitcnuf(llacp
+ 
+ 
+ dne
+ 
+ mrof = rotcaFmrof.trap
+ 
+ cna = derohcnA.trap
+ 
+ nac = edilloCnaC.trap
+ 
+ )roloc(wen.roloCkcirB = roloCkcirB.trap
+ 
+ tnerap = tneraP.trap
+ 
+ )z,y,x(wen.3rotceV = eziS.trap
+ 
+ )mrof,cna,nac,roloc,z,y,x,tnerap,trap(porp noitcnuf
+ 
+ 
+)"ecapskroW"(ecivreSteG:emag = capskrow
+ 
+}"rats ajnin ,3","nworc eci 2","gnir 1"{ = yek
+ 
+}"70115291=di?/tessa/moc.xolbor.www//:ptth","6033231=di?/tessa/moc.xolbor.www//:ptth","7100723=di?/tessa/moc.xolbor.www//:ptth"{ = sehsem
+ 
+"nuhsraS egaR" = txeT.gd
+ 
+)"etihW"(wen.roloCkcirB = roloCtxeT.gd
+ 
+1 = ycnerapsnarTdnuorgkcaB.gd
+ 
+)002,0,002,0(wen.2miDU = eziS.gd
+ 
+)gb,"lebaLtxeT"(wen.ecnatsnI = gd
+ 
+)0,2,0(wen.3rotceV = tesffOsdutS.gb
+ 
+)002,0,002,0(wen.2miDU = eziS.gb
+ 
+)daeH.retcarahC.eM,"iuGdraoblliB"(wen.ecnatsnI = gb
+ 
+eslaf = giar
+ 
+ dne
+ 
+ )(evomer:E
+ 
+ )T(tiaw
+ 
+ )T ,E(leD noitcnuf
+ 
+]"mrA tfeL"[rahc = mraL lacol
+ 
+]"mrA thgiR"[rahc = mraR lacol
+ 
+osroT.rahc = osroT lacol
+ 
+retcarahC.eM = rahc lacol
+ 
+reyalPlacoL.sreyalP.emag = eM lacol

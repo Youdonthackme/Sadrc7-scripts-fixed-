@@ -1,0 +1,668 @@
+
+dne
+dne	
+)0 ,0 ,noitatoR(NC * emarFetanidrooC.maC = emarFetanidrooC.maC		
+neht nOnoitatoR fi	
+)(tiaw	
+od eurt elihw
+
+)detceleseDno(tcennoc:detceleseD.niB
+)detceleSno(tcennoc:detceleS.niB
+
+dne
+)(minAtceleseD	
+eslaf = detceleS	
+)esuom(detceleseDno noitcnuf
+
+dne
+)dne	
+)(nwoDnottuBno		
+)(noitcnuf(tcennoc:nwoD1nottuB.esuom	
+)dne	
+] ]erehW[selytSmaC[epyTaremaC.munE = epyTaremaC.maC		
+dne selytSmaC# = erehW neht 1 < erehW fiesle 1 = erehW neht selytSmaC# > erehW fi		
+dne		
+"y" == k litnu )(tiaw:pUyeK.esuom = k taeper			
+))dne			
+"y" == k litnu				
+50.0 + noitatoR = noitatoR					
+)(tiaw					
+taeper				
+)(noitcnuf(etaerc.enituoroc(emuser.enituoroc			
+k lacol			
+neht "y" == yek fiesle		
+"t" == k litnu )(tiaw:pUyeK.esuom = k taeper			
+))dne			
+"t" == k litnu				
+50.0 - noitatoR = noitatoR					
+)(tiaw					
+taeper				
+)(noitcnuf(etaerc.enituoroc(emuser.enituoroc			
+k lacol			
+neht "t" == yek fiesle		
+nOnoitatoR ton = nOnoitatoR			
+neht "r" == yek fiesle		
+muH = tcejbuSaremaC.maC			
+neht "x" == yek fiesle		
+dne			
+h = tcejbuSaremaC.maC				
+esle			
+] ]erehW[selytSmaC[epyTaremaC.munE = epyTaremaC.maC				
+kcolBmaC = tcejbuSaremaC.maC				
+)p.tiH.esuom(wen.emarFC = emarFC.kcolBmaC				
+neht lin == h fi			
+dne			
+dne				
+)tneraP.tneraP.t(tatSteg = h					
+neht lin =~ tneraP.tneraP.t dna emag =~ tneraP.tneraP.t dna lin == h fi				
+)tneraP.t(tatSteg = h				
+neht t fi			
+tegraT.esuom = t lacol			
+lin = h lacol			
+neht "z" == yek fiesle		
+1 + erehW = erehW			
+neht "e" == yek fiesle		
+1 - erehW = erehW			
+neht "q" == yek fiesle		
+eslaf = eulaV.gnikcolB			
+"f" == k litnu )(tiaw:pUyeK.esuom = k taeper			
+k lacol			
+)(kcolB			
+neht eslaf == gnikcattA dna eslaf == minAkcolB dna eslaf == eulaV.gnikcolB dna "f" == yek fi		
+)(rewol:yek = yek		
+)yek(noitcnuf(tcennoc:nwoDyeK.esuom	
+eurt = detceleS	
+)(minAtceleS	
+)esuom(detceleSno noitcnuf
+
+dne
+lin = 1traP.WAR	
+dne	
+)(tiaw		
+)0 ,)i*01-01(RM ,)i*02-02(RM(AC = 0C.WAR		
+od 33.0 ,1 ,33.0 = i rof	
+dne	
+)(tiaw		
+))i*01+01-(RM ,)i*02-03(RM ,)i*002-022(RM(AC = 0C.WAR		
+od 2.0 ,1 ,2.0 = i rof	
+drowS = 1traP.WT	
+lin = 1traP.WH	
+dne	
+)(tiaw		
+)51.0 ,0 ,0(NC *))i*01+011(RM ,)i*5+52(RM ,)i*01+03(RM(AC = 0C.WH		
+))01-(RM ,)i*5+52(RM ,)i*01+012(RM(AC = 0C.WAR		
+od 33.0 ,1 ,33.0 = i rof	
+dne	
+)(tiaw		
+)i*51.0 ,0 ,0(NC *))i*011(RM ,)i*52(RM ,)i*03(RM(AC = 0C.WH		
+))i*5-5-(RM ,)i*05+52-(RM ,)i*05+061(RM(AC = 0C.WAR		
+od 81.0 ,1 ,81.0 = i rof	
+lin = 1traP.WAL	
+dne	
+)(tiaw		
+))i*5-5(RM ,)i*01+01-(RM ,)i*01-01(RM(AC = 0C.WAL		
+))i*5+01-(RM ,)i*5-02-(RM ,)i*01+051(RM(AC = 0C.WAR		
+od 33.0 ,1 ,33.0 = i rof	
+dne	
+)(tiaw		
+))i*51-02(RM ,)i*52+53-(RM ,)i*53-54(RM(AC * )i*5.0+5.0- ,0 ,i*3.0-3.0(NC = 0C.WAL		
+))i*02+03-(RM ,)i*06-04(RM ,)i*08+07(RM(AC * )i*4.0+4.0- ,i*2.0-2.0 ,i*3.0+3.0-(NC = 0C.WAR		
+od 41.0 ,1 ,41.0 = i rof	
+)(minAtceleseD noitcnuf
+
+dne
+)(lamroN	
+dne	
+)(tiaw		
+))i*5+51(RM ,)i*5-03-(RM ,)i*5+04(RM(AC * )5.0- ,0 ,3.0(NC = 0C.WAL		
+))i*5-52-(RM ,)i*5+53(RM ,)i*01-08(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR		
+od 33.0 ,1 ,33.0 = i rof	
+)(NC = 0C.WH	
+dne	
+)(tiaw		
+)0 ,0 ,)i*01+01-(RM(AC = 0C.WH		
+))i*51(RM ,)i*03-(RM ,)i*04(RM(AC * )i*5.0- ,0 ,i*3.0(NC = 0C.WAL		
+))i*05-52(RM ,)i*06+52-(RM ,)i*54-521(RM(AC * )i*4.0- ,i*2.0 ,i*3.0-(NC = 0C.WAR		
+od 81.0 ,1 ,81.0 = i rof	
+mraL = 1traP.WAL	
+dne	
+)(tiaw		
+)0 ,0 ,)i*01-(RM(AC = 0C.WH		
+))i*5+02(RM ,)i*5-02-(RM ,)i*51-041(RM(AC = 0C.WAR		
+od 33.0 ,1 ,33.0 = i rof	
+dne	
+)(tiaw		
+)i*51.0-51.0 ,0 ,0(NC *))i*021-021(RM ,)i*03-03(RM ,)i*04-04(RM(AC = 0C.WH		
+))i*03+01-(RM ,)i*05-03(RM ,)i*08-022(RM(AC = 0C.WAR		
+od 81.0 ,1 ,81.0 = i rof	
+lin = 1traP.WT	
+drowS = 1traP.WH	
+)51.0 ,0 ,0(NC *))021(RM ,)03(RM ,)04(RM(AC = 0C.WH	
+dne	
+)(tiaw		
+))01-(RM ,)03(RM ,)i*51+502(RM(AC = 0C.WAR		
+od 33.0 ,1 ,33.0 = i rof	
+dne	
+)(tiaw		
+))i*01-(RM ,)i*03(RM ,)i*502(RM(AC = 0C.WAR		
+od 41.0 ,1 ,41.0 = i rof	
+mraR = 1traP.WAR	
+)(minAtceleS noitcnuf
+
+dne
+))dne	
+)(lamroN		
+eslaf = minAkcolB		
+dne		
+)(tiaw			
+)0 ,)i*09+09-(RM ,)i*02-081(RM(AC * )2.0 ,4.0 ,0(NC = 1C.WS			
+))i*53+56-(RM ,)i*04(RM ,)i*02-09(RM(AC * )4.0- ,2.0 ,i*1.0+4.0-(NC = 0C.WAR			
+))i*06-08(RM ,)i*53-(RM ,)i*04-58(RM(AC * )i*5.0+1- ,0 ,i*5.0-8.0(NC = 0C.WAL			
+od 41.0 ,1 ,41.0 = i rof		
+eslaf == eulaV.gnikcolB litnu )(tiaw taeper		
+))08(RM ,0 ,)58(RM(AC * )1- ,0 ,8.0(NC = 0C.WAL		
+dne		
+)(tiaw			
+)0 ,)i*51-57-(RM ,)i*5+571(RM(AC * )2.0 ,4.0 ,0(NC = 1C.WS			
+))i*5-06-(RM ,)i*01-01(RM ,)i*5+58(RM(AC * )4.0- ,2.0 ,4.0-(NC = 0C.WAR			
+))i*01+07(RM ,)i*5+5-(RM ,)i*5+08(RM(AC * )i*1.0-9.0- ,0 ,i*1.0+7.0(NC = 0C.WAL			
+od 33.0 ,1 ,33.0 = i rof		
+)kcolB.sdnuoS(yalP		
+dne		
+)(tiaw			
+)0 ,)i*57-(RM ,)i*51+061(RM(AC * )2.0 ,4.0 ,0(NC = 1C.WS			
+))i*03-03-(RM ,)i*03-04(RM ,)i*51+07(RM(AC * )4.0- ,2.0 ,i*1.0-3.0-(NC = 0C.WAR			
+))i*05+02(RM ,)i*03+53-(RM ,)i*53+54(RM(AC * )i*4.0-5.0- ,0 ,i*4.0+3.0(NC = 0C.WAL			
+od 51.0 ,1 ,51.0 = i rof		
+NCeurt = minAkcolB		
+eurt = eulaV.gnikcolB		
+)(noitcnuf(etaerc.enituoroc(emuser.enituoroc	
+)(kcolB noitcnuf
+
+dne
+dne	
+)(]kcattA[obmoC		
+neht eslaf == eulaV.gnikcolB dna eslaf == minAkcolB dna eslaf == gnikcattA fi	
+)(nwoDnottuBno noitcnuf
+
+}
+dne	
+)(lamroN		
+eslaf = gnikcattA		
+)osroT(hctA		
+1 = kcattA		
+dne		
+)(tiaw			
+))i*5+5-(RM ,)i*5+5-(RM ,)i*01+01-(RM(AC = 0C.WH			
+)0 ,i*51.0+51.0- ,0(NC * ))i*5-52(RM ,)i*5-03-(RM ,)i*5+04(RM(AC * )5.0- ,0 ,3.0(NC = 0C.WAL			
+)0 ,i*51.0+51.0- ,0(NC * ))i*3+33-(RM ,)i*01+03(RM ,)i*01+06(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR			
+od 52.0 ,1 ,52.0 = i rof		
+dne		
+)(tiaw			
+))i*54+05-(RM ,)i*52+03-(RM ,)i*04+05-(RM(AC = 0C.WH			
+)0 ,i*3.0+54.0- ,0(NC * ))i*51-04(RM ,)i*03-(RM ,)i*5+53(RM(AC * )5.0- ,0 ,i*2.0+1.0(NC = 0C.WAL			
+)0 ,i*3.0+54.0- ,0(NC * ))i*7+04-(RM ,)i*03(RM ,)i*52+53(RM(AC * )4.0- ,i*2.0 ,i*2.0-1.0-(NC = 0C.WAR			
+od 61.0 ,1 ,61.0 = i rof		
+dne		
+)(tiaw			
+))05-(RM ,)03-(RM ,)i*5+55-(RM(AC = 0C.WH			
+)0 ,i*4.0+58.0- ,0(NC * ))04(RM ,0 ,)i*5+03(RM(AC * )5.0- ,0 ,1.0(NC = 0C.WAL			
+)0 ,i*4.0+58.0- ,0(NC * ))04-(RM ,0 ,)i*5+03(RM(AC * )4.0- ,0 ,1.0-(NC = 0C.WAR			
+od 33.0 ,1 ,33.0 = i rof		
+)kcolB.sdnuoS(yalP		
+)(EE		
+eslaf = truH		
+dne		
+)(tiaw			
+))05-(RM ,)i*03-(RM ,)i*55-(RM(AC = 0C.WH			
+)0 ,i*52.0-6.0- ,0(NC * ))04(RM ,0 ,)i*081-012(RM(AC * )5.0- ,0 ,1.0(NC = 0C.WAL			
+)0 ,i*52.0-6.0- ,0(NC * ))04-(RM ,0 ,)i*081-012(RM(AC * )4.0- ,0 ,1.0-(NC = 0C.WAR			
+od 41.0 ,1 ,41.0 = i rof		
+eurt = beD		
+eurt = truH		
+))2.2 ,0 ,0(NC ,drowS(ES		
+dne		
+)(tiaw			
+))i*5+55-(RM ,0 ,0(AC = 0C.WH			
+)0 ,6.0- ,0(NC * ))i*5+53(RM ,0 ,)i*01+002(RM(AC * )5.0- ,0 ,1.0(NC = 0C.WAL			
+)0 ,6.0- ,0(NC * ))i*5-53-(RM ,0 ,)i*01+002(RM(AC * )4.0- ,0 ,1.0-(NC = 0C.WAR			
+)0 ,0 ,0(AC = 0C.WF			
+od 52.0 ,1 ,52.0 = i rof		
+)hsalS.sdnuoS(yalP		
+dne		
+)(tiaw			
+))09-(RM ,0 ,PM(AC * )2- ,0 ,0(NC = 1C.WH			
+))i*01-54-(RM ,)i*02-02(RM ,0(AC = 0C.WH			
+)0 ,i*1.0-5.0- ,0(NC * ))i*51+02(RM ,0 ,)i*08+021(RM(AC * )5.0- ,0 ,1.0(NC = 0C.WAL			
+)0 ,i*1.0-5.0- ,0(NC * ))i*51-02-(RM ,0 ,)i*08+021(RM(AC * )4.0- ,0 ,1.0-(NC = 0C.WAR			
+)0 ,)i*01+01-(RM ,0(AC = 0C.WF			
+od 81.0 ,1 ,81.0 = i rof		
+dne		
+)(tiaw			
+))09-(RM ,)i*54+54-(RM ,PM(AC * )2- ,0 ,0(NC = 1C.WH			
+))i*54-(RM ,)i*07-09(RM ,0(AC = 0C.WH			
+)0 ,i*5.0- ,0(NC * ))i*52-54(RM ,0 ,)i*53+58(RM(AC * )5.0- ,0 ,i*2.0-3.0(NC = 0C.WAL			
+)0 ,i*5.0- ,0(NC * ))i*07-05(RM ,0 ,)i*03+09(RM(AC * )4.0- ,i*2.0-2.0 ,i*2.0-1.0(NC = 0C.WAR			
+)0 ,)i*53+54-(RM ,0(AC = 0C.WF			
+od 51.0 ,1 ,51.0 = i rof		
+eurt = gnikcattA		
+3 = kcattA		
+)(noitcnuf	
+,dne	
+)osroT(hctA		
+)(lamroN		
+dne		
+)(tiaw			
+))09-(RM ,)i*5+5-(RM ,PM(AC * )2- ,0 ,0(NC = 1C.WH			
+)0 ,)i*01-01(RM ,0(AC = 0C.WH			
+))i*5-52(RM ,)i*5-03-(RM ,)i*01-55(RM(AC * )i*1.0+6.0- ,0 ,3.0(NC = 0C.WAL			
+))i*01-02-(RM ,)i*5+53(RM ,)i*5-57(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR			
+)0 ,)i*01+01-(RM ,0(AC = 0C.WF			
+dne nruter neht gnikcattA fi			
+od 52.0 ,1 ,52.0 = i rof		
+dne		
+)(tiaw			
+))09-(RM ,)i*04+54-(RM ,PM(AC * )2- ,0 ,0(NC = 1C.WH			
+)0 ,)i*08-09(RM ,0(AC = 0C.WH			
+))i*02-54(RM ,)i*03-(RM ,)i*03-58(RM(AC * )i*1.0+6.0- ,0 ,3.0(NC = 0C.WAL			
+))i*07-05(RM ,)i*53(RM ,)i*51-09(RM(AC * )4.0- ,2.0 ,i*4.0-1.0(NC = 0C.WAR			
+)0 ,)i*53+54-(RM ,0(AC = 0C.WF			
+dne nruter neht gnikcattA fi			
+od 61.0 ,1 ,61.0 = i rof		
+)80.0(tiaw		
+eslaf = gnikcattA		
+)3 ,1(ktAteS		
+)(EE		
+dne		
+)(tiaw			
+))09-(RM ,)i*5-04-(RM ,PM(AC * )2- ,0 ,0(NC = 1C.WH			
+)0 ,)09(RM ,0(AC = 0C.WH			
+))i*01+53(RM ,0 ,)i*01+57(RM(AC * )i*1.0+6.0- ,0 ,3.0(NC = 0C.WAL			
+))i*01+04(RM ,0 ,)09(RM(AC * )4.0- ,2.0 ,i*1.0(NC = 0C.WAR			
+)0 ,)i*01-53-(RM ,0(AC = 0C.WF			
+od 52.0 ,1 ,52.0 = i rof		
+eslaf = truH		
+dne		
+)(tiaw			
+))09-(RM ,)i*04-(RM ,PM(AC * )2- ,0 ,0(NC = 1C.WH			
+)0 ,)09(RM ,0(AC = 0C.WH			
+))i*05+51-(RM ,)i*51-51(RM ,)i*031+55-(RM(AC * )i*8.0-2.0 ,0 ,i*3.0-6.0(NC = 0C.WAL			
+))i*59+55-(RM ,0 ,)09(RM(AC * )4.0- ,2.0 ,i*3.0+3.0-(NC = 0C.WAR			
+)0 ,)i*08-54(RM ,0(AC = 0C.WF			
+od 61.0 ,1 ,61.0 = i rof		
+eurt = beD		
+eurt = truH		
+))2.2 ,0 ,0(NC ,drowS(ES		
+dne		
+)(tiaw			
+)0 ,)i*01+08(RM ,)i*01+01-(RM(AC = 0C.WH			
+))51-(RM ,)51(RM ,)i*5-05-(RM(AC * )2.0 ,0 ,6.0(NC = 0C.WAL			
+))i*5-05-(RM ,0 ,)i*5+58(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR			
+)0 ,)i*5+04(RM ,0(AC = 0C.WF			
+od 52.0 ,1 ,52.0 = i rof		
+)hsalS.sdnuoS(yalP		
+dne		
+)(tiaw			
+))i*01+01-(RM ,)i*08(RM ,)i*54+55-(RM(AC = 0C.WH			
+))51-(RM ,)51(RM ,)i*01-04-(RM(AC * )2.0 ,0 ,i*3.0+3.0(NC = 0C.WAL			
+))i*53-51-(RM ,)i*03-03(RM ,)i*56+02(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR			
+)0 ,)i*51+52(RM ,0(AC = 0C.WF			
+od 1.0 ,1 ,1.0 = i rof		
+eurt = gnikcattA		
+2 = kcattA		
+)(noitcnuf	
+,dne	
+)osroT(hctA		
+)(NC = 0C.WH		
+))03-(RM ,)04(RM ,)07(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR		
+)(NC = 0C.WF		
+eslaf = gnikcattA		
+1 = kcattA		
+dne		
+)(tiaw			
+))i*5+51(RM ,)i*5-03-(RM ,)i*01+53(RM(AC * )i*1.0-4.0- ,0 ,3.0(NC = 0C.WAL			
+)0 ,0 ,)i*01+01-(RM(AC = 0C.WH			
+))i*5-52-(RM ,)i*2+83(RM ,)i*01+06(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR			
+)0 ,0 ,0(AC = 0C.WF			
+dne nruter neht gnikcattA fi			
+od 33.0 ,1 ,33.0 = i rof		
+dne		
+)(tiaw			
+))i*03+51-(RM ,)i*54-51(RM ,)i*57+04-(RM(AC * )i*8.0-4.0 ,0 ,3.0(NC = 0C.WAL			
+))i*01+01-(RM ,0 ,)i*54+55-(RM(AC = 0C.WH			
+))i*01-51-(RM ,)i*8+03(RM ,)i*04+02(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR			
+)0 ,)i*52-52(RM ,0(AC = 0C.WF			
+dne nruter neht gnikcattA fi			
+od 2.0 ,1 ,2.0 = i rof		
+)80.0(tiaw		
+eslaf = gnikcattA		
+)2 ,1(ktAteS		
+)(EE		
+dne		
+)(tiaw			
+))i*5-01-(RM ,)i*5+01(RM ,)i*01-03-(RM(AC * )i*1.0+3.0 ,0 ,3.0(NC = 0C.WAL			
+))01-(RM ,0 ,)i*5-05-(RM(AC = 0C.WH			
+))i*5-01-(RM ,)i*5+52(RM ,)i*01-03(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR			
+)0 ,)i*01+51(RM ,0(AC = 0C.WF			
+od 52.0 ,1 ,52.0 = i rof		
+eslaf = truH		
+dne		
+)(tiaw			
+))i*03-02(RM ,)i*02+01-(RM ,)i*09-06(RM(AC * )i*8.0+5.0- ,0 ,3.0(NC = 0C.WAL			
+))01-(RM ,0 ,)i*57-52(RM(AC = 0C.WH			
+))i*02-01(RM ,)i*01+51(RM ,)i*041-071(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR			
+)0 ,)i*06+54-(RM ,0(AC = 0C.WF			
+od 61.0 ,1 ,61.0 = i rof		
+eurt = beD		
+eurt = truH		
+))2.2 ,0 ,0(NC ,drowS(ES		
+dne		
+)(tiaw			
+))02(RM ,)i*5+51-(RM ,)i*5+55(RM(AC * )5.0- ,0 ,3.0(NC = 0C.WAL			
+))01-(RM ,0 ,)i*5+02(RM(AC = 0C.WH			
+))i*01(RM ,)i*5-02(RM ,)i*01+061(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR			
+)0 ,)i*01-53-(RM ,0(AC = 0C.WF			
+od 33.0 ,1 ,33.0 = i rof		
+)hsalS.sdnuoS(yalP		
+dne		
+)(tiaw			
+))02(RM ,)i*02+53-(RM ,)i*01+54(RM(AC * )5.0- ,0 ,3.0(NC = 0C.WAL			
+))i*01-(RM ,0 ,)i*02(RM(AC = 0C.WH			
+))i*03+03-(RM ,)i*02-04(RM ,)i*09+07(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR			
+)0 ,)i*53-(RM ,0(AC = 0C.WF			
+od 51.0 ,1 ,51.0 = i rof		
+eurt = gnikcattA		
+)osrotekaF(hctA		
+1 = kcattA		
+)(noitcnuf	
+{ = obmoC
+
+dne
+))dne	
+S = kcattA		
+)52.0(tiaw		
+E = kcattA		
+)(noitcnuf(etaerc.enituoroc(emuser.enituoroc	
+)E ,S(ktAteS noitcnuf
+
+dne
+eslaf = tceffE	
+)(EE noitcnuf
+
+dne
+))dne	
+dne		
+p.)fc * emarFC.trap( = Ptsal			
+))dne			
+)(evomer:p				
+dne				
+i*2.1+2.0- = ycnerapsnarT.p					
+)i*9.0-9.0 ,i*54.0-54.0+5*ngam ,i*9.0-9.0(3V = elacS.m					
+)(tiaw					
+od 51.0 ,1 ,0 = i rof				
+)(noitcnuf(etaerc.enituoroc(emuser.enituoroc			
+cc = emarFC.p			
+)9.0 ,54.0+5*ngam ,9.0(3V = elacS.m			
+"daeH" = epyThseM.m			
+)p ,"hseMlaicepS"(wen.ecnatsnI = m lacol			
+)0 ,2/ngam ,0(NC * )0 ,0 ,)09-(RM(AC * )wonsop ,Ptsal(NC = cc lacol			
+edutingam.)wonsop - Ptsal( = ngam lacol			
+p.)fc * emarFC.trap( = wonsop lacol			
+))2.0 ,2.0 ,2.0(3V ,"egnaro noeN" ,0 ,0 ,eslaf ,eurt ,doM(traP = p lacol			
+)(tiaw			
+od tceffE elihw		
+p.)fc * emarFC.trap( = Ptsal lacol		
+eurt = tceffE		
+)(noitcnuf(etaerc.enituoroc(emuser.enituoroc	
+)fc ,trap(ES noitcnuf
+
+)gmDdrowS(tcennoc:dehcuoT.drowS
+
+dne
+dne	
+eslaf = beD		
+dne		
+)kcolB.sdnuoS(yalP			
+neht b dna beD dna truH fiesle		
+)tiH.sdnuoS(yalP			
+))000000001+GMD ,)0000001/GMD(+00005(ARM ,h(egamaD			
+neht eslaf == b dna beD dna truH fi		
+neht h fi	
+)tneraP.tih(tatSteg = b ,h lacol	
+)tih(gmDdrowS noitcnuf
+
+dne
+gmd - htlaeH.h = htlaeH.h	
+)gmd ,h(egamaD noitcnuf
+
+dne
+olb ,h nruter	
+dne	
+dne		
+dne			
+eulaV.v = olb				
+neht "kcolB" == emaN.v fi			
+neht )"eulaVlooB"(AsI:v fiesle		
+dne			
+v = h				
+neht 0 > htlaeH.v fi			
+neht )"dionamuH"(AsI:v fi		
+od ))(nerdlihc:c(sriap ni v,_ rof	
+h lacol	
+eslaf = olb lacol	
+)c(tatSteg noitcnuf
+
+h = niB
+
+dne
+h = tneraP.tpircs	
+"ffilcdeR" = emaN.h	
+)kcapkcaB.eM,"niBreppoH"(wen.ecnatsnI = h	
+neht "niBreppoH" =~ emaNssalc.tneraP.tpircs fi
+
+rahC = tneraP.doM
+
+dne
+)(NC = 0C.WF	
+))09-(RM ,0 ,PM(AC * )2- ,0 ,0(NC = 1C.WH	
+))02(RM ,)53-(RM ,)54(RM(AC * )5.0- ,0 ,3.0(NC = 0C.WAL	
+))03-(RM ,)04(RM ,)07(RM(AC * )4.0- ,2.0 ,3.0-(NC = 0C.WAR	
+)(NC = 0C.WH	
+)0 ,0 ,)061(RM(AC * )2.0 ,4.0 ,0(NC = 1C.WS	
+)(lamroN noitcnuf
+
+))0 ,7.0- ,0(NC ,)0 ,)04-(RM ,)09(RM(AC ,drowS ,osroT(dleW = WT
+))0 ,0 ,)061(RM(AC * )2.0 ,4.0 ,0(NC ,))09(RM ,0 ,)09-(RM(AC ,dleihS ,mraL(dleW = WS
+
+)))09(RM ,0 ,PM(AC * )2- ,0 ,0(NC ,)(NC ,lin ,BH(dleW = WH
+))(NC ,)0 ,1- ,0(NC ,BH ,mraR(dleW = WBH
+))1.0 ,1.0 ,1.0(3V ,"etihW" ,0 ,1 ,eslaf ,eslaf ,doM(traP = BH
+
+))0 ,8.0 ,0(NC ,)(NC ,lin ,kcirBLL(dleW = WLL
+))0 ,8.0 ,0(NC ,)(NC ,lin ,kcirBLR(dleW = WLR
+))0 ,5.0 ,0(NC ,)(NC ,lin ,kcirBAL(dleW = WAL
+))0 ,5.0 ,0(NC ,)(NC ,lin ,kcirBAR(dleW = WAR
+
+dne
+p = 0traP.HL	
+p = 0traP.HR	
+p = 0traP.WBLL	
+p = 0traP.WBLR	
+p = 0traP.WBAL	
+p = 0traP.WBAR	
+)p(hctA noitcnuf
+
+))0 ,2.1 ,5.0(NC ,)(NC ,kcirBLL ,osroT(dleW = WBLL
+))0 ,2.1 ,5.0-(NC ,)(NC ,kcirBLR ,osroT(dleW = WBLR
+))0 ,5.0- ,5.1(NC ,)(NC ,kcirBAL ,osroT(dleW = WBAL
+))0 ,5.0- ,5.1-(NC ,)(NC ,kcirBAR ,osroT(dleW = WBAR
+
+))1.0 ,1.0 ,1.0(3V ,"etihW" ,0 ,1 ,eslaf ,eslaf ,doM(traP = kcirBLL
+))1.0 ,1.0 ,1.0(3V ,"etihW" ,0 ,1 ,eslaf ,eslaf ,doM(traP = kcirBLR
+))1.0 ,1.0 ,1.0(3V ,"etihW" ,0 ,1 ,eslaf ,eslaf ,doM(traP = kcirBAL
+))1.0 ,1.0 ,1.0(3V ,"etihW" ,0 ,1 ,eslaf ,eslaf ,doM(traP = kcirBAR
+
+))3.1 ,6.1 ,5.1(3V ,]1[dleihS.sehseM ,]2[dleihS.sehseM ,dleihS(hseM.ddA
+))3 ,6.0 ,3.2(3V ,"etihW" ,0 ,0 ,eslaf ,eslaf ,doM(traP = dleihS
+
+))51.2 ,5.2 ,1.2(3V ,]1[drowS.sehseM ,]2[drowS.sehseM ,drowS(hseM.ddA
+))5.4 ,4.0 ,8.0(3V ,"etihW" ,0 ,0 ,eslaf ,eslaf ,doM(traP = drowS
+
+dne
+))1,1,1(3V ,]1[]2[v ,]2[]2[v ,]1[v(hseM.ddA = sem lacol	
+dne	
+dne		
+)(evomer:v			
+neht )"hseMlaicepS"(AsI:v fi		
+od ))(nerdlihc:]1[v(sriap ni v,_ rof	
+od )}}osroT.sehseM ,osrotekaF{ ,}gelL.sehseM ,gelL{ ,}gelR.sehseM ,gelR{ ,}mraL.sehseM ,mraL{ ,}mraR.sehseM ,mraR{{(sriap ni v,_ rof
+
+))1.1,1.1,1.1(3V ,]1[fioC.sehseM ,]2[fioC.sehseM ,eldnaHtaH(hseM.ddA
+)1.0 ,3.0 ,0(3V = soPtnemhcattA.taH
+"eldnaH" = emaN.eldnaHtaH
+))4.1 ,8.1 ,5.1(3V ,"etihW" ,0 ,0 ,eslaf ,eslaf ,taH(traP = eldnaHtaH
+
+".copE" = emaN.taH
+)rahC ,"taH"(wen.ecnatsnI = taH
+
+))(NC ,)(NC ,osrotekaF ,osroT(dleW = WF
+))89.0 ,89.1 ,89.1(3V ,emaN.roloCkcirB.osroT ,0 ,0 ,eslaf ,eslaf ,doM(traP = osrotekaF
+
+1 = ycnerapsnarT.osroT
+
+rahC = tneraP.gnikcolB
+"kcolB" = emaN.gnikcolB
+eslaf = eulaV.gnikcolB
+)"eulaVlooB"(wen.ecnatsnI = gnikcolB lacol
+
+aremaCtnerruC.ecapskrow = maC
+))4.0 ,4.0 ,4.0(3V ,"etihW" ,0 ,1 ,eslaf ,eurt ,doM(traP = kcolBmaC
+
+dne
+dne )(evomer:v neht )"erutxeT"(AsI:v ro )"laceD"(AsI:v fi	
+od ))(nerdlihc:osroT(sriap ni v,_ rof
+
+dne
+dne	
+)(evomer:v		
+neht "kcolB" == emaN.v dna )"eulaVlooB"(AsI:v fiesle	
+)(evomer:v		
+neht )"sroloCydoB"(AsI:v ro )"hseMretcarahC"(AsI:v ro )"taH"(AsI:v ro )"stnaP"(AsI:v ro )"trihS"(AsI:v fi	
+od ))(nerdlihc:rahC(sriap ni v,_ rof
+
+dne
+)1000.0 ,s(metIddA:sirbeD.emag	
+osroT = tneraP.s	
+eurt = evomeRnOyalP.s	
+]3[dnuoS = emuloV.s	
+]2[dnuoS = hctiP.s	
+]1[dnuoS = dIdnuoS.s	
+)"dnuoS"(wen.ecnatsnI = s lacol	
+)dnuoS(yalP noitcnuf
+
+)"piH tfeL" ,osroT(dlihCtiaw = HL
+)"piH thgiR" ,osroT(dlihCtiaw = HR
+
+)"kceN" ,osroT(dlihCtiaw = kceN
+)"dionamuH" ,rahC(dlihCtiaw = muH
+)"osroT" ,rahC(dlihCtiaw = osroT
+)"geL tfeL" ,rahC(dlihCtiaw = gelL
+)"geL thgiR" ,rahC(dlihCtiaw = gelR
+)"mrA tfeL" ,rahC(dlihCtiaw = mraL
+)"mrA thgiR" ,rahC(dlihCtiaw = mraR
+
+"ycI" = emaN.doM
+)"ledoM"(wen.ecnatsnI = doM
+
+dne
+ dne )(evomer:v neht "ycI" == emaN.v fi	
+od ))(nerdlihc:rahC(sriap ni v,i rof
+
+dne
+w nruter	
+0P = tneraP.w	
+1C = 1C.w	
+0C = 0C.w	
+1P = 1traP.w	
+0P = 0traP.w	
+)"dleW"(wen.ecnatsnI = w lacol	
+)1C ,0C ,1P ,0P(dleW noitcnuf
+
+dne
+p nruter	
+)(stnioJkaerB:p	
+eurt = dekcoL.p	
+P = tneraP.p	
+eziS = eziS.p	
+"motsuC" = rotcaFmrof.p	
+)loC(wen.roloCkcirB = roloCkcirB.p	
+hcnA = derohcnA.p	
+lloC = edilloCnaC.p	
+feR = ecnatcelfeR.p	
+narT = ycnerapsnarT.p	
+0 = ecafruSmottoB.p	
+0 = ecafruSpoT.p	
+)"traP"(wen.ecnatsnI = p lacol	
+)eziS ,loC ,feR ,narT ,lloC ,hcnA ,P(traP noitcnuf
+
+dne
+dne	
+dne dlihc nruter neht n == emaN.dlihc fi		
+)(tiaw:deddAdlihC.p = dlihc		
+od eurt elihw	
+dne dlihc nruter neht dlihc fi	
+)n(dlihCtsriFdnif:p = dlihc lacol	
+)n ,p(dlihCtiaw noitcnuf
+
+}
+,})23775794(..tessA ,)94495794(..tessA{ = dleihS	
+,})55645794(..tessA ,)45745794(..tessA{ = drowS	
+,})46580333(..tessA ,)18590333(..tessA{ = gelL	
+ ,})72880333(..tessA ,)18590333(..tessA{ = gelR	
+,})69480333(..tessA ,)18590333(..tessA{ = mraL	
+,})47780333(..tessA ,)18590333(..tessA{ = mraR	
+,})13680333(..tessA ,)18590333(..tessA{ = osroT	
+,})53746333(..tessA ,)39083225(..tessA{ = fioC	
+{ = sehseM
+
+}
+,}1 ,6.1 ,"vaw.hsalsdrows\\sdnuos//:tessaxbr"{ = hsalS	
+,}1 ,3.1 ,"ggo.latem\\sdnuos//:tessaxbr"{ = kcolB	
+,}1 ,8.0 ,"09590201=di?/tessa/moc.xolbor.www//:ptth"{ = tiH	
+{ = sdnuoS
+
+}
+dne	
+2dI = dIerutxeT.m		
+dI = dIhseM.m		
+elacs = elacS.m		
+)P ,"hseMlaicepS"(wen.ecnatsnI = m lacol		
+)elacs ,2dI ,dI ,P(noitcnuf = hseM	
+{ = ddA
+
+eguh.htam = HM
+modnar.htam = ARM
+ip.htam = PM
+dar.htam = RM
+wen.3rotceV = 3V
+wen.emarFC = NC
+selgnA.emarFC = AC
+
+"=di?/tessa/moc.xolbor.www//:ptth" = tessA
+
+]erehW[selytSmaC = elytS
+2 = erehW
+}"wolloF" ,"dexiF" ,"motsuC" ,"hcattA"{ = selytSmaC
+
+eslaf = nOnoitatoR
+0 = noitatoR
+eslaf = minAkcolB
+53 = GMD
+eslaf = tceffE
+eurt = beD
+eslaf = truH
+eslaf = gnikcattA
+1 = kcattA
+eslaf = detceleS
+retcarahC.eM = rahC
+reyalPlacoL.sreyalP.emag = eM

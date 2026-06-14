@@ -1,0 +1,34 @@
+game:GetService("ReplicatedFirst"):RemoveDefaultLoadingScreen() -- removes the default loading screen
+local cp = game:GetService("ContentProvider") -- gets the content provider
+
+-- config
+local optionalAssets = {} -- optional assets to loads, ex (555, 555)
+local disabledService = {
+	["Lighting"] = false;
+	
+} -- services no so preload
+
+
+local ui = script:WaitForChild("loadingUI")
+ui.Parent = game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui")
+local blur = Instance.new("BlurEffect", game:GetService("Workspace").CurrentCamera)
+
+-- preloading
+warn("starting preload")
+local startTick = tick()
+-- preload the optional assets first
+cp:PreloadAsync(optionalAssets)
+
+-- preload the entire game
+for i,service in pairs(game:GetChildren()) do
+	pcall (function()
+		if not disabledServices[service.Name] then
+			--warn("service not available")
+			cp:PreloadAsync({service})
+		end
+	end)
+end
+wait(15)
+warn("preload done, time: "..string.sub(tick()-startTick, 1, 5).."s")
+ui:Remove()
+blur:Remove()

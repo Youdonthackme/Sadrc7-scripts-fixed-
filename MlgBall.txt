@@ -1,0 +1,215 @@
+anim=Instance.new("Animation",workspace)(game.Workspace.GiantNoobBoss)
+anim.AnimationId = "http://www.roblox.com/Asset?ID=293536378"
+jun = script.Parent.Parent
+Stuff = false
+local sp = script.Parent
+local s = Instance.new("Sound")
+s.SoundId = "http://www.roblox.com/asset/?id=171199543"
+s.Volume = 3
+s.Looped = true
+s.PlayOnRemove = false
+s.Parent = sp
+function ssj(ssjg)
+		s:Play(true)
+	game:GetService("TheActuaIC0mmunity"):Chat(jun.Character.Head,"Begin!!")	
+delay(0,function()
+	for loop = 1,50 do
+			delay(0,function()
+			local x = Instance.new("Part")
+			x.Size = Vector3.new(1,1,1)
+			x.CanCollide = false
+			x.Anchored = true
+			x.CFrame = jun.Character.Torso.CFrame
+			x.TopSurface = "Smooth"
+			x.BottomSurface = "Smooth"
+			x.BrickColor = BrickColor.new("Bright yellow")
+			x.Parent = game.Workspace
+			game.Debris:AddItem(x, 4)
+			
+			local x2 = Instance.new("Part")
+			x2.Size = Vector3.new(1,1,1)
+			x2.CanCollide = false
+			x2.Anchored = true
+			x2.CFrame = jun.Character.Torso.CFrame * CFrame.Angles(math.random(1, 3),math.random(1, 3),math.random(1, 3))
+			x2.TopSurface = "Smooth"
+			x2.BottomSurface = "Smooth"
+			x2.BrickColor = BrickColor.new("Bright yellow")
+			x2.Parent = game.Workspace
+			game.Debris:AddItem(x2, 4)			
+			
+			local m1 = Instance.new("SpecialMesh", x)
+			m1.MeshId = "http://www.roblox.com/Asset/?id=9982590"
+			
+			local m2 = Instance.new("CylinderMesh", x2)
+			m2.Scale = Vector3.new(1,50,1)
+			
+			delay(0,function()
+			for loop = 1,100 do
+				m1.Scale = m1.Scale + Vector3.new(0.2,0.2,0.2)
+				m2.Scale = m2.Scale + Vector3.new(0,2,0)
+				x.Transparency = x.Transparency + 0.05
+				x2.Transparency = x2.Transparency + 0.05
+				x.CFrame = x.CFrame * CFrame.Angles(1,1,1)
+				wait()
+			end
+			end)
+			end)
+			wait(0.1)
+		end
+		for loop = 1,25 do
+			delay(0,function()
+			local x = Instance.new("Part")
+			x.Size = Vector3.new(1,1,1)
+			x.CanCollide = false
+			x.Anchored = true
+			x.CFrame = jun.Character.Torso.CFrame
+			x.TopSurface = "Smooth"
+			x.BottomSurface = "Smooth"
+			x.BrickColor = BrickColor.new("Bright red")
+			x.Parent = game.Workspace
+			game.Debris:AddItem(x, 4)
+			
+			local x2 = Instance.new("Part")
+			x2.Size = Vector3.new(1,1,1)
+			x2.CanCollide = false
+			x2.Anchored = true
+			x2.CFrame = jun.Character.Torso.CFrame * CFrame.Angles(math.random(1, 3),math.random(1, 3),math.random(1, 3))
+			x2.TopSurface = "Smooth"
+			x2.BottomSurface = "Smooth"
+			x2.BrickColor = BrickColor.new("Bright red")
+			x2.Parent = game.Workspace
+			game.Debris:AddItem(x2, 4)			
+			
+			local m1 = Instance.new("CylinderMesh", x)
+			m1.Scale = Vector3.new(5,150,5)
+			
+			local m2 = Instance.new("SpecialMesh", x2)
+			m2.MeshId = "http://www.roblox.com/asset/?id=3270017"
+			
+			delay(0,function()
+			for loop = 1,50 do
+				m1.Scale = m1.Scale + Vector3.new(0.5,5,0.5)
+				m2.Scale = m2.Scale + Vector3.new(2,2,2)
+				x.Transparency = x.Transparency + 0.035
+				x2.Transparency = x2.Transparency + 0.05
+				wait()
+			end
+			end)
+			end)
+			wait(0.2)
+		end
+end)
+if Stuff == false then
+Stuff = true
+for u, c in pairs (jun.Character:GetChildren()) do
+if c.className == "Hat" and c.Name ~= "Swordpack" and c.Name ~= "GlassesBlackFrame" then
+c.Handle.Transparency = 1
+end
+end
+local Hair4 = game.ReplicatedStorage.Goku:Clone()
+Hair4.Parent = jun.Character
+Hair4.Name = "Hair"
+Hair4.CanCollide = false
+Hair4.Locked = true
+Hair4.CFrame = jun.Character.Torso.CFrame
+local Weld = Instance.new("Weld")
+Weld.Parent = jun.Character.Head
+Weld.Part0 = jun.Character.Head
+Weld.Part1 = Hair4
+Weld.C0 = CFrame.new(0.16, .65, 0.15) * CFrame.Angles(0,math.pi,0)
+if jun.Character.Torso:findFirstChild("PwnFire") == nil then
+	local animTrack = jun.Character.Humanoid:LoadAnimation(anim)
+animTrack:Play()  
+    wait()
+	local fr = game.lighting.ParticleEmitter2:clone()
+	fr.Parent = jun.Character.Torso
+	local cr = game.lighting.ParticleEmitter3:clone()
+	cr.Parent = jun.Character.Torso
+	local br = game.lighting.ParticleEmitter300:clone()
+    br.Parent = jun.Character.Torso
+end
+jun.Character.Humanoid.MaxHealth = 1e+7
+wait(0.3)
+jun.Character.Humanoid.Health = 1e+7
+end
+end
+function nossj()
+if Stuff == true then
+Stuff = false
+if jun.Character.Torso:findFirstChild("ParticleEmitter300")~=nil then
+jun.Character.Torso:findFirstChild("ParticleEmitter300"):Remove()
+end
+if jun.Character.Torso:findFirstChild("ParticleEmitter2")~=nil then
+jun.Character.Torso:findFirstChild("ParticleEmitter2"):Remove()
+end
+if jun.Character.Torso:findFirstChild("ParticleEmitter3")~=nil then
+jun.Character.Torso:findFirstChild("ParticleEmitter3"):Remove()
+end
+game:GetService("Chat"):Chat(jun.Character.Head,"Ah",Enum.ChatColor.Green)
+game:GetService("Chat"):Chat(jun.Character.Head,"So much power...!",Enum.ChatColor.Green)
+     local p = Instance.new("Part")
+     p.Parent = jun.Character
+     p.Anchored = true
+     p.CanCollide = false
+     p.Transparency = 0.1
+     p.formFactor = "Symmetric"
+     p.Size = Vector3.new(22, 22, 22)
+     p.TopSurface = "Smooth"
+     p.BottomSurface = "Smooth"
+     p.Name = "Sharingan"
+     p.Shape = "Ball"
+     p.CFrame = jun.Character.Torso.CFrame
+     p.BrickColor = BrickColor.new("Deep orange")
+     for i = 1 , 10 do
+      wait(0.05)
+      p.Size = p.Size + Vector3.new(-4, -4, -4)
+      p.Transparency = p.Transparency + 0.1
+      p.CFrame = jun.Character.Torso.CFrame
+     end
+p:Remove()
+s:Remove()
+for u, c in pairs (jun.Character:GetChildren()) do
+if c.className == "Hat" and c.Name ~= "Swordpack" and c.Name ~= "GlassesBlackFrame" then
+c.Handle.Transparency = 0
+end
+if c.Name == "Hair" then
+c:Remove()
+end
+end
+jun.Character.Humanoid.Health = 100
+wait(0.3)
+jun.Character.Humanoid.MaxHealth = 100
+end
+end
+jun.Chatted:connect(function(Msg)
+ local msg = Msg:lower()
+ if string.sub(msg, 1, 7) == "super saiyan god" then
+ wait(0.1)
+  ssj(ssjg)
+ end
+ if string.sub(msg, 1, 13) == "ssjg" then
+ wait(0.1)
+  ssj(ssjg)
+ end
+ if string.sub(msg, 1, 6) == "!" then
+ wait(0.1)
+  ssj()
+ end
+ if string.sub(msg, 1, 10) == "calm" then
+ wait(0.1)
+  nossj()
+ end
+ if string.sub(msg, 1, 3) == "off" then
+ wait(0.1)
+  nossj(off)
+ end
+end)
+function OnDeath()
+wait()
+nossj()
+end
+hum = jun.Character.Humanoid
+jun.Character.Humanoid.Died:connect(OnDeath)
+jun = script.Parent.Parent
+Stuff = false
+--mediafire---

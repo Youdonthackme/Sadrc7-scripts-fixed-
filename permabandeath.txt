@@ -1,0 +1,53 @@
+//the script will not run as the syntax is wrong for the query_sql parts.
+//but the first parts of it will owkr just fine, soo yea.
+// anyone that is intending to help with this.. Thanks!
+-	script	game_mechanics	-1,{
+
+OnPCDieEvent:
+set #id,getcharid(0); //get their character ID
+set #pid,getcharid(1);//get the party ID
+set #gid,getcharid(2); //get the guild ID
+set #aid,getcharid(3); //get the account ID
+//simple announce and kick.. works fine, intended to be there to not only announce people messing up, but
+// also to prevent the deletion to mess up because the character is online.
+announce strcharinfo(0) +" was killed by "+ rid2name(killerrid),0xFFFF00;
+atcommand "@kick "+#id;
+//the SQL parts
+//delete character
+query_sql("DELETE FROM 'global_reg_value' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'inventory' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'skill' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'cart_inventory' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'pet' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'friends' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'char' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'auction' WHERE char_id = "#id" ");
+//delete homunculus
+//needs check to see if they have one/are a class that uses them.
+query_sql("DELETE FROM 'homunculus' WHERE char_id = "#id" ");
+//query_sql("DELETE FROM 'skill_homunculus' WHERE homun_id = "#??" "); //how to check?
+//delete guild if leader
+//needs check
+query_sql("DELETE FROM 'guild' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'guild_alliance' WHERE guild_id = "#gid" ");
+query_sql("DELETE FROM 'guild_castle' WHERE guild_id = "#gid" ");
+query_sql("DELETE FROM 'guild_expulsion' WHERE guild_id = "#gid" ");
+query_sql("DELETE FROM 'guild_member' WHERE guild_id = "#gid" ");
+query_sql("DELETE FROM 'guild_position' WHERE guild_id = "#gid" ");
+query_sql("DELETE FROM 'guild_skill' WHERE guild_id = "#gid" ");
+query_sql("DELETE FROM 'guild_guild storage' WHERE guild_id = "#gid" ");
+
+//need a check too see if they are just a member
+//deletes them from the guild.
+query_sql("DELETE FROM 'guild_member' WHERE char_id = "#id" ");
+
+//delete hotkeys and other info
+query_sql("DELETE FROM 'hotkey' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'mail' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'memo' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'quest' WHERE char_id = "#id" ");
+query_sql("DELETE FROM 'quest_objective' WHERE char_id = "#id" ");
+
+
+end;
+}

@@ -1,0 +1,1681 @@
+)dne
+)(etaluclaC
+noitcAvarG = noitcAvarGverP
+)4.2*)001/eulaV.wolf(( + tnirpsfed = tnirps
+tnuocgbetamina = tnuocgbminaverp
+VOF = weiVfOdleiF.mac
+ 
+dne
+dne
+dne
+0 = eulaV.wolf
+neht 0 < eulaV.wolf fi
+73.0 - eulaV.wolf = eulaV.wolf
+neht 0 =< nwodloocwolf dna 0 > eulaV.wolf fi
+neht "gnittiS" == noitcA ro "gnidnatS" == noitcA fiesle
+51 = nwodloocwolf
+neht "gnidilS" == noitcA fiesle
+03 = nwodloocwolf
+neht "gniviD" == noitcA fiesle
+04 = nwodloocwolf
+dne
+001 = eulaV.wolf
+neht 001 > eulaV.wolf fi
+42.0 + eulaV.wolf = eulaV.wolf
+neht "gninnuRllaWV" == noitcA ro "gninnuRllaWH" == noitcA fi
+ 
+dne
+1 - nwodlooCedilS = nwodlooCedilS
+neht 0 > nwodlooCedilS fi
+dne
+dne
+1 - nwodlooCRWV = nwodlooCRWV
+neht 0 > nwodlooCRWV dna lin =~ ztih fi
+neht 0 > nwodlooCRWV fi
+dne
+1 - nwodlooCRWH = nwodlooCRWH
+neht 0 > nwodlooCRWH fi
+dne
+1 - nwodloocwolf = nwodloocwolf
+neht 0 > nwodloocwolf fi
+ 
+dne
+dne
+)(evomer:rahc
+neht lin =~ tneraP.rahc fi
+neht 041 > eulaV.wolf fi
+ 
+dne
+p.))0,1-,0(wen.emarFC * emarFC.AL( = sopalverp
+p.))0,1-,0(wen.emarFC * emarFC.AR( = soparverp
+ 
+dne
+dne
+)0,0,00005(wen.3rotceV = noitisoP.]1[]i[2batedaf
+1 = ycnerapsnarT.]1[]i[2batedaf
+)0,0,00005(wen.3rotceV = noitisoP.]1[v
+1 = ycnerapsnarT.]1[v
+neht 1 =~ ycnerapsnarT.]1[v fiesle
+)batedaf#/1( + ycnerapsnarT.]1[]i[2batedaf = ycnerapsnarT.]1[]i[2batedaf
+)batedaf#/1( + ycnerapsnarT.]1[v = ycnerapsnarT.]1[v
+neht 9.0 < ycnerapsnarT.]1[v fi
+od )batedaf(sriap ni v ,i rof
+ 
+dne
+)batedaf#/1( + ycnerapsnarT.]1[p = ycnerapsnarT.]1[p
+)8.0 - )021/eulaV.wolf((sba.htam = ycnerapsnarT.]1[p
+)b.rolocwolf,g.rolocwolf,r.rolocwolf(wen.3rotceV = roloCxetreV.]2[p
+)2*edutingam.)soparverp-sopar(,5.0,5.0(wen.3rotceV = elacS.]2[p
+)sopar ,2/)soparverp+sopar((wen.emarFC = emarFC.]1[p
+m = tneraP.]1[p
+]tnuocelcycer[2batedaf = p lacol
+)batedaf#/1( + ycnerapsnarT.]1[p = ycnerapsnarT.]1[p
+)8.0 - )021/eulaV.wolf((sba.htam = ycnerapsnarT.]1[p
+)b.rolocwolf,g.rolocwolf,r.rolocwolf(wen.3rotceV = roloCxetreV.]2[p
+)2*edutingam.)sopalverp-sopal(,5.0,5.0(wen.3rotceV = elacS.]2[p
+)sopal ,2/)sopalverp+sopal((wen.emarFC = emarFC.]1[p
+m = tneraP.]1[p
+]tnuocelcycer[batedaf = p lacol
+p.))0,1-,0(wen.emarFC * emarFC.AR( = sopar lacol
+p.))0,1-,0(wen.emarFC * emarFC.AL( = sopal lacol
+neht 52 > eulaV.wolf fi
+1 + )batedaf# % tnuocelcycer( = tnuocelcycer
+)1,7.0 ,euh(VSH = rolocwolf lacol
+)(kcit = tesffokcit
+neht 50.0 > ))(kcit - tesffokcit(sba.htam fi
+ 
+dne
+lin = tneraP.gbetamina
+neht lin =~ tneraP.gbetamina dna "eldI" == noitcAvarG fi
+ 
+dne
+dne
+dne
+lin = tneraP.gbetamina
+))z.cevkol,0,x.cevkol(wen.3rotceV ,VN(wen.emarFC = emarfc.gbetamina
+001*rotceVkool.emarFC.zosroT = cevkol lacol
+)0/1,00001,0/1(wen.3rotceV = euqroTxam.gbetamina
+zosroT = tneraP.gbetamina
+neht lin =~ tneraP.gbetamina fi
+neht eurt == edilloCnaC.2ztih fiesle
+dne
+dne
+))81.0-,0,)62/elgnamina-(+)2.0+ip.htam((wen.3rotceV ,)0,5.0,4.1-(wen.3rotceV ,VN,VN ,1,1,4tnioJ(dleWteS
+))81.0,0,)62/elgnamina(+)2.0+ip.htam((wen.3rotceV ,)0,5.0,4.1(wen.3rotceV ,VN,VN ,1,1,3tnioJ(dleWteS
+))81.0-,0,3.0-)72/elgnamina-((wen.3rotceV ,)0,8.0-,54.0-(wen.3rotceV ,VN,VN ,1,1,2tnioJ(dleWteS
+))81.0,0,3.0-)72/elgnamina((wen.3rotceV ,)0,8.0-,54.0(wen.3rotceV ,VN,VN ,1,1,1tnioJ(dleWteS
+)0,07/elgnamina,11/ip.htam-(selgnA.emarFC * ))z.cevkol,0,x.cevkol(wen.3rotceV ,VN(wen.emarFC = emarfc.gbetamina
+001*rotceVkool.emarFC.zosroT = cevkol lacol
+)0/1,00001,0/1(wen.3rotceV = euqroTxam.gbetamina
+zosroT = tneraP.gbetamina
+1.1 = deepsmina
+"gnillaF" = noitcAvarG
+neht "gnidnatS" == noitcA fi
+neht 09- < y.yticoleV.zosroT fi
+neht lin == 2ztih fi
+))0,6-,0(wen.3rotceV ,noitisoP.zosroT(YAR = 2zne ,2ztih lacol
+neht lin == ztih fi
+ 
+dne
+dne
+dne
+dne
+lin = tneraP.gbetamina
+))z.cevkol,0,x.cevkol(wen.3rotceV ,VN(wen.emarFC = emarfc.gbetamina
+001*rotceVkool.emarFC.zosroT = cevkol lacol
+)0/1,00001,0/1(wen.3rotceV = euqroTxam.gbetamina
+zosroT = tneraP.gbetamina
+neht lin =~ tneraP.gbetamina fi
+))0,0,)03/elgnamina-(+)2.0-ip.htam((wen.3rotceV ,)0,5.0,5.1-(wen.3rotceV ,VN,VN ,1,1,4tnioJ(dleWteS
+))0,0,)03/elgnamina(+)2.0-ip.htam((wen.3rotceV ,)0,5.0,5.1(wen.3rotceV ,VN,VN ,1,1,3tnioJ(dleWteS
+))0,0,83/elgnamina(wen.3rotceV ,)0,1-,5.0-(wen.3rotceV ,VN,VN ,1,1,2tnioJ(dleWteS
+))0,0,83/elgnamina-(wen.3rotceV ,)0,1-,5.0(wen.3rotceV ,VN,VN ,1,1,1tnioJ(dleWteS
+1.0 = deepsmina
+"gnisiR" = noitcAvarG
+neht "gnidnatS" == noitcA fi
+neht )09- > y.yticoleV.zosroT dna 1- < y.yticoleV.zosroT( ro 1 > y.yticoleV.zosroT fi
+neht lin == ztih fi
+ 
+dne
+dne
+animatsxam = animats
+esle
+dne
+animatsxam = animats
+neht animatsxam > animats fi
+dne
+20.1 + animats = animats
+esle
+56.0 + animats = animats
+neht eslaf == gnittiS fi
+neht animatsxam < animats fi
+dne
+))0,0,03/elgnamina-(wen.3rotceV ,)0,5.0,5.1-(wen.3rotceV ,VN,VN ,1,1,4tnioJ(dleWteS
+))0,0,03/elgnamina(wen.3rotceV ,)0,5.0,5.1(wen.3rotceV ,VN,VN ,1,1,3tnioJ(dleWteS
+))0,0,83/elgnamina(wen.3rotceV ,)0,1-,5.0-(wen.3rotceV ,VN,VN ,1,1,2tnioJ(dleWteS
+))0,0,83/elgnamina-(wen.3rotceV ,)0,1-,5.0(wen.3rotceV ,VN,VN ,1,1,1tnioJ(dleWteS
+neht "gnidnatS" == noitcA fi
+1.0 = deepsmina
+neht 2 < edutingam.)z.yticoleV.zosroT ,0 ,x.yticoleV.zosroT(wen.3rotceV fiesle
+dne
+))0,0,5/elgnamina-(wen.3rotceV ,)0,5.0,5.1-(wen.3rotceV ,VN,VN ,1,1,4tnioJ(dleWteS
+))0,0,5/elgnamina(wen.3rotceV ,)0,5.0,5.1(wen.3rotceV ,VN,VN ,1,1,3tnioJ(dleWteS
+))0,0,7/elgnamina(wen.3rotceV ,)0,1-,5.0-(wen.3rotceV ,VN,VN ,1,1,2tnioJ(dleWteS
+))0,0,7/elgnamina-(wen.3rotceV ,)0,1-,5.0(wen.3rotceV ,VN,VN ,1,1,1tnioJ(dleWteS
+56.0 = deepsmina
+neht "gnidnatS" == noitcA fi
+dne
+animatsxam = animats
+esle
+dne
+animatsxam = animats
+neht animatsxam > animats fi
+5.0 + animats = animats
+neht animatsxam < animats fi
+neht "gnidilS" =~ noitcA dna 21 > edutingam.)z.yticoleV.zosroT ,0 ,x.yticoleV.zosroT(wen.3rotceV fiesle
+dne
+))0,0,5.3/elgnamina-(wen.3rotceV ,)0,5.0,5.1-(wen.3rotceV ,VN,VN ,1,1,4tnioJ(dleWteS
+))0,0,5.3/elgnamina(wen.3rotceV ,)0,5.0,5.1(wen.3rotceV ,VN,VN ,1,1,3tnioJ(dleWteS
+))0,0,58.4/elgnamina(wen.3rotceV ,)0,1-,5.0-(wen.3rotceV ,VN,VN ,1,1,2tnioJ(dleWteS
+))0,0,58.4/elgnamina-(wen.3rotceV ,)0,1-,5.0(wen.3rotceV ,VN,VN ,1,1,1tnioJ(dleWteS
+58.0 = deepsmina
+neht "gnidnatS" == noitcA fi
+dne
+0 = animats
+eslaf = tfihS
+esle
+dne
+0 = animats
+eslaf = tfihS
+neht 0 < animats fi
+5.0 - animats = animats
+neht 0 > animats fi
+neht eurt == tfihS dna "gnidnatS" == noitcA dna 81 > edutingam.)z.yticoleV.zosroT ,0 ,x.yticoleV.zosroT(wen.3rotceV fi
+---------------------------------------- animats -----------------------------
+dne
+7.1 - tnioPvarG = tnioPvarG
+neht "gnipmuJ" == gninnuRllaWH fiesle
+dne
+2 - tnioPvarG = tnioPvarG
+esle
+4.0 - tnioPvarG = tnioPvarG
+neht eslaf == porDvarGRWH fi
+neht eurt == gninnuRllaWH fi
+dne
+1 - nwodlooCgniviD = nwodlooCgniviD
+neht 0 > nwodlooCgniviD fi
+dne
+dne
+2 - tnioPvarG = tnioPvarG
+neht 081- > tnioPvarG fi
+ 
+)0,0,2/ip.htam-(selgnA.emarFC * )yticolev.VBgniviD+noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC = emarfc.GBgniviD
+))2+tnirps(*z.riDgniviD,tnioPvarG,)2+tnirps(*x.riDgniviD(wen.3rotceV = yticolev.VBgniviD
+eurt = dnatSmroftalP.uH
+neht eurt == gniviD fi
+dne
+dne
+)(dnatS
+neht lin == 2ztih fi
+eurt = dnatSmroftalP.uH
+))0,2.2-,0(wen.3rotceV ,noitisoP.zosroT(YAR = 2zne ,2ztih lacol
+neht eurt == gnittiS fi
+dne
+0 = deepSklaW.uH
+neht eurt == eulaV.esuap fi
+dne
+1 - VOF = VOF
+neht 02 < edutingam.)z.yticoleV.zosroT,0,x.yticoleV.zosroT(wen.3rotceV dna )07 > VOF dna 47 =< VOF( fiesle
+1 + VOF = VOF
+neht 52 > edutingam.)z.yticoleV.zosroT,0,x.yticoleV.zosroT(wen.3rotceV dna )47 < VOF dna 07 => VOF( fi
+dne
+61 = deepSklaW.uH
+esle
+tnirps = deepSklaW.uH
+neht eurt == tfihS fi
+))0,9.3-,0(wen.3rotceV ,noitisoP.zosroT(YAR = zne ,ztih lacol
+ 
+dne
+deepsmina - elgnamina = elgnamina
+neht eslaf == sulpmina fiesle
+deepsmina + elgnamina = elgnamina
+neht eurt == sulpmina fi
+dne
+  eurt = sulpmina
+neht ip.htam- < elgnamina fiesle
+eslaf = sulpmina
+neht ip.htam > elgnamina fi
+-------- gnignahc elgna mina -------------
+ 
+063 % euh = euh
+3 + euh = euh
+"eldI" = noitcAvarG
+)(noitcnuf(tcennoc:deppetS.)"ecivreSnuR"(ecivres:emag
+ 
+dne
+)}hsem ,p{ ,2batedaf(tresni.elbat
+"08985384=di?/tessA/moc.xolbor.www//:ptth" = dIerutxeT.hsem
+"8986589=di?/tessA/moc.xolbor.www//:ptth" = dIhseM.hsem
+)p ,"hseMlaicepS"(wen.ecnatsnI = hsem lacol
+i.."traP" = emaN.p
+)(enolC:P = p lacol
+od 31 ,1 = i rof
+dne
+)}hsem ,p{ ,batedaf(tresni.elbat
+"08985384=di?/tessA/moc.xolbor.www//:ptth" = dIerutxeT.hsem
+"8986589=di?/tessA/moc.xolbor.www//:ptth" = dIhseM.hsem
+)p ,"hseMlaicepS"(wen.ecnatsnI = hsem lacol
+i.."traP" = emaN.p
+)(enolC:P = p lacol
+od 31 ,1 = i rof
+ 
+0 = tnuocgbetamina lacol
+}{ = 2batedaf lacol
+}{ = batedaf lacol
+)(kcit = tesffokcit lacol
+0 = tnuocelcycer lacol
+0 = euh lacol
+p.))0,1-,0(wen.emarFC * emarFC.AL( = sopalverp lacol
+p.))0,1-,0(wen.emarFC * emarFC.AR( = soparverp lacol
+ 
+noitcAvarG = noitcAvarGverP lacol
+"eldI" = noitcAvarG lacol
+001 = D.gbetamina
+)"oryGydoB"(wen.ecnatsnI = gbetamina lacol
+ 
+)(dnatS
+)5tnioJ(dleWteG
+)zosroT ,"panS"(wen.ecnatsnI = 5tnioJ
+)4tnioJ(dleWteG
+)zosroT ,"panS"(wen.ecnatsnI = 4tnioJ
+)3tnioJ(dleWteG
+)zosroT ,"panS"(wen.ecnatsnI = 3tnioJ
+)2tnioJ(dleWteG
+)zosroT ,"panS"(wen.ecnatsnI = 2tnioJ
+)1tnioJ(dleWteG
+)zosroT ,"panS"(wen.ecnatsnI = 1tnioJ
+ 
+)dne )yek(UK )yek(noitcnuf(tcennoc:pUyeK.esuom
+)dne )yek(DK )yek(noitcnuf(tcennoc:nwoDyeK.esuom
+ 
+dne
+dne
+eslaf = thgiRRWV
+neht "d" == yek fiesle
+eslaf = tfeLRWV
+neht "a" == yek fiesle
+eslaf = gnidilS
+neht )25(rahc.gnirts == yek fiesle
+dne
+)(dnatS
+neht "gnittiS" == noitcA fi
+neht )05(rahc.gnirts == yek fiesle
+eslaf = tfihS
+neht )84(rahc.gnirts == yek fiesle
+eslaf = ecapS
+neht )23(rahc.gnirts == yek fi
+)yek(UK noitcnuf
+ 
+dne
+dne
+dne
+eurt = thgiRRWV
+neht "d" == yek fiesle
+eurt = tfeLRWV
+neht "a" == yek fiesle
+dne
+)(edilS
+)"gnidilS"(tnirp
+neht 04- > y.yticoleV.zosroT dna 51 > edutingam.)z.yticoleV.zosroT,0,x.yticoleV.zosroT(wen.3rotceV dna 0 == nwodlooCedilS dna "gnidnatS" == noitcA dna eurt == tfihS fi
+neht )25(rahc.gnirts == yek fiesle
+dne
+eurt = porDvarGRWH
+neht eurt == gninnuRllaWH fiesle
+)(tiS
+neht "gnidnatS" == noitcA fi
+neht )05(rahc.gnirts == yek fiesle
+eurt = tfihS
+neht )84(rahc.gnirts == yek fiesle
+ 
+dne
+"gnipmuJRWH" = noitcA
+"gnipmuJ" = gninnuRllaWH
+neht eurt == gninnuRllaWH fi
+ 
+dne
+ 
+dne
+dne
+dne
+dne
+dne
+dne
+)2/ip.htam ,znetfel ,ztihtfel(nuRllaWH
+)"detavitcA tfeL"(tnirp
+neht lin == ztih fi
+esle
+)2/ip.htam ,znetfel ,ztihtfel(nuRllaWH
+)"!detavitcA tfeL dn2"(tnirp
+dne
+)10.0(tiaw
+od eslaf == gnidnatS elihw
+eslaf = gninnuRllaWH
+neht ztihtfel =~ traPtsaLRWH dna "gnipmuJ" == gninnuRllaWH fi
+neht thgir < tfel fiesle
+dne
+dne
+)2/ip.htam- ,znethgir ,ztihthgir(nuRllaWH
+)"detavitcA thgiR"(tnirp
+neht lin == ztih fi
+esle
+)2/ip.htam- ,znethgir ,ztihthgir(nuRllaWH
+)"!detavitcA thgiR dn2"(tnirp
+dne
+)10.0(tiaw
+od eslaf == gnidnatS elihw
+eslaf = gninnuRllaWH
+neht ztihthgir =~ traPtsaLRWH dna "gnipmuJ" == gninnuRllaWH fi
+neht tfel < thgir fi
+edutingam.)noitisoP.zosroT - znetfel( = tfel lacol
+edutingam.)noitisoP.zosroT - znethgir( = thgir lacol
+neht eslaf == edilloCnaC.2ztih ro lin == 2ztih fi
+neht ))"taH" =~ emaNssalc.tneraP.ztihtfel dna lin == )"dionamuH"(dlihCtsriFdnif:tneraP.ztihtfel dna lin =~ ztihtfel( ro )"taH" =~ emaNssalc.tneraP.ztihthgir dna lin == )"dionamuH"(dlihCtsriFdnif:tneraP.ztihthgir dna lin =~ ztihthgir(( dna )"gnipmuJ" == gninnuRllaWH ro lin == ztih( fi
+ 
+neht eslaf == gninnuRllaWV dna 0 == nwodlooCRWH dna )))ztihtfel =~ traPtsaLRWH ro ztihthgir =~ traPtsaLRWH( dna "gnipmuJ" == gninnuRllaWH( ro eslaf == gninnuRllaWH( fi
+ 
+dne
+dne
+dne
+)zne ,ztih(RWV
+neht eslaf == edilloCnaC.2ztih ro lin == 2ztih fi
+neht 0 == nwodlooCRWV dna "gnidnatS" == noitcA fi
+neht lin =~ ztih fi
+ 
+))0,5.3-,0(wen.3rotceV ,noitisoP.zosroT(YAR = 2zne ,2ztih lacol
+neht 0 =< nwodlooCgniviD dna eslaf == gniviD dna 05- > y.yticoleV.zosroT dna eurt == tfihS fi
+ 
+dne
+"llaFmorFpilfkcaB" = gninnuRllaWV
+neht "gnillaF" == gninnuRllaWV dna lin == ztih fi
+ 
+dne
+dne
+dne--
+)(eviD
+neht 21 > edutingam.)z.yticoleV.zosroT,0,x.yticoleV.zosroT(wen.3rotceV fi--
+neht 01 => animats fi
+neht 0 =< nwodlooCgniviD dna )05 < y.yticoleV.zosroT dna 6 > y.yticoleV.zosroT( dna )eslaf == edilloCnaC.ztihg ro lin == ztihg( dna )eslaf == edilloCnaC.ztihtfel ro lin == ztihtfel( dna )eslaf == edilloCnaC.ztihthgir ro lin == ztihthgir( dna )eslaf == edilloCnaC.ztih ro lin == ztih( dna eurt == tfihS dna "gnidnatS" == noitcA fi
+ 
+dne
+ 
+)9.3*tinu.)noitisoP.zosroT - p.))2.0-,0,5.1-(wen.emarFC * )riDRWH + noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC(( ,noitisoP.zosroT(YAR = znetfel ,ztihtfel
+)9.3*tinu.)noitisoP.zosroT - p.))2.0-,0,5.1(wen.emarFC * )riDRWH + noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC(( ,noitisoP.zosroT(YAR = znethgir ,ztihthgir
+neht "gnipmuJ" == gninnuRllaWH fiesle
+ 
+)9.3*tinu.)p.emarFC.zosroT - p.))2.0-,0,5.1-(wen.emarFC * emarFC.zosroT(( ,noitisoP.zosroT(YAR = znetfel ,ztihtfel
+)9.3*tinu.)p.emarFC.zosroT - p.))2.0-,0,5.1(wen.emarFC * emarFC.zosroT(( ,noitisoP.zosroT(YAR = znethgir ,ztihthgir
+neht eslaf == gninnuRllaWH fi
+ 
+znetfel ,ztihtfel lacol
+znethgir ,ztihthgir lacol
+)3.2*rotceVkool.emarFC.zosroT ,)0,1.1,0(wen.3rotceV+noitisoP.zosroT(YAR = zne ,ztih lacol
+))0,7.3-,0(wen.3rotceV ,noitisoP.zosroT(YAR = zneg ,ztihg lacol
+ 
+eurt = ecapS
+neht )23(rahc.gnirts == yek fi
+neht eslaf == eulaV.esuap fi
+)yek(DK noitcnuf
+ 
+dne
+)(dnatS
+01 = nwodlooCedilS
+)(evomer:gb
+)(evomer:vb
+dne
+)0,3,0(wen.3rotceV + )rid+zne ,zne(wen.emarFC = emarFC.zosroT
+))0,6.2-,0(wen.3rotceV ,noitisoP.zosroT(YAR = zne ,ztih lacol
+dne
+)20.0(tiaw
+dne
+63.0 - dps = dps
+dne
+6.5 - tnioPvarG = tnioPvarG
+neht 081- > tnioPvarG fi
+esle
+59.0 - dps = dps
+)0,)i*4/8.1(+7.0,0(wen.3rotceV + )0,)i*4/42.0( - 42.0,)i*4/)2.2/ip.htam(( - )2.2/ip.htam((selgnA.emarFC * )rid+zne ,zne(wen.emarFC = emarFC.zosroT
+0 = tnioPvarG
+neht lin =~ ztih fi
+ 
+)0,tnioPvarG,0(wen.3rotceV + dps*rid = yticolev.vb
+)0,)i*4/42.0( - 42.0,)i*4/)2.2/ip.htam(( - )2.2/ip.htam((selgnA.emarFC * )rid ,VN(wen.emarFC = emarfc.gb
+))0,6.2-,0(wen.3rotceV ,noitisoP.zosroT(YAR = zne ,ztih lacol
+)VN ,)0,1,0(wen.3rotceV ,a5j,5j ,4,i,5tnioj(dleWteS
+)VN ,)0,5.0,5.1-(wen.3rotceV ,a4j,4j ,4,i,4tnioj(dleWteS
+)VN ,)0,5.0,5.1(wen.3rotceV ,a3j,3j ,4,i,3tnioj(dleWteS
+))0,2/ip.htam,0(wen.3rotceV ,)0,1-,5.0-(wen.3rotceV ,a2j,2j ,4,i,2tnioj(dleWteS
+))0,2/ip.htam,0(wen.3rotceV ,)0,1-,5.0(wen.3rotceV ,a1j,1j ,4,i,1tnioj(dleWteS
+od 4 ,1 = i rof
+)5tnioj(dleWteG = a5j,5j lacol
+)4tnioj(dleWteG = a4j,4j lacol
+)3tnioj(dleWteG = a3j,3j lacol
+)2tnioj(dleWteG = a2j,2j lacol
+)1tnioj(dleWteG = a1j,1j lacol
+neht eslaf == gnidilS fi
+ 
+dne
+)20.0(tiaw
+dne
+eslaf = gnidilS
+neht 7 < dps fi
+dne
+63.0 - dps = dps
+dne
+6.5 - tnioPvarG = tnioPvarG
+neht 081- > tnioPvarG fi
+esle
+59.0 - dps = dps
+)0,7.0,0(wen.3rotceV + )0,42.0,2.2/ip.htam(selgnA.emarFC * )rid+zneg ,zneg(wen.emarFC = emarFC.zosroT
+0 = tnioPvarG
+neht lin =~ ztihg fi
+dne
+"tcejbOtiH" = gnidilS
+)(evomer:gb
+)(evomer:vb
+neht )eurt == edilloCnaC.2ztih  dna lin =~ 2ztih( ro )eurt == edilloCnaC.1ztih dna lin =~ 1ztih( fi
+ 
+dne
+))0,2.0-,5.0-(wen.3rotceV ,)0,1,0(wen.3rotceV ,a5j,5j ,5,tnuoc,5tnioj(dleWteS
+))5.1/ip.htam-,0,1.0-(wen.3rotceV ,)0,5.0,5.1-(wen.3rotceV ,a4j,4j ,5,tnuoc,4tnioj(dleWteS
+))5/ip.htam,42.0-,7.0-(wen.3rotceV ,)0,5.0,5.1(wen.3rotceV ,a3j,3j ,5,tnuoc,3tnioj(dleWteS
+))0,4.0-)2/ip.htam(,0(wen.3rotceV ,)0,1-,5.0-(wen.3rotceV ,a2j,2j ,5,tnuoc,2tnioj(dleWteS
+))4.0-,1.0+)2/ip.htam(,0(wen.3rotceV ,)51.0-,8.0-,5.0(wen.3rotceV ,a1j,1j ,5,tnuoc,1tnioj(dleWteS
+neht 5 =< tnuoc fi
+ 
+)0,tnioPvarG,0(wen.3rotceV + dps*rid = yticolev.vb
+))0,6.2-,0(wen.3rotceV ,noitisoP.zosroT(YAR = zneg ,ztihg lacol
+)5.2* rid ,)0,2.0,0(wen.3rotceV-noitisoP.zosroT(YAR = 2zne ,2ztih lacol
+)5.2* rid ,)0,30.0,0(wen.3rotceV+noitisoP.zosroT(YAR = 1zne ,1ztih lacol
+eurt = dnatSmroftalP.uH
+1 + tnuoc = tnuoc
+od eurt == gnidilS elihw
+ 
+soptsal lacol
+0 = tnuoc lacol
+ 
+)5tnioj(dleWteG = a5j,5j lacol
+)4tnioj(dleWteG = a4j,4j lacol
+)3tnioj(dleWteG = a3j,3j lacol
+)2tnioj(dleWteG = a2j,2j lacol
+)1tnioj(dleWteG = a1j,1j lacol
+ 
+)0,2/ip.htam,0(selgnA.emarFC * )0,1,0(wen.emarFC = 1C.2tnioj
+))z.a2j,2/ip.htam,x.a2j(wen.3rotceV ,)z.2j,y.2j,x.2j(wen.3rotceV ,VN,VN ,1,1,2tnioj(dleWteS
+)0,2/ip.htam,0(selgnA.emarFC * )0,1,0(wen.emarFC = 1C.1tnioj
+))z.a1j,2/ip.htam,x.a1j(wen.3rotceV ,)z.1j,y.1j,x.1j(wen.3rotceV ,VN,VN ,1,1,1tnioj(dleWteS
+ 
+)2tnioj(dleWteG = a2j,2j lacol
+)1tnioj(dleWteG = a1j,1j lacol
+5tnioJ = 5tnioj lacol
+4tnioJ = 4tnioj lacol
+3tnioJ = 3tnioj lacol
+2tnioJ = 2tnioj lacol
+1tnioJ = 1tnioj lacol
+ 
+)0,42.0,2.2/ip.htam(selgnA.emarFC * )rid ,VN(wen.emarFC = emarfc.gb
+)0/1,0/1,0/1(wen.3rotceV = euqroTxam.gb
+)zosroT ,"oryGydoB"(wen.ecnatsnI = gb lacol
+dps*rid = yticolev.vb
+)0/1,0/1,0/1(wen.3rotceV = ecroFxam.vb
+)zosroT ,"yticoleVydoB"(wen.ecnatsnI = vb lacol
+ 
+tinu.)z.yticoleV.zosroT,0,x.yticoleV.zosroT(wen.3rotceV = rid lacol
+01 + edutingam.)z.yticoleV.zosroT,0,x.yticoleV.zosroT(wen.3rotceV = dps lacol
+y.yticoleV.zosroT = tnioPvarG
+eurt = gnidilS
+"gnidilS" = noitcA
+6 + eulaV.wolf = eulaV.wolf
+)sop(edilS noitcnuf
+ 
+dne
+dne
+)(dnatS
+eslaf = gninnuRllaWV
+)(evomer:gb
+)(evomer:vb
+ 
+dne
+ 
+dne
+)(evomer:pb
+ 
+dne
+)20.0(tiaw
+noitisop.pb + emarfc.gb = emarFC.zosroT
+)0,0,)i*6/lavgb( + lavgb-(selgnA.emarFC * fcgb = emarfc.gb
+)0,1.0,0(wen.3rotceV + noitisop.pb = noitisop.pb
+))0,0,0(wen.3rotceV ,)0,1,0(wen.3rotceV ,a5j,5j ,6,i,5tnioj(dleWteS
+))0,2/ip.htam,0(wen.3rotceV ,)0,1-,5.0-(wen.3rotceV ,a4j,4j ,6,i,4tnioj(dleWteS
+))0,2/ip.htam,0(wen.3rotceV ,)0,1-,5.0(wen.3rotceV ,a3j,3j ,6,i,3tnioj(dleWteS
+))0,0,0(wen.3rotceV ,)0,5.0,5.1-(wen.3rotceV ,a2j,2j ,6,i,2tnioj(dleWteS
+))0,0,0(wen.3rotceV ,)0,5.0,5.1(wen.3rotceV ,a1j,1j ,6,i,1tnioj(dleWteS
+eurt = dnatSmroftalP.uH
+od 6 ,1 = i rof
+)5tnioj(dleWteG = a5j,5j lacol
+)4tnioj(dleWteG = a4j,4j lacol
+)3tnioj(dleWteG = a3j,3j lacol
+)2tnioj(dleWteG = a2j,2j lacol
+)1tnioj(dleWteG = a1j,1j lacol
+dne
+)(evomer:a
+neht lin =~ a fi
+dne
+)20.0(tiaw
+dne
+)i*6/7.0( + 3.0 = ycnerapsnarT.a
+)3.1,53.0,3.1(wen.3rotceV + elacS.hsem = elacS.hsem
+neht lin =~ a fi
+noitisop.pb + emarfc.gb = emarFC.zosroT
+)0,0,)i*6/lavgb( + )2*lavgb-((selgnA.emarFC * fcgb = emarfc.gb
+)0,70.0-,0(wen.3rotceV + noitisop.pb = noitisop.pb
+))0,0,8/ip.htam-(wen.3rotceV ,)0,58.0,0(wen.3rotceV ,a5j,5j ,6,i,5tnioj(dleWteS
+))3/ip.htam-,2/ip.htam,0(wen.3rotceV ,)7.0-,8.0-,15.0-(wen.3rotceV ,a4j,4j ,6,i,4tnioj(dleWteS
+))7/ip.htam-,2/ip.htam,0(wen.3rotceV ,)8.0-,3.0-,15.0(wen.3rotceV ,a3j,3j ,6,i,3tnioj(dleWteS
+))2.1/ip.htam-,5.0-,2/ip.htam(wen.3rotceV ,)2.0,5.0,2.1-(wen.3rotceV ,a2j,2j ,6,i,2tnioj(dleWteS
+))2.1/ip.htam,5.0,2/ip.htam(wen.3rotceV ,)2.0,5.0,2.1(wen.3rotceV ,a1j,1j ,6,i,1tnioj(dleWteS
+eurt = dnatSmroftalP.uH
+od 6 ,1 = i rof
+ 
+2/7/ip.htam = lavgb lacol
+)0,0,7/ip.htam-(selgnA.emarFC * fcgb = emarfc.gb
+))z.llawot,0,x.llawot(wen.3rotceV ,VN(wen.emarFC = fcgb lacol
+ 
+dne
+)0,0,0(wen.3rotceV = elacS.hsem
+"67992302=di?/tessa/moc.xolbor.www//:ptth" = dIhseM.hsem
+)a ,"hseMlaicepS"(wen.ecnatsnI = hsem
+))0,4.0,0(wen.3rotceV+sopgnidnal(wen.emarFC = emarFC.a
+3.0 = ycnerapsnarT.a
+)"yerg enots muideM"(wen.roloCkcirB = roloCkcirB.a
+"tceffEgnidnaLriA" = emaN.a
+zosroT = tneraP.a
+)(enolC:P = a
+neht 07- < tnioPvarG fi
+hsem lacol
+a lacol
+ 
+)5tnioj(dleWteG = a5j,5j lacol
+)4tnioj(dleWteG = a4j,4j lacol
+)3tnioj(dleWteG = a3j,3j lacol
+)2tnioj(dleWteG = a2j,2j lacol
+)1tnioj(dleWteG = a1j,1j lacol
+)0,2/ip.htam,0(selgnA.emarFC * )0,1,0(wen.emarFC = 1C.4tnioj
+)0,2/ip.htam,0(selgnA.emarFC * )0,1,0(wen.emarFC = 1C.3tnioj
+ 
+)"gnidnaL"(tnirp
+neht "llaFgnidnaL" == gninnuRllaWV fi
+ 
+dne
+)20.0(tiaw
+dne
+kaerb
+neht 002 > 2retnuoc fi
+dne
+9.1 - tnioPvarG = tnioPvarG
+neht 081 - > tnioPvarG fi
+ 
+dne
+kaerb
+dne
+0 = eulaV.wolf
+)41.0 ,pb(metIddA:)"sirbeD"(ecivres:emag
+p.emarFC.zosroT = noitisop.pb
+)0/1,0/1,0/1(wen.3rotceV = ecroFxam.pb
+)zosroT ,"noitisoPydoB"(wen.ecnatsnI = pb lacol
+VN = yticoleVtoR.zosroT
+VN = yticoleV.zosroT
+))0,3.2,0(wen.3rotceV+zne( + emarfc.gb = emarFC.zosroT
+esle
+"llaFgnidnaL" = gninnuRllaWV
+)1*llawot-( + )0,4.2,0(wen.3rotceV+zne = noitisop.pb
+)0/1,0/1,0/1(wen.3rotceV = ecroFxam.pb
+)zosroT ,"noitisoPydoB"(wen.ecnatsnI = pb
+neht 8 > retnuoc - 2retnuoc fi
+)3.1*llawot( - zne = sopgnidnal
+)(evomer:vb
+neht lin =~ ztih fi
+ 
+)0,ip.htam,sulpelgnagb + )4.2/ip.htam-((selgnA.emarFC * ))0,tnioPvarG,0(wen.3rotceV + )03*llawot-( ,VN(wen.emarFC = emarfc.gb
+dne
+)9 * rotceVkool.))0,2/ip.htam,0(selgnA.emarFC * )llawot ,VN(wen.emarFC(( - yticolev.vb = yticolev.vb
+neht eurt == thgiRRWV fi
+dne
+)9 * rotceVkool.))0,2/ip.htam,0(selgnA.emarFC * )llawot ,VN(wen.emarFC(( + yticolev.vb = yticolev.vb
+neht eurt == tfeLRWV fi
+edutingam.soprid * rotceVkool.)soprid ,VN(wen.emarFC = yticolev.vb
+)0,2-,0(wen.3rotceV = yticolev.vb--
+)0,tnioPvarG,0(wen.3rotceV + )5* llawot-( = soprid
+ 
+dne
+))0,0,7/ip.htam-(wen.3rotceV ,)0,9.0,0(wen.3rotceV ,a5j,5j ,31,retnuoc-2retnuoc,5tnioj(dleWteS
+))0,2/ip.htam,0(wen.3rotceV ,)50.0-,9.0-,15.0-(wen.3rotceV ,a4j,4j ,31,retnuoc-2retnuoc,4tnioj(dleWteS
+))0,2/ip.htam,0(wen.3rotceV ,)56.0-,3.0-,25.0(wen.3rotceV ,a3j,3j ,31,retnuoc-2retnuoc,3tnioj(dleWteS
+))2/ip.htam-,1.0-,2/ip.htam(wen.3rotceV ,)1.0,5.0,4.1-(wen.3rotceV ,a2j,2j ,31,retnuoc-2retnuoc,2tnioj(dleWteS
+))2/ip.htam,1.0,2/ip.htam(wen.3rotceV ,)1.0,5.0,4.1(wen.3rotceV ,a1j,1j ,31,retnuoc-2retnuoc,1tnioj(dleWteS
+neht 31 =< retnuoc - 2retnuoc fi
+dne
+)31/)1.1*ip.htam(( - sulpelgnagb = sulpelgnagb
+neht 31 < retnuoc - 2retnuoc fi
+ 
+))0,4.4-,0(wen.3rotceV ,)0,2,0(wen.3rotceV+noitisoP.H(YAR = zne ,ztih lacol
+1 + 2retnuoc = 2retnuoc
+od "llaFmorFpilfkcaB" == gninnuRllaWV elihw
+ 
+sopgnidnal lacol
+ 
+)5tnioj(dleWteG = a5j,5j lacol
+)4tnioj(dleWteG = a4j,4j lacol
+)3tnioj(dleWteG = a3j,3j lacol
+)2tnioj(dleWteG = a2j,2j lacol
+)1tnioj(dleWteG = a1j,1j lacol
+ 
+0 = sulpelgnagb lacol
+retnuoc = 2retnuoc lacol
+ 
+)"noitisoPydoB"(wen.ecnatsnI = pb lacol
+ 
+dne
+)20.0(tiaw
+dne
+kaerb
+neht 002 > retnuoc fi
+dne
+9.1 - tnioPvarG = tnioPvarG
+neht 081 - > tnioPvarG fi
+ 
+dne
+kaerb
+0 = eulaV.wolf
+)61.0 ,pb(metIddA:)"sirbeD"(ecivres:emag
+p.emarFC.zosroT = noitisop.pb
+)0/1,0/1,0/1(wen.3rotceV = ecroFxam.pb
+)zosroT ,"noitisoPydoB"(wen.ecnatsnI = pb lacol
+VN = yticoleVtoR.zosroT
+VN = yticoleV.zosroT
+)0,ip.htam,55.2/ip.htam-(selgnA.emarFC * )))0,tnioPvarG,0(wen.3rotceV + )52*llawot-(( + ))0,2,0(wen.3rotceV+zne( ,)0,2,0(wen.3rotceV+zne(wen.emarFC = emarFC.zosroT
+)(evomer:vb
+neht lin =~ ztih fi
+ 
+dne
+))0,0,6/ip.htam-(wen.3rotceV ,)0,1,0(wen.3rotceV ,a5j,5j ,53,retnuoc,5tnioj(dleWteS
+)0,2/ip.htam,0(selgnA.emarFC * ))retnuoc*53/2.0( - 2.0,)retnuoc*53/3.0( + 7.0,0(wen.emarFC = 1C.4tnioj
+))9/ip.htam,2/ip.htam,0(wen.3rotceV ,)0,57.0-,5.0-(wen.3rotceV ,a4j,4j ,53,retnuoc,4tnioj(dleWteS
+)0,2/ip.htam,0(selgnA.emarFC * ))retnuoc*53/2.0( - 2.0,)retnuoc*53/3.0( + 7.0,0(wen.emarFC = 1C.3tnioj
+))9/ip.htam,2/ip.htam,0(wen.3rotceV ,)0,57.0-,5.0(wen.3rotceV ,a3j,3j ,53,retnuoc,3tnioj(dleWteS
+))9/ip.htam-,0,9/ip.htam(wen.3rotceV ,)1.0-,54.0,4.1-(wen.3rotceV ,a2j,2j ,53,retnuoc,2tnioj(dleWteS
+))9/ip.htam,0,9/ip.htam(wen.3rotceV ,)1.0-,54.0,4.1(wen.3rotceV ,a1j,1j ,53,retnuoc,1tnioj(dleWteS
+neht 53 =< retnuoc fi
+ 
+)0,ip.htam,55.2/ip.htam-(selgnA.emarFC * ))0,tnioPvarG,0(wen.3rotceV + )03*llawot-( ,VN(wen.emarFC = emarfc.gb
+dne
+)9 * rotceVkool.))0,2/ip.htam,0(selgnA.emarFC * )llawot ,VN(wen.emarFC(( - yticolev.vb = yticolev.vb
+neht eurt == thgiRRWV fi
+dne
+)9 * rotceVkool.))0,2/ip.htam,0(selgnA.emarFC * )llawot ,VN(wen.emarFC(( + yticolev.vb = yticolev.vb
+neht eurt == tfeLRWV fi
+edutingam.soprid * rotceVkool.)soprid ,VN(wen.emarFC = yticolev.vb
+)0,tnioPvarG,0(wen.3rotceV + )5* llawot-( = soprid
+ 
+))0,4.2-,0(wen.3rotceV ,noitisoP.H(YAR = zne ,ztih lacol
+1 + retnuoc = retnuoc
+od "gnillaF" == gninnuRllaWV elihw
+0 = retnuoc lacol
+ 
+)5tnioj(dleWteG = a5j,5j lacol
+)4tnioj(dleWteG = a4j,4j lacol
+)3tnioj(dleWteG = a3j,3j lacol
+)2tnioj(dleWteG = a2j,2j lacol
+)1tnioj(dleWteG = a1j,1j lacol
+ 
+edutingam.soprid * rotceVkool.)soprid ,VN(wen.emarFC = yticolev.vb
+)0,tnioPvarG,0(wen.3rotceV + )5* llawot-( = soprid lacol
+1 - tnioPvarG = tnioPvarG
+neht "gnillaF" == gninnuRllaWV fi
+------------------------------ RWV morf gnillaF --------------------------
+ 
+dne
+dne
+"gnillaFRWV" = noitcA
+"gnillaF" = gninnuRllaWV
+neht 51.0 =< tnecrep fi
+820.0 - tnecrep = tnecrep
+)20.0(tiaw
+ 
+dne
+kaerb
+7- = tnioPvarG
+"gnillaFRWV" = noitcA
+"gnillaF" = gninnuRllaWV
+0 = tnecrep
+neht lin =~ 2ztih fi
+ 
+dne
+kaerb
+))z.vl,y.noitisoP.zosroT,x.vl(wen.3rotceV ,noitisoP.zosroT(wen.emarFC = emarFC.zosroT
+)001*rotceVkool.emarFC.zosroT( + noitisoP.zosroT = vl lacol
+neht lin == ztih fi
+ 
+))3.0-)8/elgnaina-(,2/ip.htam,0(wen.3rotceV ,))03/elgnaina(,57.0-,15.0-(wen.3rotceV ,VN,VN ,1,1,4tnioj(dleWteS
+))3.0-)8/elgnaina(,2/ip.htam,0(wen.3rotceV ,))03/elgnaina(-,57.0-,15.0(wen.3rotceV ,VN,VN ,1,1,3tnioj(dleWteS
+)))03/elgnaina-(+)8/ip.htam-(,25/elgnaina,2.3/ip.htam-(wen.3rotceV ,)1.0-,54.0,4.1-(wen.3rotceV ,VN,VN ,1,1,2tnioj(dleWteS
+)))03/elgnaina(+)8/ip.htam(,25/elgnaina,2.3/ip.htam-(wen.3rotceV ,)1.0-,54.0,4.1(wen.3rotceV ,VN,VN ,1,1,1tnioj(dleWteS
+ 
+)0,06/elgnaina,0(selgnA.emarFC * )0,0,)5/ip.htam((selgnA.emarFC * )llawot+isop ,isop(wen.emarFC = emarfc.gb
+ 
+dne
+))5+tnecrep*11( * rotceVkool.))0,2/ip.htam,0(selgnA.emarFC * )llawot ,VN(wen.emarFC(( - yticolev.vb = yticolev.vb
+neht eurt == thgiRRWV fi
+dne
+))5+tnecrep*11( * rotceVkool.))0,2/ip.htam,0(selgnA.emarFC * )llawot ,VN(wen.emarFC(( + yticolev.vb = yticolev.vb
+neht eurt == tfeLRWV fi
+tnecrep*))1-tnirps(*rid( = yticolev.vb
+ 
+dne
+))2.0+tnecrep(*3.1( - elgnaina = elgnaina
+neht eslaf == sulpina fiesle
+))2.0+tnecrep(*3.1( + elgnaina = elgnaina
+neht eurt == sulpina fi
+dne
+  eurt = sulpina
+neht ip.htam- < elgnaina fiesle
+eslaf = sulpina
+neht ip.htam > elgnaina fi
+ 
+)4.2*rotceVkool.))0,0,2/ip.htam(selgnA.emarFC*)llawot,VN(wen.emarFC( ,noitisoP.zosroT(YAR = 2zne ,2ztih lacol
+)1.2*llawot ,noitisoP.zosroT(YAR = zne ,ztih lacol
+od eurt == gninnuRllaWV elihw
+ 
+eurt = sulpina lacol
+0 = elgnaina lacol
+ 
+))0,0,02/ip.htam(wen.3rotceV ,)0,1,0(wen.3rotceV ,VN,VN ,1,1,5tnioj(dleWteS
+5tnioJ = 5tnioj lacol
+ 
+)0,2/ip.htam,0(selgnA.emarFC * )2.0,7.0,0(wen.emarFC = 1C.4tnioj
+))0,2/ip.htam,0(wen.3rotceV ,)1.0-,6.0-,84.0-(wen.3rotceV ,VN,VN ,1,1,4tnioj(dleWteS
+2tnioJ = 4tnioj lacol
+ 
+)0,2/ip.htam,0(selgnA.emarFC * )2.0,7.0,0(wen.emarFC = 1C.3tnioj
+))0,2/ip.htam,0(wen.3rotceV ,)1.0-,6.0-,84.0(wen.3rotceV ,VN,VN ,1,1,3tnioj(dleWteS
+1tnioJ = 3tnioj lacol
+ 
+))8/ip.htam-,0,2.3/ip.htam-(wen.3rotceV ,)1.0-,54.0,4.1-(wen.3rotceV ,VN,VN ,1,1,2tnioj(dleWteS
+4tnioJ = 2tnioj lacol
+ 
+))8/ip.htam,0,2.3/ip.htam-(wen.3rotceV ,)1.0-,54.0,4.1(wen.3rotceV ,VN,VN ,1,1,1tnioj(dleWteS
+3tnioJ = 1tnioj lacol
+ 
+)0,0,)5/ip.htam((selgnA.emarFC * )llawot+isop ,isop(wen.emarFC = emarFC.zosroT
+)0,0,)5/ip.htam((selgnA.emarFC * )llawot+isop ,isop(wen.emarFC = emarfc.gb
+)8.1*llawot-( + sop = isop lacol
+001 = D.gb
+)0/1,0/1,0/1(wen.3rotceV = euqroTxam.gb
+"tcejbOydoBanimatS" = emaN.gb
+)zosroT ,"oryGydoB"(wen.ecnatsnI = gb lacol
+ 
+tnecrep*))1-tnirps(*rid( = yticolev.vb
+0009 = P.vb
+)0/1,0/1,0/1(wen.3rotceV = ecroFxam.vb
+"tcejbOydoBanimatS" = emaN.vb
+)zosroT ,"yticoleVydoB"(wen.ecnatsnI = vb lacol
+]]
+3.0 = ycnerapsnarT.p
+)5*crid(wen.emarFC * emarFC.trap = emarFC.p
+eslaf = edilloCnaC.p
+)"neerg emiL"(wen.roloCkcirB = roloCkcirB.p
+)2,2,2(wen.3rotceV = eziS.p
+rahc = tneraP.p
+)(enolC:P = p lacol
+[[--
+rotceVkool.))0,0,2/ip.htam(selgnA.emarFC * )rid- ,VN(wen.emarFC( = rid
+rid- = llawot
+)sop ,trap(ecafruSdniF = crid ,rid lacol
+trap = traPtsaLRWV
+1 = tnecrep lacol
+0 = tnioPvarG
+"gninnuRllaWV" = noitcA
+eurt = gninnuRllaWV
+eslaf = gnidnatS
+9 + eulaV.wolf = eulaV.wolf
+)"detavitcA RWV"(tnirp
+neht "traP" =~ emaNssalc.trap ro )kcolB.epyTtraP.munE == epahS.trap dna "traP" == emaNssalc.trap( fi
+)sop ,trap(RWV noitcnuf
+ 
+dne
+dne
+eslaf = gninnuRllaWH
+)(dnatS
+eslaf = porDvarGRWH
+ 
+)(evomer:vb
+eslaf = dnatSmroftalP.uH
+ 
+dne
+dne
+)520.0(tiaw
+dne
+kaerb
+neht 021- < tnioPvarG fi
+dne
+)0,y.yticolev.vb,0(wen.3rotceV = yticolev.vb
+neht 0 =~ tnuocedilloc fi
+)0,tnioPvarG,0(wen.3rotceV + ))5+tnirps(*2rid( = yticolev.vb
+)elgnagb-,51/edis,0(selgnA.emarFC * )rid ,VN(wen.emarFC = emarfc.gb
+zosroT = tneraP.gb
+ 
+dne
+1 + tnuoc = tnuoc
+ 
+dne
+)0,0,tnuoc*5/)4/ip.htam-((selgnA.emarFC * 0C.4tnioj = 0C.4tnioj
+))0,7.1/edis-,0(wen.3rotceV ,)0,8.0-,5.0-(wen.3rotceV ,a4j,4j ,5,tnuoc,4tnioj(dleWteS
+)0,0,tnuoc*5/)4/ip.htam((selgnA.emarFC * 0C.3tnioj = 0C.3tnioj
+))0,7.1/edis-,0(wen.3rotceV ,)0,8.0-,5.0(wen.3rotceV ,a3j,3j ,5,tnuoc,3tnioj(dleWteS
+))4/ip.htam-,4.2/edis,0(wen.3rotceV ,)0,5.0,53.1-(wen.3rotceV ,a2j,2j ,5,tnuoc,2tnioj(dleWteS
+))3/ip.htam,4.2/edis,0(wen.3rotceV ,)0,5.0,53.1(wen.3rotceV ,a1j,1j ,5,tnuoc,1tnioj(dleWteS
+esle
+)0,0,tnuoc*5/)4/ip.htam((selgnA.emarFC * 0C.4tnioj = 0C.4tnioj
+))0,7.1/edis-,0(wen.3rotceV ,)0,8.0-,5.0-(wen.3rotceV ,a4j,4j ,5,tnuoc,4tnioj(dleWteS
+)0,0,tnuoc*5/)4/ip.htam-((selgnA.emarFC * 0C.3tnioj = 0C.3tnioj
+))0,7.1/edis-,0(wen.3rotceV ,)0,8.0-,5.0(wen.3rotceV ,a3j,3j ,5,tnuoc,3tnioj(dleWteS
+))3/ip.htam-,4.2/edis,0(wen.3rotceV ,)0,5.0,53.1-(wen.3rotceV ,a2j,2j ,5,tnuoc,2tnioj(dleWteS
+))4/ip.htam,4.2/edis,0(wen.3rotceV ,)0,5.0,53.1(wen.3rotceV ,a1j,1j ,5,tnuoc,1tnioj(dleWteS
+neht 2/ip.htam- == edis fi
+neht 5 =< tnuoc fi
+ 
+dne
+dne
+550.0 + elgnagb = elgnagb
+neht 2.0- < elgnagb fi
+esle
+dne
+550.0 - elgnagb = elgnagb
+neht 2.0 > elgnagb fi
+neht 0 > 2/edis fi
+ 
+dne
+dne
+kaerb
+)20.0(tiaw
+5 = nwodlooCRWV
+5 = nwodlooCRWH
+)0,y.yticoleV.zosroT,0(wen.3rotceV = yticoleV.zosroT
+)4.0,0,0(wen.emarFC * )2rid+noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC = emarFC.zosroT
+neht 4 == tnuocedilloc fi
+1 + tnuocedilloc = tnuocedilloc
+neht eurt == edilloCnaC.2ztih dna lin =~ 2ztih fi
+ 
+dne
+kaerb
+VN = yticoleV.zosroT
+)2rid+)0,9.2,0(wen.3rotceV+zne ,)0,9.2,0(wen.3rotceV+zne(wen.emarFC = emarFC.zosroT
+)y.p.emarFC.zosroT - y.zne(sba.htam = tesffo lacol
+neht eurt == edilloCnaC.ztih dna lin =~ ztih fi
+)4.1*2rid ,noitisoP.zosroT(YAR = 2zne ,2ztih lacol
+))0,4-,0(wen.3rotceV ,noitisoP.zosroT(YAR = zne ,ztih lacol
+od "gnipmuJ" == gninnuRllaWH elihw
+)0,tnioPvarG,0(wen.3rotceV + ))5+tnirps(*2rid( = yticolev.vb
+2rid = riDRWH
+rotceVkool.))0,4.2/edis-,0(selgnA.emarFC * )rid ,VN(wen.emarFC( = 2rid lacol
+1 = tnuoc lacol
+2/edis = elgnagb lacol
+0 = tnuocedilloc lacol
+62 = tnioPvarG
+ 
+)5tnioj(dleWteG = a5j,5j lacol
+)4tnioj(dleWteG = a4j,4j lacol
+)3tnioj(dleWteG = a3j,3j lacol
+)2tnioj(dleWteG = a2j,2j lacol
+)1tnioj(dleWteG = a1j,1j lacol
+ 
+)0,1,0(wen.emarFC = 0C.5tnioj
+)0,4.2/edis,0(selgnA.emarFC * )0,5.0-,0(wen.emarFC = 1C.5tnioj
+5tnioJ = 5tnioj lacol
+ 
+dne
+)4/ip.htam-,)4.2/edis(,0(selgnA.emarFC * )0,8.0-,5.0-(wen.emarFC = 0C.4tnioj
+esle
+)4/ip.htam,)4.2/edis(+ip.htam,0(selgnA.emarFC * )0,8.0-,5.0-(wen.emarFC = 0C.4tnioj
+neht 2/ip.htam- == edis fi
+)0,1,0(wen.emarFC = 1C.4tnioj
+0 = elgnAderiseD.4tnioj
+01 = yticoleVxaM.4tnioj
+dne
+)4/ip.htam,)4.2/edis(,0(selgnA.emarFC * )0,8.0-,5.0(wen.emarFC = 0C.3tnioj
+esle
+)4/ip.htam-,)4.2/edis(+ip.htam,0(selgnA.emarFC * )0,8.0-,5.0(wen.emarFC = 0C.3tnioj
+neht 2/ip.htam- == edis fi
+)0,1,0(wen.emarFC = 1C.3tnioj
+ 
+dne
+)4/ip.htam-,4.2/edis,0(selgnA.emarFC * )0,5.0,53.1-(wen.emarFC = 0C.2tnioj
+esle
+)3/ip.htam-,4.2/edis,0(selgnA.emarFC * )0,5.0,53.1-(wen.emarFC = 0C.2tnioj
+neht 2/ip.htam- == edis fi
+)0,5.0,0(wen.emarFC = 1C.2tnioj
+ 
+)0,5.0,0(wen.emarFC = 1C.1tnioj
+6 = nwodlooCRWH
+neht "gnipmuJ" == gninnuRllaWH fi
+ 
+dne
+ 
+dne
+kaerb
+)0,edis-,0(selgnA.emarFC * )2zne ,)z.p.emarfc.gb,tesffo,x.p.emarfc.gb(wen.3rotceV(wen.emarFC = emarFC.zosroT
+)y.p.emarfc.gb - )y.2zne+y.p.emarfc.gb((sba.htam = tesffo lacol
+)0,edis-,0(selgnA.emarFC * )2zne ,)2-*llawot(+2zne(wen.emarFC = emarfc.gb
+neht 001- < tnioPvarG fi
+)520.0(tiaw
+ 
+dne
+)))41/2elgnaina(-8.0-,0,0(wen.3rotceV ,2j ,a2j,2j ,1,1,2tnioj(dleWteS
+)2tnioj(dleWteG = a2j,2j lacol
+esle
+)))41/2elgnaina(+8.0,0,0(wen.3rotceV ,1j ,a1j,1j ,1,1,1tnioj(dleWteS
+)1tnioj(dleWteG = a1j,1j lacol
+neht 2/ip.htam == edis fi
+))0,0,)4/elgnaina-(+2.0-(wen.3rotceV,4j ,a4j,4j ,1,1,4tnioj(dleWteS
+))0,0,)4/elgnaina(+2.0-(wen.3rotceV,3j ,a3j,3j ,1,1,3tnioj(dleWteS
+)4tnioj(dleWteG = a4j,4j lacol
+)3tnioj(dleWteG = a3j,3j lacol
+)0,08/elgnaina,08/elgnaina(selgnA.emarFC * emarFC.zosroT = emarFC.zosroT
+)0,08/elgnaina,08/elgnaina(selgnA.emarFC * emarfc.gb = emarfc.gb
+)0,tnioPvarG,0(wen.3rotceV + ))5.0-tnirps(*rid( = yticolev.vb
+zosroT = tneraP.vb
+ 
+dne
+kaerb
+8 = nwodlooCRWH
+VN = yticoleV.zosroT
+)rid+noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC = emarfc.gb
+)rid+noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC = emarFC.zosroT
+neht eurt == edilloCnaC.3ztih dna lin =~ 3ztih fi
+)2*rotceVkool.emarFC.zosroT ,noitisoP.zosroT(YAR = 3zne ,3ztih lacol
+ 
+dne
+kaerb
+8 = nwodlooCRWH
+VN = yticoleV.zosroT
+)rid+noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC = emarfc.gb
+)rid+noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC = emarFC.zosroT
+llaw fo dne ta nur llaw sdne reyalp fi ----
+esle
+)2.2/edis-,edis-,0(selgnA.emarFC * )2zne ,)2-*llawot(+2zne(wen.emarFC = emarfc.gb
+)2.2/edis-,edis-,0(selgnA.emarFC * )2zne ,)2-*llawot(+2zne(wen.emarFC = emarFC.zosroT
+nur llaw ot eunitnoc ---
+dne
+dne
+kaerb
+8 = nwodlooCRWH
+VN = yticoleV.zosroT
+)rid+noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC = emarfc.gb
+)rid+noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC = emarFC.zosroT
+no nur ot llaw wen dnif ot sliaf reyalp fi ----
+esle
+2ztih = traPtsaLRWH
+2ztih = trapverp
+rotceVkool.))0,edis,0(selgnA.emarFC * )rid ,VN(wen.emarFC( = rid
+rid- = llawot
+)2zne ,2ztih(ecafruSdniF = crid ,rid
+)2.2/edis-,1.1*edis-,0(selgnA.emarFC * )2zne ,)2-*llawot(+2zne(wen.emarFC = emarfc.gb
+)2.2/edis-,1.1*edis-,0(selgnA.emarFC * )2zne ,)2-*llawot(+2zne(wen.emarFC = emarFC.zosroT
+neht lin =~ 3ztih fi
+)4*rotceVkool.))0,3.2/edis-,0(selgnA.emarFC * tcerid( ,noitisoP.zosroT(YAR = 3zne ,3ztih lacol
+)0,edis,0(selgnA.emarFC * )rid+noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC = tcerid lacol
+neht trapverp =~ 2ztih fi
+neht eurt == edilloCnaC.2ztih dna lin =~ 2ztih fi
+-------- dnuof llaw wen fi ----
+ 
+dne
+kaerb
+VN = yticoleV.zosroT
+)0,edis-,0(selgnA.emarFC * )2zne ,)z.p.emarfc.gb,tesffo,x.p.emarfc.gb(wen.3rotceV(wen.emarFC = emarFC.zosroT
+y.p.emarfc.gb - )y.2zne+y.p.emarfc.gb( = tesffo lacol
+)0,edis-,0(selgnA.emarFC * )2zne ,)2-*llawot(+2zne(wen.emarFC = emarfc.gb
+neht eurt == edilloCnaC.ztih dna lin =~ ztih fi
+dnuorg no nur llaw sdne reyalp fi ---
+ 
+)4.3*llawot ,noitisoP.zosroT(YAR = 2zne ,2ztih lacol
+))0,3-,0(wen.3rotceV ,noitisoP.zosroT(YAR = zne ,ztih lacol
+eurt = dnatSmroftalP.uH
+ 
+dne
+32.0 - 2elgnaina = 2elgnaina
+neht eslaf == 2sulpina fiesle
+32.0 + 2elgnaina = 2elgnaina
+neht eurt == 2sulpina fi
+dne
+  eurt = 2sulpina
+neht ip.htam- < 2elgnaina fiesle
+eslaf = 2sulpina
+neht ip.htam > 2elgnaina fi
+ 
+dne
+59.0 - elgnaina = elgnaina
+neht eslaf == sulpina fiesle
+59.0 + elgnaina = elgnaina
+neht eurt == sulpina fi
+dne
+  eurt = sulpina
+neht ip.htam- < elgnaina fiesle
+eslaf = sulpina
+neht ip.htam > elgnaina fi
+ 
+od eurt == gninnuRllaWH elihw
+trap = traPtsaLRWH
+trap = trapverp lacol
+ 
+eurt = 2sulpina lacol
+0 = 2elgnaina lacol
+eurt = sulpina lacol
+0 = elgnaina lacol
+ 
+)2.2/edis-,edis-,0(selgnA.emarFC * )sop ,)2-*llawot(+sop(wen.emarFC = emarfc.gb
+)2.2/edis-,edis-,0(selgnA.emarFC * )sop ,)2-*llawot(+sop(wen.emarFC = emarFC.zosroT
+ 
+))7/edis,0,0(wen.3rotceV,)0,9.0,0(wen.3rotceV,VN,VN,1,1,5tnioj(dleWteS
+5tnioJ = 5tnioj lacol
+ 
+dne
+))41.0,0,0(wen.3rotceV ,)3.0-,83.0-,5.0-(wen.3rotceV ,VN,VN ,1,1,4tnioj(dleWteS
+esle
+))2.0,0,0(wen.3rotceV ,)2.0-,8.0-,5.0-(wen.3rotceV ,VN,VN ,1,1,4tnioj(dleWteS
+neht 2/ip.htam- == edis fi
+)0,1,0(wen.emarFC = 1C.4tnioj
+2tnioJ = 4tnioj lacol
+ 
+dne
+))2.0,2/ip.htam,0(wen.3rotceV ,)2.0-,8.0-,5.0(wen.3rotceV ,VN,VN ,1,1,3tnioj(dleWteS
+esle
+))41.0,2/ip.htam,0(wen.3rotceV ,)3.0-,83.0-,5.0(wen.3rotceV ,VN,VN ,1,1,3tnioj(dleWteS
+neht 2/ip.htam- == edis fi
+)0,1,0(wen.emarFC = 1C.3tnioj
+1tnioJ = 3tnioj lacol
+ 
+0C.2tnioj = 0c2j lacol
+dne
+))7/ip.htam-,0,21/ip.htam-(wen.3rotceV ,)0,6.0,4.1-(wen.3rotceV ,VN,VN ,1,1,2tnioj(dleWteS
+2tnioj = dis
+esle
+))5.2/ip.htam-,1.0-,3.1/ip.htam(wen.3rotceV ,)0,5.0,5.1-(wen.3rotceV ,VN,VN ,1,1,2tnioj(dleWteS
+neht 2/ip.htam == edis fi
+4tnioJ = 2tnioj lacol
+ 
+0C.1tnioj = 0c1j lacol
+dne
+))7/ip.htam,0,21/ip.htam-(wen.3rotceV ,)0,6.0,4.1(wen.3rotceV ,VN,VN ,1,1,1tnioj(dleWteS
+1tnioj = dis
+esle
+))5.2/ip.htam,1.0,3.1/ip.htam(wen.3rotceV ,)0,5.0,5.1(wen.3rotceV ,VN,VN ,1,1,1tnioj(dleWteS
+neht 2/ip.htam- == edis fi
+3tnioJ = 1tnioj lacol
+ 
+)"panS"(wen.ecnatsnI = dis lacol
+ 
+001 = D.gb
+)2.4/edis-,edis-,0(selgnA.emarFC * )noitisoP.zosroT ,)2-*llawot(+noitisoP.zosroT(wen.emarFC = emarfc.gb
+)0/1,0/1,0/1(wen.3rotceV = euqroTxam.gb
+"tcejbOydoBanimatS" = emaN.gb
+)zosroT ,"oryGydoB"(wen.ecnatsnI = gb lacol
+)0,tnioPvarG,0(wen.3rotceV + ))5.0-tnirps(*rid( = yticolev.vb
+0009 = P.vb
+)0/1,0/1,0/1(wen.3rotceV = ecroFxam.vb
+"tcejbOydoBanimatS" = emaN.vb
+)zosroT ,"yticoleVydoB"(wen.ecnatsnI = vb lacol
+ 
+rotceVkool.))0,edis,0(selgnA.emarFC * )rid ,VN(wen.emarFC( = rid
+rid- = llawot
+)sop ,trap(ecafruSdniF = crid ,rid lacol
+trap = traPtsaLRWH
+01 = tnioPvarG
+"gninnuRllaWH" = noitcA
+eurt = gninnuRllaWH
+eslaf = gnidnatS
+9 + eulaV.wolf = eulaV.wolf
+neht "traP" =~ emaNssalc.trap ro )kcolB.epyTtraP.munE == epahS.trap dna "traP" == emaNssalc.trap( fi
+)edis ,sop ,trap(nuRllaWH noitcnuf
+ 
+dne
+dne
+)707.0-,707.0,0(wen.3rotceV ,))707.0-,707.0,0(wen.3rotceV(ecapSdlroWoTrotcev:emarFC.trap nruter
+neht "traPegdeW" == emaNssalc.trap fi
+dne
+dne
+cev,cevw nruter
+neht )10.0 < )1-Z.zv(sba.htam ro 10.0 < )1-Y.zv(sba.htam ro 10.0 < )1-X.zv(sba.htam( fi
+)cev*zis(/)jbo( = zv lacol
+)cev(ecapSdlroWoTrotcev:emarFC.trap = cevw lacol
+)v(dIlamroNmorF.3rotceV = cev lacol
+od ))(smetImunEteG:dIlamroN.munE(sriap ni v,i rof
+2/eziS.trap = zis lacol
+)noitisop(ecapStcejbOoTtniop:emarFC.trap = jbo lacol
+)noitisop ,trap(ecafruSdniF noitcnuf
+ 
+dne
+9 = nwodlooCgniviD
+)(dnatS
+ 
+VN = yticoleV.zosroT
+ 
+dne
+)20.0(tiaw
+dne
+kaerb
+neht 05 => tnuoc fiesle
+))0,0,4.0-(wen.3rotceV ,)0,1,0(wen.3rotceV ,a5j,5j ,6,i,5tnioj(dleWteS
+))50.0-,0,1.0-(wen.3rotceV ,)6.0-,4.0,15.0-(wen.3rotceV ,a4j,4j ,6,i,4tnioj(dleWteS
+))50.0,0,1.0-(wen.3rotceV ,)6.0-,4.0,15.0(wen.3rotceV ,a3j,3j ,6,i,3tnioj(dleWteS
+))8.5/ip.htam,0,6.2/ip.htam(wen.3rotceV ,)2.0-,5.0,53.1-(wen.3rotceV ,a2j,2j ,6,i,2tnioj(dleWteS
+))8.5/ip.htam-,0,6.2/ip.htam(wen.3rotceV ,)2.0-,5.0,53.1(wen.3rotceV ,a1j,1j ,6,i,tnioj(dleWteS
+)5tnioj(dleWteG = a5j,5j lacol
+)4tnioj(dleWteG = a4j,4j lacol
+)3tnioj(dleWteG = a3j,3j lacol
+)2tnioj(dleWteG = a2j,2j lacol
+)tnioj(dleWteG = a1j,1j lacol
+tnuoc = i lacol
+neht 6 =< tnuoc fi
+1 + tnuoc = tnuoc
+dne
+ 
+)0,3*edutingam.)2zne - noitisoP.zosroT(-,0(wen.3rotceV + )02*rid( = yticolev.vb
+esle
+)3.0 ,pb(metIddA:)"sirbeD"(ecivres:emag
+)0,8.2,0(wen.3rotceV + 2zne = noitisop.pb
+0007 = P.pb
+)0,0/1,0(wen.3rotceV = ecroFxam.pb
+"xiFpmuJanimatS" = emaN.pb
+)zosroT ,"noitisoPydoB"(wen.ecnatsnI = pb lacol
+neht eurt == dednalsah fiesle
+kaerb
+VN = yticoleV.zosroT
+neht lin == 2ztih fi
+))0,8.3-,0(wen.3rotceV ,noitisoP.zosroT(YAR = 2zne ,2ztih lacol
+dne
+eurt = dednalsah
+neht eurt == edilloCnaC.ztih dna lin =~ ztih fi
+)6.1*tinu.)p.emarFC.zosroT - p.))0,1-,0(wen.emarFC*emarFC.zosroT(( ,noitisoP.zosroT(YAR = zne ,ztih lacol
+)0,0,tnuoc*3.0-(selgnA.emarFC * fcgb = emarfc.gb
+od eslaf == dednalsah elihw
+ 
+0 = tnuoc lacol
+eslaf = dednalsah lacol
+emarfc.gb = fcgb lacol
+ 
+)0,5.0-,0(wen.3rotceV + )02*rid( = yticolev.vb
+ 
+dne
+)20.0(tiaw
+dne
+kaerb
+neht 091 > retnuoc fi
+dne
+dne
+kaerb
+0 = eulaV.wolf
+VN = yticoleV.zosroT
+)0,3.0-,0(wen.emarFC * emarFC.zosroT = emarFC.zosroT
+esle
+"gnilloReviD" = noitcA
+"gnilloR" = gniviD
+neht lin =~ 2ztih fi
+))0,4-,0(wen.3rotceV ,noitisoP.zosroT(YAR = 2zne ,2ztih lacol
+neht eurt == edilloCnaC.ztih dna lin =~ ztih fi
+)6.4*tinu.yticolev.vb ,noitisoP.zosroT(YAR = zne ,ztih lacol
+zosroT = tneraP.gb
+1 + retnuoc = retnuoc
+od eurt == gniviD elihw
+0 = retnuoc lacol
+ 
+dne
+)520.0(tiaw
+))0,0,54.0(wen.3rotceV ,)0,1,0(wen.3rotceV ,VN ,)0,1,0(wen.3rotceV ,8,i,5tnioj(dleWteS
+))41/ip.htam-,01/ip.htam,2.0-(wen.3rotceV ,)30.0,1-,5.0-(wen.3rotceV ,VN ,)0,1-,5.0-(wen.3rotceV ,8,i,4tnioj(dleWteS
+))41/ip.htam,01/ip.htam-,2.0-(wen.3rotceV ,)30.0,1-,5.0(wen.3rotceV ,VN ,)0,1-,5.0(wen.3rotceV ,8,i,3tnioj(dleWteS
+))31/ip.htam-,9/ip.htam,2.0-(wen.3rotceV ,)1.0,5.0,54.1-(wen.3rotceV ,VN ,)0,5.0,5.1-(wen.3rotceV ,8,i,2tnioj(dleWteS
+))31/ip.htam,9/ip.htam-,2.0-(wen.3rotceV ,)1.0,5.0,54.1(wen.3rotceV ,VN ,)0,5.0,5.1(wen.3rotceV ,8,i,tnioj(dleWteS
+od 8 ,1 = i rof
+ 
+"gniviD" = noitcA
+eurt = gniviD
+ 
+5tnioJ = 5tnioj lacol
+ 
+)0,1,0(wen.emarFC = 1C.4tnioj
+2tnioJ = 4tnioj lacol
+)0,1,0(wen.emarFC = 1C.3tnioj
+1tnioJ = 3tnioj lacol
+)0,5.0,0(wen.emarFC = 1C.2tnioj
+4tnioJ = 2tnioj lacol
+)0,5.0,0(wen.emarFC = 1C.tnioj
+3tnioJ = tnioj lacol
+ 
+gb = GBgniviD
+001 = D.gb
+)0,0,2/ip.htam-(selgnA.emarFC * )yticolev.vb+noitisoP.zosroT ,noitisoP.zosroT(wen.emarFC = emarfc.gb
+)0/1,0/1,0/1(wen.3rotceV = euqroTxam.gb
+"tcejbOydoBanimatS" = emaN.gb
+)zosroT ,"oryGydoB"(wen.ecnatsnI = gb lacol
+vb = VBgniviD
+)42*z.riDgniviD,tnioPvarG,42*x.riDgniviD(wen.3rotceV = yticolev.vb
+)0/1,0/1,0/1(wen.3rotceV = ecroFxam.vb
+"tcejbOydoBanimatS" = emaN.vb
+)zosroT ,"yticoleVydoB"(wen.ecnatsnI = vb lacol
+eurt = dnatSmroftalP.uH
+rid = riDgniviD
+fc = FCgniviD
+))0,y.noitisoP.zosroT,0(wen.3rotceV+rid ,noitisoP.zosroT(wen.emarFC = fc lacol
+rid = riDgniviD
+81 = tnioPvarG
+)z.rotceVkool.emarFC.zosroT,0,x.rotceVkool.emarFC.zosroT(wen.3rotceV = rid lacol
+eslaf = gnidnatS
+dne
+001 = eulaV.wolf
+neht 001 > eulaV.wolf fi
+01 + eulaV.wolf = eulaV.wolf
+01 - animats = animats
+)(eviD noitcnuf
+ 
+---------------------------------- eviD ---------------------------------------
+ 
+dne
+"gnidnatS" = noitcA
+eurt = gnidnatS
+eslaf = gniviD
+eslaf = gnittiS
+)0,5.0-,0(wen.emarFC = 1C.5tnioJ
+)0,1,0(wen.emarFC = 0C.5tnioJ
+H = 1traP.5tnioJ
+zosroT = 0traP.5tnioJ
+)0,5.0,0(wen.emarFC = 1C.4tnioJ
+)0,5.0,5.1-(wen.emarFC = 0C.4tnioJ
+AL = 1traP.4tnioJ
+zosroT = 0traP.4tnioJ
+)0,5.0,0(wen.emarFC = 1C.3tnioJ
+)0,5.0,5.1(wen.emarFC = 0C.3tnioJ
+AR = 1traP.3tnioJ
+zosroT = 0traP.3tnioJ
+)0,1,0(wen.emarFC = 1C.2tnioJ
+)0,1-,5.0-(wen.emarFC = 0C.2tnioJ
+LL = 1traP.2tnioJ
+zosroT = 0traP.2tnioJ
+)0,1,0(wen.emarFC = 1C.1tnioJ
+)0,1-,5.0(wen.emarFC = 0C.1tnioJ
+LR = 1traP.1tnioJ
+zosroT = 0traP.1tnioJ
+lin = 0traP.SL
+lin = 0traP.SR
+lin = 0traP.HL
+lin = 0traP.HR
+dne
+dne
+)(evomer:v
+neht "tcejbOydoBanimatS" == emaN.v fi
+od ))(nerdlihc:zosroT(sriap ni v ,i rof
+dne
+fc = emarFC.zosroT
+))z.ridrot,y.noitisoP.zosroT,x.ridrot(wen.3rotceV ,)0,8.1,0(wen.3rotceV + noitisoP.zosroT(wen.emarFC = fc lacol
+)00001*rotceVkool.emarFC.zosroT( + noitisoP.zosroT = ridrot lacol
+neht eurt == gnittiS fi
+eslaf = dnatSmroftalP.uH
+)(dnatS noitcnuf
+ 
+ 
+dne
+dne
+"gnittiS" = noitcA
+eurt = gnittiS
+ 
+dne
+))0,0,21/ip.htam-(wen.3rotceV ,)0,1,0(wen.3rotceV ,VN,VN ,1,1,5tnioJ(dleWteS
+))9/ip.htam-,0,)01/ip.htam(-)6/ip.htam(-(wen.3rotceV ,)1.0,4.0,4.1-(wen.3rotceV ,VN,VN ,1,1,4tnioJ(dleWteS
+))9/ip.htam,0,)01/ip.htam(-)6/ip.htam(-(wen.3rotceV ,)1.0,4.0,4.1(wen.3rotceV ,VN,VN ,1,1,3tnioJ(dleWteS
+esle
+)0,0,8.8/ip.htam-(selgnA.emarFC * )0,1,0(wen.emarFC = 0C.5tnioJ
+)0,0,3.2/ip.htam(selgnA.emarFC * )0,50.2/ip.htam-,0(selgnA.emarFC * )4.0-,4.0,9.0-(wen.emarFC = 0C.4tnioJ
+)0,0,3.2/ip.htam(selgnA.emarFC * )0,31.2/ip.htam,0(selgnA.emarFC * )54.0-,4.0,9.0(wen.emarFC = 0C.3tnioJ
+neht eurt == edilloCnaC.2ztih dna lin =~ 2ztih fi
+ 
+))8/ip.htam-,0,)6/ip.htam(-)2/ip.htam((wen.3rotceV ,)2.0,1-,43.0-(wen.3rotceV ,VN,VN ,1,1,2tnioJ(dleWteS
+))8/ip.htam,0,)6/ip.htam(-)2/ip.htam((wen.3rotceV ,)2.0,1-,43.0(wen.3rotceV ,VN,VN ,1,1,1tnioJ(dleWteS
+001 = D.gb
+fc = emarfc.gb
+)0/1,0/1,0/1(wen.3rotceV = euqroTxam.gb
+"tcejbOydoBanimatS" = emaN.gb
+)zosroT ,"oryGydoB"(wen.ecnatsnI = gb lacol
+p.fc = noitisop.pb
+001 = D.pb
+)0/1,0/1,0/1(wen.3rotceV = ecroFxam.pb
+"tcejbOydoBanimatS" = emaN.pb
+)zosroT ,"noitisoPydoB"(wen.ecnatsnI = pb lacol
+fc = emarFC.zosroT
+eurt = dnatSmroftalP.uH
+)2.2-*ridrot ,)0,52.2,0(wen.3rotceV+zne(YAR = 2zne,2ztih lacol
+)0,0,6/ip.htam(selgnA.emarFC * )ridrot+)0,82.1,0(wen.3rotceV+zne ,)0,82.1,0(wen.3rotceV+zne(wen.emarFC = fc lacol
+neht )eurt == edilloCnaC.ztih dna lin =~ ztih( fi
+)z.rotceVkool.emarFC.zosroT,0,x.rotceVkool.emarFC.zosroT(wen.3rotceV = ridrot lacol
+))0,1.4-,0(wen.3rotceV ,noitisoP.zosroT(YAR = zne,ztih lacol
+eslaf = gnidnatS
+)(tiS noitcnuf
+ 
+dne
+yar ,zne ,ztih nruter
+ 
+dne
+dne
+dne
+)tsildedilloc ,)10.0*rid(+tfeltsidwen ,sopdne ,soptrats ,rid ,)10.0*rid(-sopwen(YAR nruter
+neht VN =~ tfeltsidwen fi
+)edutingam.)sopwen - sop( * tinu.rid( - tfeltsid = tfeltsidwen lacol
+zne = sopwen lacol
+)ztih ,tsildedilloc(tresni.elbat
+neht eslaf == edilloCnaC.ztih fi
+neht lin =~ ztih fi
+]]
+3.0 = ycnerapsnarT.p
+)zne(wen.emarFC = emarFC.p
+eslaf = edilloCnaC.p
+)"neerg emiL"(wen.roloCkcirB = roloCkcirB.p
+)4.0,4.0,4.0(wen.3rotceV = eziS.p
+rahc = tneraP.p
+)(enolC:P = p lacol
+[[--
+)tsildedilloc ,yar(tsiLerongIhtiWyaRnOtraPdniF:ecapskrow = zne,ztih lacol
+)tfeltsid ,sop(wen.yaR = yar lacol
+tfeltsid + sop ro sopdne = sopdne
+edutingam.rid * tinu.rid ro tfeltsid = tfeltsid
+sop ro soptrats = soptrats
+}rahc{ ro tsildedilloc = tsildedilloc
+)tsildedilloc ,tfeltsid ,sopdne ,soptrats ,rid ,sop(YAR noitcnuf
+ 
+)dne
+)(iuGetaerC
+animatsxam = animats
+)"kceN"(dlihCtsriFdnif:zosroT = N
+)"piH tfeL"(dlihCtsriFdnif:zosroT = HL
+)"piH thgiR"(dlihCtsriFdnif:zosroT = HR
+)"redluohS tfeL"(dlihCtsriFdnif:zosroT = SL
+)"redluohS thgiR"(dlihCtsriFdnif:zosroT = SR
+)"dionamuH"(dlihCtsriFdnif:rahc = uH
+)"daeH"(dlihCtsriFdnif:rahc = H
+)"geL tfeL"(dlihCtsriFdnif:rahc = LL
+)"geL thgiR"(dlihCtsriFdnif:rahc = LR
+)"mrA tfeL"(dlihCtsriFdnif:rahc = AL
+)"mrA thgiR"(dlihCtsriFdnif:rahc = AR
+)"osroT"(dlihCtsriFdnif:rahc = zosroT
+retcarahC.reyalp = rahc
+)(noitcnuf(tcennoc:deddAretcarahC.reyalp
+ 
+)(iuGetaerC
+dne
+eurt = elbisiV.c
+)10.0(tiaw
+ 
+)(etaluclaC
+dne
+animatsxam = txeT.2t
+)animats(roolf.htam = txeT.t
+)mer-,0,0,0(wen.2miDU = noitisoP.gmi2f
+)mer,0,0,0(wen.2miDU = noitisoP.2f
+)rep,0,0,1(wen.2miDU = eziS.2f
+)mer,0,0,1(wen.2miDU = eziS.1f
+tesffO.Y.eziS.c * ))1-animatsxam/animats(-( = mer lacol
+tesffO.Y.eziS.c * )animatsxam/animats( = rep lacol
+tesffO.Y.eziS.c = ezisy lacol
+)(etaluclaC noitcnuf
+ 
+)tesffO.Y.eziS.c,0,0,1(wen.2miDU = eziS.gmi2f
+"119474211=di?/tessa/moc.xolbor.www//:ptth" = egamI.gmi2f
+1 = ycnerapsnarTdnuorgkcaB.gmi2f
+)2f ,"lebaLegamI"(wen.ecnatsnI = gmi2f lacol
+1 = ycnerapsnarTdnuorgkcaB.2f
+)8.0,0,0(wen.3roloC = 3roloCdnuorgkcaB.2f
+)0,1,0,1(wen.2miDU = eziS.2f
+eurt = stnadnecseDspilC.2f
+"yalrevO" = emaN.2f
+)c ,"emarF"(wen.ecnatsnI = 2f lacol
+ 
+)tesffO.Y.eziS.c,0,0,1(wen.2miDU = eziS.gmi1f
+"909474211=di?/tessa/moc.xolbor.www//:ptth" = egamI.gmi1f
+1 = ycnerapsnarTdnuorgkcaB.gmi1f
+)1f ,"lebaLegamI"(wen.ecnatsnI = gmi1f lacol
+1 = ycnerapsnarTdnuorgkcaB.1f
+)0,0,8.0(wen.3roloC = 3roloCdnuorgkcaB.1f
+)0,0,0,1(wen.2miDU = eziS.1f
+eurt = stnadnecseDspilC.1f
+"gnikcaB" = emaN.1f
+)c ,"emarF"(wen.ecnatsnI = 1f lacol
+ 
+"-----" = txeT.l
+)0,0,0,0(wen.2miDU = eziS.l
+c = tneraP.l
+)(enolC:t = l lacol
+)0,1.0,0,0(wen.2miDU = eziS.2t
+c = tneraP.2t
+)(enolC:t = 2t lacol
+1 = ycnerapsnarTdnuorgkcaB.t
+6 = eziStnoF.t
+3.0 = ycnerapsnarTekortStxeT.t
+)8.0,2.0,0(wen.3roloC = 3roloCekortStxeT.t
+)8.0,6.0,0(wen.3roloC = 3roloCtxeT.t
+1.0 = ycnerapsnarTtxeT.t
+"dloBlairA" = tnoF.t
+"thgiR" = tnemngilAXtxeT.t
+)0,5.0,0,3.0(wen.2miDU = noitisoP.t
+)0,1.0-,0,0(wen.2miDU = eziS.t
+)c ,"lebaLtxeT"(wen.ecnatsnI = t lacol
+ 
+"reniatnoC" = emaN.c
+)061-,5.0,69-,1(wen.2miDU = noitisoP.c
+1 = ycnerapsnarTdnuorgkcaB.c
+)023,0,68,0(wen.2miDU = eziS.c
+eslaf = elbisiV.c
+)g ,"emarF"(wen.ecnatsnI = c lacol
+ 
+"iuGanimats" = emaN.g
+)iuGreyalP.reyalp ,"iuGneercS"(wen.ecnatsnI = g lacol
+dne
+dne
+)(evomer:v
+neht "iuGanimats" == emaN.v dna "iuGneercS" == emaNssalc.v fi
+od ))(nerdlihc:iuGreyalP.reyalp(sriap ni v ,i rof
+)(iuGetaerC noitcnuf
+ 
+)(serutxeTdaoL
+dne
+dne
+)40.0(tiaw
+)v.."=di?/tessa/moc.xolbor.www//:ptth"(daolerP:slp
+od )sdidaol(sriap ni v ,i rof
+)"redivorPtnetnoC"(ecivres:emag = slp lacol
+)(serutxeTdaoL noitcnuf
+ 
+dne
+)zot + z.elgnagiro,yot + y.elgnagiro,xot + x.elgnagiro(selgnA.emarFC * )2zot + z.sopgiro,2yot + y.sopgiro,2xot + x.sopgiro(wen.emarFC = 0C.dlew
+zot + z.elgnagiro = eulaV.elgnAZ.dlew
+yot + y.elgnagiro = eulaV.elgnAY.dlew
+xot + x.elgnagiro = eulaV.elgnAX.dlew
+ 
+dne
+i*spool/ )z.soptxen - z.sopgiro(sba.htam = 2zot
+esle
+i*spool/ )z.soptxen - z.sopgiro(sba.htam- = 2zot
+neht z.soptxen > z.sopgiro fi
+dne
+i*spool/ )y.soptxen - y.sopgiro(sba.htam = 2yot
+esle
+i*spool/ )y.soptxen - y.sopgiro(sba.htam- = 2yot
+neht y.soptxen > y.sopgiro fi
+dne
+i*spool/ )x.soptxen - x.sopgiro(sba.htam = 2xot
+esle
+i*spool/ )x.soptxen - x.sopgiro(sba.htam- = 2xot
+neht x.soptxen > x.sopgiro fi
+0,0,0 = 2zot,2yot,2xot lacol
+ 
+dne
+i*spool/ )z.elgnatxen - z.elgnagiro(sba.htam = zot
+esle
+i*spool/ )z.elgnatxen - z.elgnagiro(sba.htam- = zot
+neht z.elgnatxen > z.elgnagiro fi
+dne
+i*spool/ )y.elgnatxen - y.elgnagiro(sba.htam = yot
+esle
+i*spool/ )y.elgnatxen - y.elgnagiro(sba.htam- = yot
+neht y.elgnatxen > y.elgnagiro fi
+dne
+i*spool/ )x.elgnatxen - x.elgnagiro(sba.htam = xot
+esle
+i*spool/ )x.elgnatxen - x.elgnagiro(sba.htam- = xot
+neht x.elgnatxen > x.elgnagiro fi
+0,0,0 = zot,yot,xot lacol
+ 
+dne
+"elgnAZ" = emaN.a
+)dlew ,"eulaVrebmuN"(wen.ecnatsnI = a lacol
+neht lin == )"elgnAZ"(dlihCtsriFdnif:dlew fi
+dne
+"elgnAY" = emaN.a
+)dlew ,"eulaVrebmuN"(wen.ecnatsnI = a lacol
+neht lin == )"elgnAY"(dlihCtsriFdnif:dlew fi
+dne
+"elgnAX" = emaN.a
+)dlew ,"eulaVrebmuN"(wen.ecnatsnI = a lacol
+neht lin == )"elgnAX"(dlihCtsriFdnif:dlew fi
+)elgnatxen,soptxen ,elgnagiro,sopgiro ,spool ,i ,dlew(dleWteS noitcnuf
+ 
+dne
+)eulaV.elgnAZ.dlew ,eulaV.elgnAY.dlew ,eulaV.elgnAX.dlew(wen.3rotceV ,p.0C.dlew nruter
+dne
+"elgnAZ" = emaN.a
+)dlew ,"eulaVrebmuN"(wen.ecnatsnI = a lacol
+neht lin == )"elgnAZ"(dlihCtsriFdnif:dlew fi
+dne
+"elgnAY" = emaN.a
+)dlew ,"eulaVrebmuN"(wen.ecnatsnI = a lacol
+neht lin == )"elgnAY"(dlihCtsriFdnif:dlew fi
+dne
+"elgnAX" = emaN.a
+)dlew ,"eulaVrebmuN"(wen.ecnatsnI = a lacol
+neht lin == )"elgnAX"(dlihCtsriFdnif:dlew fi
+)dlew(dleWteG noitcnuf
+ 
+dne
+)m + b.roloc ,m + g.roloc ,m + r.roloc(wen.3roloC nruter
+C - V = m lacol
+dne
+)X,0,C(wen.3roloC = roloc
+neht 6 =< 2H dna 2H =< 5 fiesle
+)C,0,X(wen.3roloC = roloc
+neht 5 =< 2H dna 2H =< 4 fiesle
+)C,X,0(wen.3roloC = roloc
+neht 4 =< 2H dna 2H =< 3 fiesle
+)X,C,0(wen.3roloC = roloc
+neht 3 =< 2H dna 2H =< 2 fiesle
+)0,C,X(wen.3roloC = roloc
+neht 2 =< 2H dna 2H =< 1 fiesle
+)0,X,C(wen.3roloC = roloc
+neht 1 =< 2H dna 2H =< 0 fiesle
+)0,0,C(wen.3roloC = roloc
+neht 0 =< 2H fi
+)0,0,0(wen.3roloC = roloc lacol
+))1- )2% 2H((sba.htam - 1( * C = X lacol
+06/H = 2H lacol
+S * V = C lacol
+063 % H = H
+)V,S,H(VSH noitcnuf
+ 
+0 = euh lacol
+ 
+"pirkSruokraP" = emaN.tpircs
+ 
+0 = ecafruSmottoB.P
+0 = ecafruSpoT.P
+eslaf = edilloCnaC.P
+eurt = derohcnA.P
+eurt = dekcoL.P
+)2.0,2.0,2.0(wen.3rotceV = eziS.P
+"motsuC" = rotcaFmrof.P
+"traPliarT" = emaN.P
+)"traP"(wen.ecnatsnI = P lacol
+ 
+"ztraPniahCwolF" = emaN.m
+)rahc ,"ledoM"(wen.ecnatsnI = m lacol
+ 
+0 = nwodloocwolf lacol
+0 = eulaV.wolf
+"wolF" = emaN.wolf
+)rahc ,"eulaVrebmuN"(wen.ecnatsnI = wolf lacol
+eslaf = eulaV.esuap
+"esuaP" = emaN.esuap
+)rahc ,"eulaVlooB"(wen.ecnatsnI = esuap lacol
+ 
+  tnirpsfed = tnirps lacol
+82 = tnirpsfed lacol
+999999 = animatsxam lacol
+99999 = animats lacol
+ 
+}909474211 ,119474211 ,909474211{ = sdidaol lacol
+ 
+dne
+dne
+)(evomer:v
+neht "etaminA" == emaN.v ro "ledoM" == emaNssalc.v ro "eulaVlooB" == emaNssalc.v ro "eulaVrebmuN" == emaNssalc.v ro )"pirkSruokraP" == emaN.v dna "tpircSlacoL" == emaNssalc.v( fi
+od ))(nerdlihc:rahc(sriap ni v ,i rof
+ 
+5tnioJ ,4tnioJ ,3tnioJ ,2tnioJ ,1tnioJ lacol
+10.0 = elgnamina lacol
+0 = deepsmina lacol
+eurt = sulpmina lacol
+"gnidnatS" = noitcA lacol
+eurt = gnidnatS lacol
+0 = nwodlooCedilS lacol
+eslaf = gnidilS lacol
+eslaf,eslaf = thgiRRWV,tfeLRWV lacol
+0 = nwodlooCRWV lacol
+traPtsaLRWV lacol
+eslaf = gninnuRllaWV lacol
+riDRWH lacol
+0 = nwodlooCRWH lacol
+traPtsaLRWH lacol
+eslaf = porDvarGRWH lacol
+eslaf = gninnuRllaWH lacol
+VBgniviD ,GBgniviD lacol
+)0,0,0(wen.emarFC = FCgniviD lacol
+VN = riDgniviD lacol
+0 = nwodlooCgniviD lacol
+eslaf = gniviD lacol
+0 = tnioPvarG lacol
+eslaf,eslaf,eslaf = gnittiS ,ecapS ,tfihS lacol
+07 = VOF lacol
+)0,0,0(wen.3rotceV = VN lacol
+)"kceN"(dlihCtsriFdnif:zosroT = N lacol
+)"piH tfeL"(dlihCtsriFdnif:zosroT = HL lacol
+)"piH thgiR"(dlihCtsriFdnif:zosroT = HR lacol
+)"redluohS tfeL"(dlihCtsriFdnif:zosroT = SL lacol
+)"redluohS thgiR"(dlihCtsriFdnif:zosroT = SR lacol
+)"dionamuH"(dlihCtsriFdnif:rahc = uH lacol
+)"daeH"(dlihCtsriFdnif:rahc = H lacol
+)"geL tfeL"(dlihCtsriFdnif:rahc = LL lacol
+)"geL thgiR"(dlihCtsriFdnif:rahc = LR lacol
+)"mrA tfeL"(dlihCtsriFdnif:rahc = AL lacol
+)"mrA thgiR"(dlihCtsriFdnif:rahc = AR lacol
+)"osroT"(dlihCtsriFdnif:rahc = zosroT lacol
+retcarahC.reyalp = rahc lacol
+aremaCtnerruC.ecapskrow = mac lacol
+)(esuoMteG:reyalp = esuom lacol
+reyalPlacoL.)"sreyalP"(ecivres:emag = reyalp lacol
+
+
+
+--ierdnaluftsiw yB edaM--
