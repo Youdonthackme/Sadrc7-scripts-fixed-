@@ -1,0 +1,2170 @@
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local Folder = Instance.new("Folder")
+local V11 = Instance.new("ScrollingFrame")
+local TextLabel = Instance.new("TextLabel")
+local TextLabel_2 = Instance.new("TextLabel")
+local TextLabel_3 = Instance.new("TextLabel")
+local are6 = Instance.new("TextButton")
+local Kickdabells = Instance.new("TextButton")
+local Decal = Instance.new("TextButton")
+local sky = Instance.new("TextButton")
+local Hint = Instance.new("TextButton")
+local part = Instance.new("TextButton")
+local Decal_2 = Instance.new("TextButton")
+local Decal_3 = Instance.new("TextButton")
+local Decal_4 = Instance.new("TextButton")
+local Realm = Instance.new("TextButton")
+local Decal_5 = Instance.new("TextButton")
+local Unanhcor = Instance.new("TextButton")
+local Hint_2 = Instance.new("TextButton")
+local Killal = Instance.new("TextButton")
+local Sky = Instance.new("TextButton")
+local Kickdabells_2 = Instance.new("TextButton")
+local Disco = Instance.new("TextButton")
+local Decal_6 = Instance.new("TextButton")
+local Humus = Instance.new("TextButton")
+local Realm_2 = Instance.new("TextButton")
+local Relm = Instance.new("TextButton")
+local Decal_7 = Instance.new("TextButton")
+local Hint_3 = Instance.new("TextButton")
+local Hint_4 = Instance.new("TextButton")
+local Decal_8 = Instance.new("TextButton")
+local sky_2 = Instance.new("TextButton")
+local Hint_5 = Instance.new("TextButton")
+local Message = Instance.new("TextButton")
+local Message_2 = Instance.new("TextButton")
+local Hint_6 = Instance.new("TextButton")
+local Decal_9 = Instance.new("TextButton")
+local part_2 = Instance.new("TextButton")
+local Message_3 = Instance.new("TextButton")
+local Decal_10 = Instance.new("TextButton")
+local are6_2 = Instance.new("TextButton")
+local Message_4 = Instance.new("TextButton")
+local re = Instance.new("TextButton")
+local Humus_2 = Instance.new("TextButton")
+local Hint_7 = Instance.new("TextButton")
+local are6_3 = Instance.new("TextButton")
+local sky_3 = Instance.new("TextButton")
+local Hint_8 = Instance.new("TextButton")
+local sky_4 = Instance.new("TextButton")
+local Hint_9 = Instance.new("TextButton")
+local Decal_11 = Instance.new("TextButton")
+local Hint_10 = Instance.new("TextButton")
+local re_2 = Instance.new("TextButton")
+local re_3 = Instance.new("TextButton")
+local Kickdabells_3 = Instance.new("TextButton")
+local Hint_11 = Instance.new("TextButton")
+local Humus_3 = Instance.new("TextButton")
+local Decal_12 = Instance.new("TextButton")
+local Message_5 = Instance.new("TextButton")
+local sky_5 = Instance.new("TextButton")
+local Decal_13 = Instance.new("TextButton")
+local Kickdabells_4 = Instance.new("TextButton")
+local Kickdabells_5 = Instance.new("TextButton")
+local Humus_4 = Instance.new("TextButton")
+local Hint_12 = Instance.new("TextButton")
+local Decal_14 = Instance.new("TextButton")
+local Decal_15 = Instance.new("TextButton")
+local re_4 = Instance.new("TextButton")
+local Kickdabells_6 = Instance.new("TextButton")
+local Message_6 = Instance.new("TextButton")
+local Hint_13 = Instance.new("TextButton")
+local Message_7 = Instance.new("TextButton")
+local Hint_14 = Instance.new("TextButton")
+local TextLabel_4 = Instance.new("TextLabel")
+local TextLabel_5 = Instance.new("TextLabel")
+local song = Instance.new("TextLabel")
+local Folder_2 = Instance.new("Folder")
+local V11_2 = Instance.new("ScrollingFrame")
+local TextLabel_6 = Instance.new("TextLabel")
+local TextLabel_7 = Instance.new("TextLabel")
+local TextLabel_8 = Instance.new("TextLabel")
+local are6_4 = Instance.new("TextButton")
+local Kickdabells_7 = Instance.new("TextButton")
+local Decal_16 = Instance.new("TextButton")
+local sky_6 = Instance.new("TextButton")
+local Hint_15 = Instance.new("TextButton")
+local part_3 = Instance.new("TextButton")
+local Decal_17 = Instance.new("TextButton")
+local Decal_18 = Instance.new("TextButton")
+local Decal_19 = Instance.new("TextButton")
+local Realm_3 = Instance.new("TextButton")
+local Decal_20 = Instance.new("TextButton")
+local Unanhcor_2 = Instance.new("TextButton")
+local Hint_16 = Instance.new("TextButton")
+local Killal_2 = Instance.new("TextButton")
+local Sky_2 = Instance.new("TextButton")
+local Kickdabells_8 = Instance.new("TextButton")
+local Disco_2 = Instance.new("TextButton")
+local Decal_21 = Instance.new("TextButton")
+local Humus_5 = Instance.new("TextButton")
+local Realm_4 = Instance.new("TextButton")
+local Relm_2 = Instance.new("TextButton")
+local Decal_22 = Instance.new("TextButton")
+local Hint_17 = Instance.new("TextButton")
+local Hint_18 = Instance.new("TextButton")
+local Decal_23 = Instance.new("TextButton")
+local sky_7 = Instance.new("TextButton")
+local Hint_19 = Instance.new("TextButton")
+local Message_8 = Instance.new("TextButton")
+local Message_9 = Instance.new("TextButton")
+local Hint_20 = Instance.new("TextButton")
+local Decal_24 = Instance.new("TextButton")
+local part_4 = Instance.new("TextButton")
+local Message_10 = Instance.new("TextButton")
+local Decal_25 = Instance.new("TextButton")
+local are6_5 = Instance.new("TextButton")
+local Message_11 = Instance.new("TextButton")
+local re_5 = Instance.new("TextButton")
+local Humus_6 = Instance.new("TextButton")
+local Hint_21 = Instance.new("TextButton")
+local are6_6 = Instance.new("TextButton")
+local sky_8 = Instance.new("TextButton")
+local Hint_22 = Instance.new("TextButton")
+local sky_9 = Instance.new("TextButton")
+local Hint_23 = Instance.new("TextButton")
+local Decal_26 = Instance.new("TextButton")
+local Hint_24 = Instance.new("TextButton")
+local re_6 = Instance.new("TextButton")
+local re_7 = Instance.new("TextButton")
+local Kickdabells_9 = Instance.new("TextButton")
+local Hint_25 = Instance.new("TextButton")
+local Humus_7 = Instance.new("TextButton")
+local Decal_27 = Instance.new("TextButton")
+local Message_12 = Instance.new("TextButton")
+local sky_10 = Instance.new("TextButton")
+local Decal_28 = Instance.new("TextButton")
+local Kickdabells_10 = Instance.new("TextButton")
+local Kickdabells_11 = Instance.new("TextButton")
+local Humus_8 = Instance.new("TextButton")
+local Hint_26 = Instance.new("TextButton")
+local Decal_29 = Instance.new("TextButton")
+local Decal_30 = Instance.new("TextButton")
+local re_8 = Instance.new("TextButton")
+local Kickdabells_12 = Instance.new("TextButton")
+local Message_13 = Instance.new("TextButton")
+local Hint_27 = Instance.new("TextButton")
+local Message_14 = Instance.new("TextButton")
+local Hint_28 = Instance.new("TextButton")
+local TextLabel_9 = Instance.new("TextLabel")
+local TextLabel_10 = Instance.new("TextLabel")
+local song_2 = Instance.new("TextLabel")
+local k00per = Instance.new("Folder")
+
+--Properties:
+
+Folder.Parent = game.StarterPlayer.MainModule.Script
+
+V11.Name = "V11"
+V11.Parent = Folder
+V11.Active = true
+V11.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+V11.BorderColor3 = Color3.fromRGB(0, 89, 39)
+V11.BorderSizePixel = 5
+V11.Position = UDim2.new(0.135988221, 0, 0.267331511, 0)
+V11.Size = UDim2.new(0, 463, 0, 719)
+V11.CanvasSize = UDim2.new(0, 0, 2.20000005, 0)
+
+TextLabel.Parent = V11
+TextLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.BorderSizePixel = 0
+TextLabel.Position = UDim2.new(0.282937378, 0, 0.0305980537, 0)
+TextLabel.Size = UDim2.new(0, 200, 0, 50)
+TextLabel.Font = Enum.Font.Arial
+TextLabel.Text = "K00pgui v11"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+TextLabel_2.Parent = TextLabel
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_2.BorderSizePixel = 0
+TextLabel_2.Position = UDim2.new(0, 0, 1.20000005, 0)
+TextLabel_2.Size = UDim2.new(0, 200, 0, 22)
+TextLabel_2.Font = Enum.Font.Arial
+TextLabel_2.Text = "By @k**pk**dAlt"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextSize = 10.000
+
+TextLabel_3.Parent = TextLabel_2
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_3.BorderSizePixel = 0
+TextLabel_3.Position = UDim2.new(0, 0, 1, 0)
+TextLabel_3.Size = UDim2.new(0, 200, 0, 23)
+TextLabel_3.Font = Enum.Font.Arial
+TextLabel_3.Text = "[Team k**pk*ld*d]"
+TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.TextSize = 10.000
+
+are6.Name = "are 6"
+are6.Parent = TextLabel_3
+are6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+are6.BorderColor3 = Color3.fromRGB(0, 89, 39)
+are6.Position = UDim2.new(-0.654999971, 0, -5.7391305, 0)
+are6.Size = UDim2.new(0, 50, 0, 29)
+are6.Font = Enum.Font.SourceSans
+are6.Text = "R6"
+are6.TextColor3 = Color3.fromRGB(255, 255, 255)
+are6.TextScaled = true
+are6.TextSize = 14.000
+are6.TextWrapped = true
+
+Kickdabells.Name = "Kick da bells"
+Kickdabells.Parent = TextLabel_3
+Kickdabells.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells.Position = UDim2.new(-0.654999971, 0, -3.56521749, 0)
+Kickdabells.Size = UDim2.new(0, 50, 0, 26)
+Kickdabells.Font = Enum.Font.SourceSans
+Kickdabells.Text = "Play k00p's theme"
+Kickdabells.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells.TextScaled = true
+Kickdabells.TextSize = 14.000
+Kickdabells.TextWrapped = true
+
+Decal.Name = "Decal"
+Decal.Parent = TextLabel_3
+Decal.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal.Position = UDim2.new(-0.340000004, 0, 1.30434787, 0)
+Decal.Size = UDim2.new(0, 101, 0, 34)
+Decal.Font = Enum.Font.SourceSans
+Decal.Text = "Decal"
+Decal.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal.TextScaled = true
+Decal.TextSize = 14.000
+Decal.TextWrapped = true
+
+sky.Name = "sk y"
+sky.Parent = TextLabel_3
+sky.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sky.BorderColor3 = Color3.fromRGB(0, 89, 39)
+sky.Position = UDim2.new(0.25, 0, 1.30434787, 0)
+sky.Size = UDim2.new(0, 101, 0, 34)
+sky.Font = Enum.Font.SourceSans
+sky.Text = "SkyBox"
+sky.TextColor3 = Color3.fromRGB(255, 255, 255)
+sky.TextScaled = true
+sky.TextSize = 14.000
+sky.TextWrapped = true
+
+Hint.Name = "H int"
+Hint.Parent = TextLabel_3
+Hint.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint.Position = UDim2.new(0.829999983, 0, 1.30434787, 0)
+Hint.Size = UDim2.new(0, 101, 0, 34)
+Hint.Font = Enum.Font.SourceSans
+Hint.Text = "Hint"
+Hint.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint.TextScaled = true
+Hint.TextSize = 14.000
+Hint.TextWrapped = true
+
+part.Name = "part"
+part.Parent = TextLabel_3
+part.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+part.BorderColor3 = Color3.fromRGB(0, 89, 39)
+part.Position = UDim2.new(-0.340000004, 0, 3.2608695, 0)
+part.Size = UDim2.new(0, 101, 0, 34)
+part.Font = Enum.Font.SourceSans
+part.Text = "Particals"
+part.TextColor3 = Color3.fromRGB(255, 255, 255)
+part.TextScaled = true
+part.TextSize = 14.000
+part.TextWrapped = true
+
+Decal_2.Name = "Decal"
+Decal_2.Parent = TextLabel_3
+Decal_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_2.Position = UDim2.new(0.25, 0, 3.2608695, 0)
+Decal_2.Size = UDim2.new(0, 101, 0, 34)
+Decal_2.Font = Enum.Font.SourceSans
+Decal_2.Text = "666"
+Decal_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_2.TextScaled = true
+Decal_2.TextSize = 14.000
+Decal_2.TextWrapped = true
+
+Decal_3.Name = "Decal"
+Decal_3.Parent = TextLabel_3
+Decal_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_3.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_3.Position = UDim2.new(0.829999983, 0, 3.2608695, 0)
+Decal_3.Size = UDim2.new(0, 101, 0, 34)
+Decal_3.Font = Enum.Font.SourceSans
+Decal_3.Text = "Jumpscare"
+Decal_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_3.TextScaled = true
+Decal_3.TextSize = 14.000
+Decal_3.TextWrapped = true
+
+Decal_4.Name = "Decal"
+Decal_4.Parent = TextLabel_3
+Decal_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_4.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_4.Position = UDim2.new(-0.340000004, 0, 5.21739149, 0)
+Decal_4.Size = UDim2.new(0, 101, 0, 34)
+Decal_4.Font = Enum.Font.SourceSans
+Decal_4.Text = "Obunga Scares You"
+Decal_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_4.TextScaled = true
+Decal_4.TextSize = 14.000
+Decal_4.TextWrapped = true
+
+Realm.Name = "Realm"
+Realm.Parent = TextLabel_3
+Realm.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Realm.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Realm.Position = UDim2.new(0.25, 0, 5.21739149, 0)
+Realm.Size = UDim2.new(0, 101, 0, 34)
+Realm.Font = Enum.Font.SourceSans
+Realm.Text = "k**pk**d's realm and antileave"
+Realm.TextColor3 = Color3.fromRGB(255, 255, 255)
+Realm.TextScaled = true
+Realm.TextSize = 14.000
+Realm.TextWrapped = true
+
+Decal_5.Name = "Decal"
+Decal_5.Parent = TextLabel_3
+Decal_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_5.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_5.Position = UDim2.new(0.829999983, 0, 5.21739149, 0)
+Decal_5.Size = UDim2.new(0, 101, 0, 34)
+Decal_5.Font = Enum.Font.SourceSans
+Decal_5.Text = "Toadroast"
+Decal_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_5.TextScaled = true
+Decal_5.TextSize = 14.000
+Decal_5.TextWrapped = true
+
+Unanhcor.Name = "Unanhcor"
+Unanhcor.Parent = TextLabel_3
+Unanhcor.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Unanhcor.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Unanhcor.Position = UDim2.new(-0.340000004, 0, 7.30434799, 0)
+Unanhcor.Size = UDim2.new(0, 101, 0, 34)
+Unanhcor.Font = Enum.Font.SourceSans
+Unanhcor.Text = "Unanchor"
+Unanhcor.TextColor3 = Color3.fromRGB(255, 255, 255)
+Unanhcor.TextScaled = true
+Unanhcor.TextSize = 14.000
+Unanhcor.TextWrapped = true
+
+Hint_2.Name = "H int"
+Hint_2.Parent = TextLabel_3
+Hint_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_2.Position = UDim2.new(0.25, 0, 7.30434799, 0)
+Hint_2.Size = UDim2.new(0, 101, 0, 34)
+Hint_2.Font = Enum.Font.SourceSans
+Hint_2.Text = "Explode Random"
+Hint_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_2.TextScaled = true
+Hint_2.TextSize = 14.000
+Hint_2.TextWrapped = true
+
+Killal.Name = "Kill al"
+Killal.Parent = TextLabel_3
+Killal.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Killal.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Killal.Position = UDim2.new(0.829999983, 0, 7.21739149, 0)
+Killal.Size = UDim2.new(0, 101, 0, 34)
+Killal.Font = Enum.Font.SourceSans
+Killal.Text = "Kill them all"
+Killal.TextColor3 = Color3.fromRGB(255, 255, 255)
+Killal.TextScaled = true
+Killal.TextSize = 14.000
+Killal.TextWrapped = true
+
+Sky.Name = "Sky"
+Sky.Parent = TextLabel_3
+Sky.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Sky.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Sky.Position = UDim2.new(-0.340000004, 0, 9.21739101, 0)
+Sky.Size = UDim2.new(0, 101, 0, 34)
+Sky.Font = Enum.Font.SourceSans
+Sky.Text = "Fire Rain"
+Sky.TextColor3 = Color3.fromRGB(255, 255, 255)
+Sky.TextScaled = true
+Sky.TextSize = 14.000
+Sky.TextWrapped = true
+
+Kickdabells_2.Name = "Kick da bells"
+Kickdabells_2.Parent = TextLabel_3
+Kickdabells_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells_2.Position = UDim2.new(0.25, 0, 9.21739101, 0)
+Kickdabells_2.Size = UDim2.new(0, 101, 0, 34)
+Kickdabells_2.Font = Enum.Font.SourceSans
+Kickdabells_2.Text = "Kick em all"
+Kickdabells_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells_2.TextScaled = true
+Kickdabells_2.TextSize = 14.000
+Kickdabells_2.TextWrapped = true
+
+Disco.Name = "Disco"
+Disco.Parent = TextLabel_3
+Disco.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Disco.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Disco.Position = UDim2.new(0.829999983, 0, 9.21739101, 0)
+Disco.Size = UDim2.new(0, 101, 0, 34)
+Disco.Font = Enum.Font.SourceSans
+Disco.Text = "Smooth Disco"
+Disco.TextColor3 = Color3.fromRGB(255, 255, 255)
+Disco.TextScaled = true
+Disco.TextSize = 14.000
+Disco.TextWrapped = true
+
+Decal_6.Name = "Decal"
+Decal_6.Parent = TextLabel_3
+Decal_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_6.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_6.Position = UDim2.new(-0.340000004, 0, 11.26087, 0)
+Decal_6.Size = UDim2.new(0, 101, 0, 34)
+Decal_6.Font = Enum.Font.SourceSans
+Decal_6.Text = "Insert Anti-Leave [Does it to you to]"
+Decal_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_6.TextScaled = true
+Decal_6.TextSize = 14.000
+Decal_6.TextWrapped = true
+
+Humus.Name = "Humus"
+Humus.Parent = TextLabel_3
+Humus.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Humus.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Humus.Position = UDim2.new(0.25, 0, 11.26087, 0)
+Humus.Size = UDim2.new(0, 101, 0, 34)
+Humus.Font = Enum.Font.SourceSans
+Humus.Text = "Thomas [R6 required]"
+Humus.TextColor3 = Color3.fromRGB(255, 255, 255)
+Humus.TextScaled = true
+Humus.TextSize = 14.000
+Humus.TextWrapped = true
+
+Realm_2.Name = "Realm"
+Realm_2.Parent = TextLabel_3
+Realm_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Realm_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Realm_2.Position = UDim2.new(0.829999983, 0, 11.26087, 0)
+Realm_2.Size = UDim2.new(0, 101, 0, 34)
+Realm_2.Font = Enum.Font.SourceSans
+Realm_2.Text = "Kick Yourself"
+Realm_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Realm_2.TextScaled = true
+Realm_2.TextSize = 14.000
+Realm_2.TextWrapped = true
+
+Relm.Name = "Relm"
+Relm.Parent = TextLabel_3
+Relm.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Relm.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Relm.Position = UDim2.new(-0.340000004, 0, 13.173913, 0)
+Relm.Size = UDim2.new(0, 101, 0, 34)
+Relm.Font = Enum.Font.SourceSans
+Relm.Text = "Color Spammer"
+Relm.TextColor3 = Color3.fromRGB(255, 255, 255)
+Relm.TextScaled = true
+Relm.TextSize = 14.000
+Relm.TextWrapped = true
+
+Decal_7.Name = "Decal"
+Decal_7.Parent = TextLabel_3
+Decal_7.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_7.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_7.Position = UDim2.new(0.245000005, 0, 13.1980114, 0)
+Decal_7.Size = UDim2.new(0, 101, 0, 34)
+Decal_7.Font = Enum.Font.SourceSans
+Decal_7.Text = "Become k**pK**dAlt (name changes too)"
+Decal_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_7.TextScaled = true
+Decal_7.TextSize = 14.000
+Decal_7.TextWrapped = true
+
+Hint_3.Name = "H int"
+Hint_3.Parent = TextLabel_3
+Hint_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_3.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_3.Position = UDim2.new(0.829999983, 0, 13.173913, 0)
+Hint_3.Size = UDim2.new(0, 101, 0, 34)
+Hint_3.Font = Enum.Font.SourceSans
+Hint_3.Text = "Ambatakam sky"
+Hint_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_3.TextScaled = true
+Hint_3.TextSize = 14.000
+Hint_3.TextWrapped = true
+
+Hint_4.Name = "H int"
+Hint_4.Parent = TextLabel_3
+Hint_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_4.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_4.Position = UDim2.new(-0.340000004, 0, 15.26087, 0)
+Hint_4.Size = UDim2.new(0, 200, 0, 50)
+Hint_4.Font = Enum.Font.SourceSans
+Hint_4.Text = "Destroy Complete [Only For Emergency]"
+Hint_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_4.TextScaled = true
+Hint_4.TextSize = 14.000
+Hint_4.TextWrapped = true
+
+Decal_8.Name = "Decal"
+Decal_8.Parent = TextLabel_3
+Decal_8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_8.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_8.Position = UDim2.new(0.75, 0, 15.26087, 0)
+Decal_8.Size = UDim2.new(0, 116, 0, 50)
+Decal_8.Font = Enum.Font.SourceSans
+Decal_8.Text = "Infinite yield"
+Decal_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_8.TextScaled = true
+Decal_8.TextSize = 14.000
+Decal_8.TextWrapped = true
+
+sky_2.Name = "sk y"
+sky_2.Parent = TextLabel_3
+sky_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sky_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+sky_2.Position = UDim2.new(0.449999988, 0, 45.217392, 0)
+sky_2.Size = UDim2.new(0, 110, 0, 48)
+sky_2.Font = Enum.Font.SourceSans
+sky_2.Text = "Blood Blood Song"
+sky_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+sky_2.TextScaled = true
+sky_2.TextSize = 14.000
+sky_2.TextWrapped = true
+
+Hint_5.Name = "H int"
+Hint_5.Parent = TextLabel_3
+Hint_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_5.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_5.Position = UDim2.new(0.245000005, 0, 18, 0)
+Hint_5.Size = UDim2.new(0, 101, 0, 34)
+Hint_5.Font = Enum.Font.SourceSans
+Hint_5.Text = "Hamster melting funny thing sky"
+Hint_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_5.TextScaled = true
+Hint_5.TextSize = 14.000
+Hint_5.TextWrapped = true
+
+Message.Name = "Message"
+Message.Parent = TextLabel_3
+Message.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message.Position = UDim2.new(-0.340000004, 0, 22.173914, 0)
+Message.Size = UDim2.new(0, 101, 0, 34)
+Message.Font = Enum.Font.SourceSans
+Message.Text = "Message"
+Message.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message.TextScaled = true
+Message.TextSize = 14.000
+Message.TextWrapped = true
+
+Message_2.Name = "Message"
+Message_2.Parent = TextLabel_3
+Message_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message_2.Position = UDim2.new(-0.340000004, 0, 20.086956, 0)
+Message_2.Size = UDim2.new(0, 101, 0, 34)
+Message_2.Font = Enum.Font.SourceSans
+Message_2.Text = "PBBV Decal spam"
+Message_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_2.TextScaled = true
+Message_2.TextSize = 14.000
+Message_2.TextWrapped = true
+
+Hint_6.Name = "H int"
+Hint_6.Parent = TextLabel_3
+Hint_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_6.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_6.Position = UDim2.new(0.25, 0, 20.086956, 0)
+Hint_6.Size = UDim2.new(0, 101, 0, 34)
+Hint_6.Font = Enum.Font.SourceSans
+Hint_6.Text = "K**x script"
+Hint_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_6.TextScaled = true
+Hint_6.TextSize = 14.000
+Hint_6.TextWrapped = true
+
+Decal_9.Name = "Decal"
+Decal_9.Parent = TextLabel_3
+Decal_9.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_9.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_9.Position = UDim2.new(0.795000017, 0, 20.086956, 0)
+Decal_9.Size = UDim2.new(0, 101, 0, 34)
+Decal_9.Font = Enum.Font.SourceSans
+Decal_9.Text = "Team *ns*rio decal"
+Decal_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_9.TextScaled = true
+Decal_9.TextSize = 14.000
+Decal_9.TextWrapped = true
+
+part_2.Name = "part"
+part_2.Parent = TextLabel_3
+part_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+part_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+part_2.Position = UDim2.new(0.795000017, 0, 18, 0)
+part_2.Size = UDim2.new(0, 101, 0, 34)
+part_2.Font = Enum.Font.SourceSans
+part_2.Text = "Obunga Skybox"
+part_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+part_2.TextScaled = true
+part_2.TextSize = 14.000
+part_2.TextWrapped = true
+
+Message_3.Name = "Message"
+Message_3.Parent = TextLabel_3
+Message_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_3.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message_3.Position = UDim2.new(0.245000005, 0, 22.173914, 0)
+Message_3.Size = UDim2.new(0, 101, 0, 34)
+Message_3.Font = Enum.Font.SourceSans
+Message_3.Text = "c00lify"
+Message_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_3.TextScaled = true
+Message_3.TextSize = 14.000
+Message_3.TextWrapped = true
+
+Decal_10.Name = "Decal"
+Decal_10.Parent = TextLabel_3
+Decal_10.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_10.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_10.Position = UDim2.new(0.795000017, 0, 22.173914, 0)
+Decal_10.Size = UDim2.new(0, 101, 0, 34)
+Decal_10.Font = Enum.Font.SourceSans
+Decal_10.Text = "k**p K**p (Crashes Games)"
+Decal_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_10.TextScaled = true
+Decal_10.TextSize = 14.000
+Decal_10.TextWrapped = true
+
+are6_2.Name = "are 6"
+are6_2.Parent = TextLabel_3
+are6_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+are6_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+are6_2.Position = UDim2.new(-0.340000004, 0, 24.304348, 0)
+are6_2.Size = UDim2.new(0, 101, 0, 34)
+are6_2.Font = Enum.Font.SourceSans
+are6_2.Text = "Gravity Hammer [R6 ONLY]"
+are6_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+are6_2.TextScaled = true
+are6_2.TextSize = 14.000
+are6_2.TextWrapped = true
+
+Message_4.Name = "Message"
+Message_4.Parent = TextLabel_3
+Message_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_4.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message_4.Position = UDim2.new(0.245000005, 0, 24.304348, 0)
+Message_4.Size = UDim2.new(0, 101, 0, 34)
+Message_4.Font = Enum.Font.SourceSans
+Message_4.Text = "IS Jumpscare"
+Message_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_4.TextScaled = true
+Message_4.TextSize = 14.000
+Message_4.TextWrapped = true
+
+re.Name = "re"
+re.Parent = TextLabel_3
+re.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+re.BorderColor3 = Color3.fromRGB(0, 89, 39)
+re.Position = UDim2.new(-0.655380845, 0, -2.42023635, 0)
+re.Size = UDim2.new(0, 57, 0, 38)
+re.Font = Enum.Font.SourceSans
+re.Text = "Refresh"
+re.TextColor3 = Color3.fromRGB(255, 255, 255)
+re.TextScaled = true
+re.TextSize = 14.000
+re.TextWrapped = true
+
+Humus_2.Name = "Humus"
+Humus_2.Parent = TextLabel_3
+Humus_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Humus_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Humus_2.Position = UDim2.new(1.33000004, 0, -5.7391305, 0)
+Humus_2.Size = UDim2.new(0, 50, 0, 29)
+Humus_2.Font = Enum.Font.SourceSans
+Humus_2.Text = "Stop Sounds"
+Humus_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Humus_2.TextScaled = true
+Humus_2.TextSize = 14.000
+Humus_2.TextWrapped = true
+
+Hint_7.Name = "H int"
+Hint_7.Parent = TextLabel_3
+Hint_7.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_7.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_7.Position = UDim2.new(0.795000017, 0, 24.2982845, 0)
+Hint_7.Size = UDim2.new(0, 101, 0, 34)
+Hint_7.Font = Enum.Font.SourceSans
+Hint_7.Text = "Localplayer troll face"
+Hint_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_7.TextScaled = true
+Hint_7.TextSize = 14.000
+Hint_7.TextWrapped = true
+
+are6_3.Name = "are 6"
+are6_3.Parent = TextLabel_3
+are6_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+are6_3.BorderColor3 = Color3.fromRGB(0, 89, 39)
+are6_3.Position = UDim2.new(-0.0949999988, 0, 45.217392, 0)
+are6_3.Size = UDim2.new(0, 109, 0, 48)
+are6_3.Font = Enum.Font.SourceSans
+are6_3.Text = "Andres music"
+are6_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+are6_3.TextScaled = true
+are6_3.TextSize = 14.000
+are6_3.TextWrapped = true
+
+sky_3.Name = "s ky"
+sky_3.Parent = TextLabel_3
+sky_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sky_3.BorderColor3 = Color3.fromRGB(0, 89, 39)
+sky_3.Position = UDim2.new(-0.340000004, 0, 18, 0)
+sky_3.Size = UDim2.new(0, 101, 0, 34)
+sky_3.Font = Enum.Font.SourceSans
+sky_3.Text = "Andres Skybox 2"
+sky_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+sky_3.TextScaled = true
+sky_3.TextSize = 14.000
+sky_3.TextWrapped = true
+
+Hint_8.Name = "H int"
+Hint_8.Parent = TextLabel_3
+Hint_8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_8.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_8.Position = UDim2.new(-0.340000004, 0, 26.434782, 0)
+Hint_8.Size = UDim2.new(0, 101, 0, 34)
+Hint_8.Font = Enum.Font.SourceSans
+Hint_8.Text = "k**pgui v4 72anz"
+Hint_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_8.TextScaled = true
+Hint_8.TextSize = 14.000
+Hint_8.TextWrapped = true
+
+sky_4.Name = "sk y"
+sky_4.Parent = TextLabel_3
+sky_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sky_4.BorderColor3 = Color3.fromRGB(0, 89, 39)
+sky_4.Position = UDim2.new(0.25, 0, 26.434782, 0)
+sky_4.Size = UDim2.new(0, 101, 0, 34)
+sky_4.Font = Enum.Font.SourceSans
+sky_4.Text = "TK2 skybox"
+sky_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+sky_4.TextScaled = true
+sky_4.TextSize = 14.000
+sky_4.TextWrapped = true
+
+Hint_9.Name = "H int"
+Hint_9.Parent = TextLabel_3
+Hint_9.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_9.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_9.Position = UDim2.new(0.795000017, 0, 26.434782, 0)
+Hint_9.Size = UDim2.new(0, 101, 0, 34)
+Hint_9.Font = Enum.Font.SourceSans
+Hint_9.Text = "Dancing Skeleton Skybox"
+Hint_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_9.TextScaled = true
+Hint_9.TextSize = 14.000
+Hint_9.TextWrapped = true
+
+Decal_11.Name = "Decal"
+Decal_11.Parent = TextLabel_3
+Decal_11.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_11.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_11.Position = UDim2.new(-0.340000004, 0, 28.26087, 0)
+Decal_11.Size = UDim2.new(0, 101, 0, 34)
+Decal_11.Font = Enum.Font.SourceSans
+Decal_11.Text = "Other k**pk**d decal"
+Decal_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_11.TextScaled = true
+Decal_11.TextSize = 14.000
+Decal_11.TextWrapped = true
+
+Hint_10.Name = "H int"
+Hint_10.Parent = TextLabel_3
+Hint_10.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_10.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_10.Position = UDim2.new(0.25, 0, 28.26087, 0)
+Hint_10.Size = UDim2.new(0, 101, 0, 34)
+Hint_10.Font = Enum.Font.SourceSans
+Hint_10.Text = "Cool jumpscare"
+Hint_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_10.TextScaled = true
+Hint_10.TextSize = 14.000
+Hint_10.TextWrapped = true
+
+re_2.Name = "re"
+re_2.Parent = TextLabel_3
+re_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+re_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+re_2.Position = UDim2.new(0.795000017, 0, 28.26087, 0)
+re_2.Size = UDim2.new(0, 101, 0, 34)
+re_2.Font = Enum.Font.SourceSans
+re_2.Text = "C**lK**d remake gui"
+re_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+re_2.TextScaled = true
+re_2.TextSize = 14.000
+re_2.TextWrapped = true
+
+re_3.Name = "re"
+re_3.Parent = TextLabel_3
+re_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+re_3.BorderColor3 = Color3.fromRGB(0, 89, 39)
+re_3.Position = UDim2.new(-0.340000004, 0, 30.043478, 0)
+re_3.Size = UDim2.new(0, 101, 0, 34)
+re_3.Font = Enum.Font.SourceSans
+re_3.Text = "k**pgui ultimate priv edition"
+re_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+re_3.TextScaled = true
+re_3.TextSize = 14.000
+re_3.TextWrapped = true
+
+Kickdabells_3.Name = "Kick da bells"
+Kickdabells_3.Parent = TextLabel_3
+Kickdabells_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells_3.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells_3.Position = UDim2.new(0.245000005, 0, 30.043478, 0)
+Kickdabells_3.Size = UDim2.new(0, 101, 0, 34)
+Kickdabells_3.Font = Enum.Font.SourceSans
+Kickdabells_3.Text = "Insert Chat Bypass"
+Kickdabells_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells_3.TextScaled = true
+Kickdabells_3.TextSize = 14.000
+Kickdabells_3.TextWrapped = true
+
+Hint_11.Name = "H int"
+Hint_11.Parent = TextLabel_3
+Hint_11.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_11.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_11.Position = UDim2.new(0.795000017, 0, 30.043478, 0)
+Hint_11.Size = UDim2.new(0, 101, 0, 34)
+Hint_11.Font = Enum.Font.SourceSans
+Hint_11.Text = "k00pcity 4"
+Hint_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_11.TextScaled = true
+Hint_11.TextSize = 14.000
+Hint_11.TextWrapped = true
+
+Humus_3.Name = "Humus"
+Humus_3.Parent = TextLabel_3
+Humus_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Humus_3.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Humus_3.Position = UDim2.new(-0.340000004, 0, 31.913044, 0)
+Humus_3.Size = UDim2.new(0, 101, 0, 34)
+Humus_3.Font = Enum.Font.SourceSans
+Humus_3.Text = "Super Scary face spam"
+Humus_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Humus_3.TextScaled = true
+Humus_3.TextSize = 14.000
+Humus_3.TextWrapped = true
+
+Decal_12.Name = "Decal"
+Decal_12.Parent = TextLabel_3
+Decal_12.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_12.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_12.Position = UDim2.new(0.25, 0, 31.913044, 0)
+Decal_12.Size = UDim2.new(0, 101, 0, 34)
+Decal_12.Font = Enum.Font.SourceSans
+Decal_12.Text = "Quandale Jumpscare"
+Decal_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_12.TextScaled = true
+Decal_12.TextSize = 14.000
+Decal_12.TextWrapped = true
+
+Message_5.Name = "Message"
+Message_5.Parent = TextLabel_3
+Message_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_5.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message_5.Position = UDim2.new(0.795000017, 0, 31.9538441, 0)
+Message_5.Size = UDim2.new(0, 101, 0, 34)
+Message_5.Font = Enum.Font.SourceSans
+Message_5.Text = "Quandale Decal Spam"
+Message_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_5.TextScaled = true
+Message_5.TextSize = 1.000
+Message_5.TextWrapped = true
+
+sky_5.Name = "s ky"
+sky_5.Parent = TextLabel_3
+sky_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sky_5.BorderColor3 = Color3.fromRGB(0, 89, 39)
+sky_5.Position = UDim2.new(-0.340000004, 0, 33.8668861, 0)
+sky_5.Size = UDim2.new(0, 101, 0, 34)
+sky_5.Font = Enum.Font.SourceSans
+sky_5.Text = "I live skybox"
+sky_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+sky_5.TextScaled = true
+sky_5.TextSize = 14.000
+sky_5.TextWrapped = true
+
+Decal_13.Name = "Decal"
+Decal_13.Parent = TextLabel_3
+Decal_13.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_13.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_13.Position = UDim2.new(0.25, 0, 33.826088, 0)
+Decal_13.Size = UDim2.new(0, 101, 0, 34)
+Decal_13.Font = Enum.Font.SourceSans
+Decal_13.Text = "Andres gui"
+Decal_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_13.TextScaled = true
+Decal_13.TextSize = 14.000
+Decal_13.TextWrapped = true
+
+Kickdabells_4.Name = "Kick da bells"
+Kickdabells_4.Parent = TextLabel_3
+Kickdabells_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells_4.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells_4.Position = UDim2.new(0.795000017, 0, 33.826088, 0)
+Kickdabells_4.Size = UDim2.new(0, 101, 0, 34)
+Kickdabells_4.Font = Enum.Font.SourceSans
+Kickdabells_4.Text = "Clear Server"
+Kickdabells_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells_4.TextScaled = true
+Kickdabells_4.TextSize = 14.000
+Kickdabells_4.TextWrapped = true
+
+Kickdabells_5.Name = "Kick da bells"
+Kickdabells_5.Parent = TextLabel_3
+Kickdabells_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells_5.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells_5.Position = UDim2.new(-0.340000004, 0, 35.9565201, 0)
+Kickdabells_5.Size = UDim2.new(0, 101, 0, 34)
+Kickdabells_5.Font = Enum.Font.SourceSans
+Kickdabells_5.Text = "Ro xploit 6.0"
+Kickdabells_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells_5.TextScaled = true
+Kickdabells_5.TextSize = 14.000
+Kickdabells_5.TextWrapped = true
+
+Humus_4.Name = "Humus"
+Humus_4.Parent = TextLabel_3
+Humus_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Humus_4.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Humus_4.Position = UDim2.new(0.25, 0, 35.913044, 0)
+Humus_4.Size = UDim2.new(0, 101, 0, 34)
+Humus_4.Font = Enum.Font.SourceSans
+Humus_4.Text = "Fire all players torso"
+Humus_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Humus_4.TextScaled = true
+Humus_4.TextSize = 14.000
+Humus_4.TextWrapped = true
+
+Hint_12.Name = "H int"
+Hint_12.Parent = TextLabel_3
+Hint_12.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_12.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_12.Position = UDim2.new(0.795000017, 0, 35.913044, 0)
+Hint_12.Size = UDim2.new(0, 101, 0, 34)
+Hint_12.Font = Enum.Font.SourceSans
+Hint_12.Text = "Team Enstrio gui v2"
+Hint_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_12.TextScaled = true
+Hint_12.TextSize = 14.000
+Hint_12.TextWrapped = true
+
+Decal_14.Name = "Decal"
+Decal_14.Parent = TextLabel_3
+Decal_14.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_14.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_14.Position = UDim2.new(-0.340000004, 0, 38.173912, 0)
+Decal_14.Size = UDim2.new(0, 101, 0, 34)
+Decal_14.Font = Enum.Font.SourceSans
+Decal_14.Text = "Team fat v17 cracked by lua"
+Decal_14.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_14.TextScaled = true
+Decal_14.TextSize = 14.000
+Decal_14.TextWrapped = true
+
+Decal_15.Name = "Decal"
+Decal_15.Parent = TextLabel_3
+Decal_15.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_15.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_15.Position = UDim2.new(0.245000005, 0, 38.173912, 0)
+Decal_15.Size = UDim2.new(0, 101, 0, 34)
+Decal_15.Font = Enum.Font.SourceSans
+Decal_15.Text = "C**lK**d reawakend"
+Decal_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_15.TextScaled = true
+Decal_15.TextSize = 14.000
+Decal_15.TextWrapped = true
+
+re_4.Name = "re"
+re_4.Parent = TextLabel_3
+re_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+re_4.BorderColor3 = Color3.fromRGB(0, 89, 39)
+re_4.Position = UDim2.new(1.00000095, 0, 45.217392, 0)
+re_4.Size = UDim2.new(0, 97, 0, 48)
+re_4.Font = Enum.Font.SourceSans
+re_4.Text = "Gansta Paradise"
+re_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+re_4.TextScaled = true
+re_4.TextSize = 14.000
+re_4.TextWrapped = true
+
+Kickdabells_6.Name = "Kick da bells"
+Kickdabells_6.Parent = TextLabel_3
+Kickdabells_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells_6.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells_6.Position = UDim2.new(-0.654999971, 0, 45.217392, 0)
+Kickdabells_6.Size = UDim2.new(0, 112, 0, 48)
+Kickdabells_6.Font = Enum.Font.SourceSans
+Kickdabells_6.Text = "Wont Stop Us"
+Kickdabells_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells_6.TextScaled = true
+Kickdabells_6.TextSize = 14.000
+Kickdabells_6.TextWrapped = true
+
+Message_6.Name = "Message"
+Message_6.Parent = TextLabel_3
+Message_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_6.BorderColor3 = Color3.fromRGB(0, 89, 38)
+Message_6.Position = UDim2.new(-0.654999971, 0, 47.47826, 0)
+Message_6.Size = UDim2.new(0, 113, 0, 48)
+Message_6.Font = Enum.Font.SourceSans
+Message_6.Text = "K**p coffe shop theme"
+Message_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_6.TextScaled = true
+Message_6.TextSize = 14.000
+Message_6.TextWrapped = true
+
+Hint_13.Name = "H int"
+Hint_13.Parent = TextLabel_3
+Hint_13.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_13.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_13.Position = UDim2.new(-0.660000026, 0, 40.3478279, 0)
+Hint_13.Size = UDim2.new(0, 101, 0, 34)
+Hint_13.Font = Enum.Font.SourceSans
+Hint_13.Text = "Distort"
+Hint_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_13.TextScaled = true
+Hint_13.TextSize = 14.000
+Hint_13.TextWrapped = true
+
+Message_7.Name = "Message"
+Message_7.Parent = TextLabel_3
+Message_7.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_7.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message_7.Position = UDim2.new(0.939999998, 0, 40.2608719, 0)
+Message_7.Size = UDim2.new(0, 109, 0, 36)
+Message_7.Font = Enum.Font.SourceSans
+Message_7.Text = "Reverb"
+Message_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_7.TextScaled = true
+Message_7.TextSize = 14.000
+Message_7.TextWrapped = true
+
+Hint_14.Name = "H int"
+Hint_14.Parent = TextLabel_3
+Hint_14.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_14.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_14.Position = UDim2.new(-0.0900000036, 0, 47.47826, 0)
+Hint_14.Size = UDim2.new(0, 108, 0, 48)
+Hint_14.Font = Enum.Font.SourceSans
+Hint_14.Text = "Life in paradise"
+Hint_14.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_14.TextScaled = true
+Hint_14.TextSize = 14.000
+Hint_14.TextWrapped = true
+
+TextLabel_4.Parent = V11
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_4.BorderSizePixel = 0
+TextLabel_4.Position = UDim2.new(0.282937378, 0, 0.935557544, 0)
+TextLabel_4.Size = UDim2.new(0, 200, 0, 29)
+TextLabel_4.Font = Enum.Font.SourceSans
+TextLabel_4.Text = "-- Credits --"
+TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.TextScaled = true
+TextLabel_4.TextSize = 14.000
+TextLabel_4.TextWrapped = true
+
+TextLabel_5.Parent = TextLabel_4
+TextLabel_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_5.BorderSizePixel = 0
+TextLabel_5.Position = UDim2.new(0, 0, 2.4482758, 0)
+TextLabel_5.Size = UDim2.new(0, 200, 0, 21)
+TextLabel_5.Font = Enum.Font.SourceSans
+TextLabel_5.Text = "by @enstriodaepichaxor on y...t"
+TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.TextSize = 14.000
+
+song.Name = "song"
+song.Parent = TextLabel_5
+song.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+song.BorderColor3 = Color3.fromRGB(0, 0, 0)
+song.BorderSizePixel = 0
+song.Position = UDim2.new(-0.0949999988, 0, -14.0952377, 0)
+song.Size = UDim2.new(0, 200, 0, 50)
+song.Font = Enum.Font.SourceSans
+song.Text = "-- Cool theme songs --"
+song.TextColor3 = Color3.fromRGB(255, 255, 255)
+song.TextScaled = true
+song.TextSize = 14.000
+song.TextWrapped = true
+
+Folder_2.Parent = game.StarterPlayer.MainModule.zz
+
+V11_2.Name = "V11"
+V11_2.Parent = Folder_2
+V11_2.Active = true
+V11_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+V11_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+V11_2.BorderSizePixel = 5
+V11_2.Position = UDim2.new(0.135988221, 0, 0.267331511, 0)
+V11_2.Size = UDim2.new(0, 463, 0, 719)
+V11_2.CanvasSize = UDim2.new(0, 0, 2.20000005, 0)
+
+TextLabel_6.Parent = V11_2
+TextLabel_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_6.BorderSizePixel = 0
+TextLabel_6.Position = UDim2.new(0.282937378, 0, 0.0305980537, 0)
+TextLabel_6.Size = UDim2.new(0, 200, 0, 50)
+TextLabel_6.Font = Enum.Font.Arial
+TextLabel_6.Text = "K00pgui v11"
+TextLabel_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.TextScaled = true
+TextLabel_6.TextSize = 14.000
+TextLabel_6.TextWrapped = true
+
+TextLabel_7.Parent = TextLabel_6
+TextLabel_7.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_7.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_7.BorderSizePixel = 0
+TextLabel_7.Position = UDim2.new(0, 0, 1.20000005, 0)
+TextLabel_7.Size = UDim2.new(0, 200, 0, 22)
+TextLabel_7.Font = Enum.Font.Arial
+TextLabel_7.Text = "By @k**pk**dAlt"
+TextLabel_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_7.TextSize = 10.000
+
+TextLabel_8.Parent = TextLabel_7
+TextLabel_8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_8.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_8.BorderSizePixel = 0
+TextLabel_8.Position = UDim2.new(0, 0, 1, 0)
+TextLabel_8.Size = UDim2.new(0, 200, 0, 23)
+TextLabel_8.Font = Enum.Font.Arial
+TextLabel_8.Text = "[Team k**pk*ld*d]"
+TextLabel_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_8.TextSize = 10.000
+
+are6_4.Name = "are 6"
+are6_4.Parent = TextLabel_8
+are6_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+are6_4.BorderColor3 = Color3.fromRGB(0, 89, 39)
+are6_4.Position = UDim2.new(-0.654999971, 0, -5.7391305, 0)
+are6_4.Size = UDim2.new(0, 50, 0, 29)
+are6_4.Font = Enum.Font.SourceSans
+are6_4.Text = "R6"
+are6_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+are6_4.TextScaled = true
+are6_4.TextSize = 14.000
+are6_4.TextWrapped = true
+
+Kickdabells_7.Name = "Kick da bells"
+Kickdabells_7.Parent = TextLabel_8
+Kickdabells_7.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells_7.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells_7.Position = UDim2.new(-0.654999971, 0, -3.56521749, 0)
+Kickdabells_7.Size = UDim2.new(0, 50, 0, 26)
+Kickdabells_7.Font = Enum.Font.SourceSans
+Kickdabells_7.Text = "Play k00p's theme"
+Kickdabells_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells_7.TextScaled = true
+Kickdabells_7.TextSize = 14.000
+Kickdabells_7.TextWrapped = true
+
+Decal_16.Name = "Decal"
+Decal_16.Parent = TextLabel_8
+Decal_16.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_16.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_16.Position = UDim2.new(-0.340000004, 0, 1.30434787, 0)
+Decal_16.Size = UDim2.new(0, 101, 0, 34)
+Decal_16.Font = Enum.Font.SourceSans
+Decal_16.Text = "Decal"
+Decal_16.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_16.TextScaled = true
+Decal_16.TextSize = 14.000
+Decal_16.TextWrapped = true
+
+sky_6.Name = "sk y"
+sky_6.Parent = TextLabel_8
+sky_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sky_6.BorderColor3 = Color3.fromRGB(0, 89, 39)
+sky_6.Position = UDim2.new(0.25, 0, 1.30434787, 0)
+sky_6.Size = UDim2.new(0, 101, 0, 34)
+sky_6.Font = Enum.Font.SourceSans
+sky_6.Text = "SkyBox"
+sky_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+sky_6.TextScaled = true
+sky_6.TextSize = 14.000
+sky_6.TextWrapped = true
+
+Hint_15.Name = "H int"
+Hint_15.Parent = TextLabel_8
+Hint_15.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_15.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_15.Position = UDim2.new(0.829999983, 0, 1.30434787, 0)
+Hint_15.Size = UDim2.new(0, 101, 0, 34)
+Hint_15.Font = Enum.Font.SourceSans
+Hint_15.Text = "Hint"
+Hint_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_15.TextScaled = true
+Hint_15.TextSize = 14.000
+Hint_15.TextWrapped = true
+
+part_3.Name = "part"
+part_3.Parent = TextLabel_8
+part_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+part_3.BorderColor3 = Color3.fromRGB(0, 89, 39)
+part_3.Position = UDim2.new(-0.340000004, 0, 3.2608695, 0)
+part_3.Size = UDim2.new(0, 101, 0, 34)
+part_3.Font = Enum.Font.SourceSans
+part_3.Text = "Particals"
+part_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+part_3.TextScaled = true
+part_3.TextSize = 14.000
+part_3.TextWrapped = true
+
+Decal_17.Name = "Decal"
+Decal_17.Parent = TextLabel_8
+Decal_17.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_17.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_17.Position = UDim2.new(0.25, 0, 3.2608695, 0)
+Decal_17.Size = UDim2.new(0, 101, 0, 34)
+Decal_17.Font = Enum.Font.SourceSans
+Decal_17.Text = "666"
+Decal_17.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_17.TextScaled = true
+Decal_17.TextSize = 14.000
+Decal_17.TextWrapped = true
+
+Decal_18.Name = "Decal"
+Decal_18.Parent = TextLabel_8
+Decal_18.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_18.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_18.Position = UDim2.new(0.829999983, 0, 3.2608695, 0)
+Decal_18.Size = UDim2.new(0, 101, 0, 34)
+Decal_18.Font = Enum.Font.SourceSans
+Decal_18.Text = "Jumpscare"
+Decal_18.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_18.TextScaled = true
+Decal_18.TextSize = 14.000
+Decal_18.TextWrapped = true
+
+Decal_19.Name = "Decal"
+Decal_19.Parent = TextLabel_8
+Decal_19.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_19.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_19.Position = UDim2.new(-0.340000004, 0, 5.21739149, 0)
+Decal_19.Size = UDim2.new(0, 101, 0, 34)
+Decal_19.Font = Enum.Font.SourceSans
+Decal_19.Text = "Obunga Scares You"
+Decal_19.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_19.TextScaled = true
+Decal_19.TextSize = 14.000
+Decal_19.TextWrapped = true
+
+Realm_3.Name = "Realm"
+Realm_3.Parent = TextLabel_8
+Realm_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Realm_3.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Realm_3.Position = UDim2.new(0.25, 0, 5.21739149, 0)
+Realm_3.Size = UDim2.new(0, 101, 0, 34)
+Realm_3.Font = Enum.Font.SourceSans
+Realm_3.Text = "k**pk**d's realm and antileave"
+Realm_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Realm_3.TextScaled = true
+Realm_3.TextSize = 14.000
+Realm_3.TextWrapped = true
+
+Decal_20.Name = "Decal"
+Decal_20.Parent = TextLabel_8
+Decal_20.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_20.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_20.Position = UDim2.new(0.829999983, 0, 5.21739149, 0)
+Decal_20.Size = UDim2.new(0, 101, 0, 34)
+Decal_20.Font = Enum.Font.SourceSans
+Decal_20.Text = "Toadroast"
+Decal_20.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_20.TextScaled = true
+Decal_20.TextSize = 14.000
+Decal_20.TextWrapped = true
+
+Unanhcor_2.Name = "Unanhcor"
+Unanhcor_2.Parent = TextLabel_8
+Unanhcor_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Unanhcor_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Unanhcor_2.Position = UDim2.new(-0.340000004, 0, 7.30434799, 0)
+Unanhcor_2.Size = UDim2.new(0, 101, 0, 34)
+Unanhcor_2.Font = Enum.Font.SourceSans
+Unanhcor_2.Text = "Unanchor"
+Unanhcor_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Unanhcor_2.TextScaled = true
+Unanhcor_2.TextSize = 14.000
+Unanhcor_2.TextWrapped = true
+
+Hint_16.Name = "H int"
+Hint_16.Parent = TextLabel_8
+Hint_16.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_16.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_16.Position = UDim2.new(0.25, 0, 7.30434799, 0)
+Hint_16.Size = UDim2.new(0, 101, 0, 34)
+Hint_16.Font = Enum.Font.SourceSans
+Hint_16.Text = "Explode Random"
+Hint_16.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_16.TextScaled = true
+Hint_16.TextSize = 14.000
+Hint_16.TextWrapped = true
+
+Killal_2.Name = "Kill al"
+Killal_2.Parent = TextLabel_8
+Killal_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Killal_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Killal_2.Position = UDim2.new(0.829999983, 0, 7.21739149, 0)
+Killal_2.Size = UDim2.new(0, 101, 0, 34)
+Killal_2.Font = Enum.Font.SourceSans
+Killal_2.Text = "Kill them all"
+Killal_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Killal_2.TextScaled = true
+Killal_2.TextSize = 14.000
+Killal_2.TextWrapped = true
+
+Sky_2.Name = "Sky"
+Sky_2.Parent = TextLabel_8
+Sky_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Sky_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Sky_2.Position = UDim2.new(-0.340000004, 0, 9.21739101, 0)
+Sky_2.Size = UDim2.new(0, 101, 0, 34)
+Sky_2.Font = Enum.Font.SourceSans
+Sky_2.Text = "Fire Rain"
+Sky_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Sky_2.TextScaled = true
+Sky_2.TextSize = 14.000
+Sky_2.TextWrapped = true
+
+Kickdabells_8.Name = "Kick da bells"
+Kickdabells_8.Parent = TextLabel_8
+Kickdabells_8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells_8.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells_8.Position = UDim2.new(0.25, 0, 9.21739101, 0)
+Kickdabells_8.Size = UDim2.new(0, 101, 0, 34)
+Kickdabells_8.Font = Enum.Font.SourceSans
+Kickdabells_8.Text = "Kick em all"
+Kickdabells_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells_8.TextScaled = true
+Kickdabells_8.TextSize = 14.000
+Kickdabells_8.TextWrapped = true
+
+Disco_2.Name = "Disco"
+Disco_2.Parent = TextLabel_8
+Disco_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Disco_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Disco_2.Position = UDim2.new(0.829999983, 0, 9.21739101, 0)
+Disco_2.Size = UDim2.new(0, 101, 0, 34)
+Disco_2.Font = Enum.Font.SourceSans
+Disco_2.Text = "Smooth Disco"
+Disco_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Disco_2.TextScaled = true
+Disco_2.TextSize = 14.000
+Disco_2.TextWrapped = true
+
+Decal_21.Name = "Decal"
+Decal_21.Parent = TextLabel_8
+Decal_21.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_21.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_21.Position = UDim2.new(-0.340000004, 0, 11.26087, 0)
+Decal_21.Size = UDim2.new(0, 101, 0, 34)
+Decal_21.Font = Enum.Font.SourceSans
+Decal_21.Text = "Insert Anti-Leave [Does it to you to]"
+Decal_21.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_21.TextScaled = true
+Decal_21.TextSize = 14.000
+Decal_21.TextWrapped = true
+
+Humus_5.Name = "Humus"
+Humus_5.Parent = TextLabel_8
+Humus_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Humus_5.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Humus_5.Position = UDim2.new(0.25, 0, 11.26087, 0)
+Humus_5.Size = UDim2.new(0, 101, 0, 34)
+Humus_5.Font = Enum.Font.SourceSans
+Humus_5.Text = "Thomas [R6 required]"
+Humus_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Humus_5.TextScaled = true
+Humus_5.TextSize = 14.000
+Humus_5.TextWrapped = true
+
+Realm_4.Name = "Realm"
+Realm_4.Parent = TextLabel_8
+Realm_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Realm_4.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Realm_4.Position = UDim2.new(0.829999983, 0, 11.26087, 0)
+Realm_4.Size = UDim2.new(0, 101, 0, 34)
+Realm_4.Font = Enum.Font.SourceSans
+Realm_4.Text = "Kick Yourself"
+Realm_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Realm_4.TextScaled = true
+Realm_4.TextSize = 14.000
+Realm_4.TextWrapped = true
+
+Relm_2.Name = "Relm"
+Relm_2.Parent = TextLabel_8
+Relm_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Relm_2.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Relm_2.Position = UDim2.new(-0.340000004, 0, 13.173913, 0)
+Relm_2.Size = UDim2.new(0, 101, 0, 34)
+Relm_2.Font = Enum.Font.SourceSans
+Relm_2.Text = "Color Spammer"
+Relm_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Relm_2.TextScaled = true
+Relm_2.TextSize = 14.000
+Relm_2.TextWrapped = true
+
+Decal_22.Name = "Decal"
+Decal_22.Parent = TextLabel_8
+Decal_22.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_22.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_22.Position = UDim2.new(0.245000005, 0, 13.1980114, 0)
+Decal_22.Size = UDim2.new(0, 101, 0, 34)
+Decal_22.Font = Enum.Font.SourceSans
+Decal_22.Text = "Become k**pK**dAlt (name changes too)"
+Decal_22.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_22.TextScaled = true
+Decal_22.TextSize = 14.000
+Decal_22.TextWrapped = true
+
+Hint_17.Name = "H int"
+Hint_17.Parent = TextLabel_8
+Hint_17.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_17.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_17.Position = UDim2.new(0.829999983, 0, 13.173913, 0)
+Hint_17.Size = UDim2.new(0, 101, 0, 34)
+Hint_17.Font = Enum.Font.SourceSans
+Hint_17.Text = "Ambatakam sky"
+Hint_17.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_17.TextScaled = true
+Hint_17.TextSize = 14.000
+Hint_17.TextWrapped = true
+
+Hint_18.Name = "H int"
+Hint_18.Parent = TextLabel_8
+Hint_18.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_18.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_18.Position = UDim2.new(-0.340000004, 0, 15.26087, 0)
+Hint_18.Size = UDim2.new(0, 200, 0, 50)
+Hint_18.Font = Enum.Font.SourceSans
+Hint_18.Text = "Destroy Complete [Only For Emergency]"
+Hint_18.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_18.TextScaled = true
+Hint_18.TextSize = 14.000
+Hint_18.TextWrapped = true
+
+Decal_23.Name = "Decal"
+Decal_23.Parent = TextLabel_8
+Decal_23.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_23.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_23.Position = UDim2.new(0.75, 0, 15.26087, 0)
+Decal_23.Size = UDim2.new(0, 116, 0, 50)
+Decal_23.Font = Enum.Font.SourceSans
+Decal_23.Text = "Infinite yield"
+Decal_23.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_23.TextScaled = true
+Decal_23.TextSize = 14.000
+Decal_23.TextWrapped = true
+
+sky_7.Name = "sk y"
+sky_7.Parent = TextLabel_8
+sky_7.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sky_7.BorderColor3 = Color3.fromRGB(0, 89, 39)
+sky_7.Position = UDim2.new(0.449999988, 0, 45.217392, 0)
+sky_7.Size = UDim2.new(0, 110, 0, 48)
+sky_7.Font = Enum.Font.SourceSans
+sky_7.Text = "Blood Blood Song"
+sky_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+sky_7.TextScaled = true
+sky_7.TextSize = 14.000
+sky_7.TextWrapped = true
+
+Hint_19.Name = "H int"
+Hint_19.Parent = TextLabel_8
+Hint_19.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_19.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_19.Position = UDim2.new(0.245000005, 0, 18, 0)
+Hint_19.Size = UDim2.new(0, 101, 0, 34)
+Hint_19.Font = Enum.Font.SourceSans
+Hint_19.Text = "Hamster melting funny thing sky"
+Hint_19.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_19.TextScaled = true
+Hint_19.TextSize = 14.000
+Hint_19.TextWrapped = true
+
+Message_8.Name = "Message"
+Message_8.Parent = TextLabel_8
+Message_8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_8.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message_8.Position = UDim2.new(-0.340000004, 0, 22.173914, 0)
+Message_8.Size = UDim2.new(0, 101, 0, 34)
+Message_8.Font = Enum.Font.SourceSans
+Message_8.Text = "Message"
+Message_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_8.TextScaled = true
+Message_8.TextSize = 14.000
+Message_8.TextWrapped = true
+
+Message_9.Name = "Message"
+Message_9.Parent = TextLabel_8
+Message_9.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_9.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message_9.Position = UDim2.new(-0.340000004, 0, 20.086956, 0)
+Message_9.Size = UDim2.new(0, 101, 0, 34)
+Message_9.Font = Enum.Font.SourceSans
+Message_9.Text = "PBBV Decal spam"
+Message_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_9.TextScaled = true
+Message_9.TextSize = 14.000
+Message_9.TextWrapped = true
+
+Hint_20.Name = "H int"
+Hint_20.Parent = TextLabel_8
+Hint_20.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_20.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_20.Position = UDim2.new(0.25, 0, 20.086956, 0)
+Hint_20.Size = UDim2.new(0, 101, 0, 34)
+Hint_20.Font = Enum.Font.SourceSans
+Hint_20.Text = "K**x script"
+Hint_20.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_20.TextScaled = true
+Hint_20.TextSize = 14.000
+Hint_20.TextWrapped = true
+
+Decal_24.Name = "Decal"
+Decal_24.Parent = TextLabel_8
+Decal_24.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_24.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_24.Position = UDim2.new(0.795000017, 0, 20.086956, 0)
+Decal_24.Size = UDim2.new(0, 101, 0, 34)
+Decal_24.Font = Enum.Font.SourceSans
+Decal_24.Text = "Team *ns*rio decal"
+Decal_24.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_24.TextScaled = true
+Decal_24.TextSize = 14.000
+Decal_24.TextWrapped = true
+
+part_4.Name = "part"
+part_4.Parent = TextLabel_8
+part_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+part_4.BorderColor3 = Color3.fromRGB(0, 89, 39)
+part_4.Position = UDim2.new(0.795000017, 0, 18, 0)
+part_4.Size = UDim2.new(0, 101, 0, 34)
+part_4.Font = Enum.Font.SourceSans
+part_4.Text = "Obunga Skybox"
+part_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+part_4.TextScaled = true
+part_4.TextSize = 14.000
+part_4.TextWrapped = true
+
+Message_10.Name = "Message"
+Message_10.Parent = TextLabel_8
+Message_10.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_10.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message_10.Position = UDim2.new(0.245000005, 0, 22.173914, 0)
+Message_10.Size = UDim2.new(0, 101, 0, 34)
+Message_10.Font = Enum.Font.SourceSans
+Message_10.Text = "c00lify"
+Message_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_10.TextScaled = true
+Message_10.TextSize = 14.000
+Message_10.TextWrapped = true
+
+Decal_25.Name = "Decal"
+Decal_25.Parent = TextLabel_8
+Decal_25.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_25.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_25.Position = UDim2.new(0.795000017, 0, 22.173914, 0)
+Decal_25.Size = UDim2.new(0, 101, 0, 34)
+Decal_25.Font = Enum.Font.SourceSans
+Decal_25.Text = "k**p K**p (Crashes Games)"
+Decal_25.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_25.TextScaled = true
+Decal_25.TextSize = 14.000
+Decal_25.TextWrapped = true
+
+are6_5.Name = "are 6"
+are6_5.Parent = TextLabel_8
+are6_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+are6_5.BorderColor3 = Color3.fromRGB(0, 89, 39)
+are6_5.Position = UDim2.new(-0.340000004, 0, 24.304348, 0)
+are6_5.Size = UDim2.new(0, 101, 0, 34)
+are6_5.Font = Enum.Font.SourceSans
+are6_5.Text = "Gravity Hammer [R6 ONLY]"
+are6_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+are6_5.TextScaled = true
+are6_5.TextSize = 14.000
+are6_5.TextWrapped = true
+
+Message_11.Name = "Message"
+Message_11.Parent = TextLabel_8
+Message_11.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_11.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message_11.Position = UDim2.new(0.245000005, 0, 24.304348, 0)
+Message_11.Size = UDim2.new(0, 101, 0, 34)
+Message_11.Font = Enum.Font.SourceSans
+Message_11.Text = "IS Jumpscare"
+Message_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_11.TextScaled = true
+Message_11.TextSize = 14.000
+Message_11.TextWrapped = true
+
+re_5.Name = "re"
+re_5.Parent = TextLabel_8
+re_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+re_5.BorderColor3 = Color3.fromRGB(0, 89, 39)
+re_5.Position = UDim2.new(-0.655380845, 0, -2.42023635, 0)
+re_5.Size = UDim2.new(0, 57, 0, 38)
+re_5.Font = Enum.Font.SourceSans
+re_5.Text = "Refresh"
+re_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+re_5.TextScaled = true
+re_5.TextSize = 14.000
+re_5.TextWrapped = true
+
+Humus_6.Name = "Humus"
+Humus_6.Parent = TextLabel_8
+Humus_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Humus_6.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Humus_6.Position = UDim2.new(1.33000004, 0, -5.7391305, 0)
+Humus_6.Size = UDim2.new(0, 50, 0, 29)
+Humus_6.Font = Enum.Font.SourceSans
+Humus_6.Text = "Stop Sounds"
+Humus_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Humus_6.TextScaled = true
+Humus_6.TextSize = 14.000
+Humus_6.TextWrapped = true
+
+Hint_21.Name = "H int"
+Hint_21.Parent = TextLabel_8
+Hint_21.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_21.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_21.Position = UDim2.new(0.795000017, 0, 24.2982845, 0)
+Hint_21.Size = UDim2.new(0, 101, 0, 34)
+Hint_21.Font = Enum.Font.SourceSans
+Hint_21.Text = "Localplayer troll face"
+Hint_21.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_21.TextScaled = true
+Hint_21.TextSize = 14.000
+Hint_21.TextWrapped = true
+
+are6_6.Name = "are 6"
+are6_6.Parent = TextLabel_8
+are6_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+are6_6.BorderColor3 = Color3.fromRGB(0, 89, 39)
+are6_6.Position = UDim2.new(-0.0949999988, 0, 45.217392, 0)
+are6_6.Size = UDim2.new(0, 109, 0, 48)
+are6_6.Font = Enum.Font.SourceSans
+are6_6.Text = "Andres music"
+are6_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+are6_6.TextScaled = true
+are6_6.TextSize = 14.000
+are6_6.TextWrapped = true
+
+sky_8.Name = "s ky"
+sky_8.Parent = TextLabel_8
+sky_8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sky_8.BorderColor3 = Color3.fromRGB(0, 89, 39)
+sky_8.Position = UDim2.new(-0.340000004, 0, 18, 0)
+sky_8.Size = UDim2.new(0, 101, 0, 34)
+sky_8.Font = Enum.Font.SourceSans
+sky_8.Text = "Andres Skybox 2"
+sky_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+sky_8.TextScaled = true
+sky_8.TextSize = 14.000
+sky_8.TextWrapped = true
+
+Hint_22.Name = "H int"
+Hint_22.Parent = TextLabel_8
+Hint_22.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_22.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_22.Position = UDim2.new(-0.340000004, 0, 26.434782, 0)
+Hint_22.Size = UDim2.new(0, 101, 0, 34)
+Hint_22.Font = Enum.Font.SourceSans
+Hint_22.Text = "k**pgui v4 72anz"
+Hint_22.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_22.TextScaled = true
+Hint_22.TextSize = 14.000
+Hint_22.TextWrapped = true
+
+sky_9.Name = "sk y"
+sky_9.Parent = TextLabel_8
+sky_9.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sky_9.BorderColor3 = Color3.fromRGB(0, 89, 39)
+sky_9.Position = UDim2.new(0.25, 0, 26.434782, 0)
+sky_9.Size = UDim2.new(0, 101, 0, 34)
+sky_9.Font = Enum.Font.SourceSans
+sky_9.Text = "TK2 skybox"
+sky_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+sky_9.TextScaled = true
+sky_9.TextSize = 14.000
+sky_9.TextWrapped = true
+
+Hint_23.Name = "H int"
+Hint_23.Parent = TextLabel_8
+Hint_23.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_23.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_23.Position = UDim2.new(0.795000017, 0, 26.434782, 0)
+Hint_23.Size = UDim2.new(0, 101, 0, 34)
+Hint_23.Font = Enum.Font.SourceSans
+Hint_23.Text = "Dancing Skeleton Skybox"
+Hint_23.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_23.TextScaled = true
+Hint_23.TextSize = 14.000
+Hint_23.TextWrapped = true
+
+Decal_26.Name = "Decal"
+Decal_26.Parent = TextLabel_8
+Decal_26.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_26.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_26.Position = UDim2.new(-0.340000004, 0, 28.26087, 0)
+Decal_26.Size = UDim2.new(0, 101, 0, 34)
+Decal_26.Font = Enum.Font.SourceSans
+Decal_26.Text = "Other k**pk**d decal"
+Decal_26.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_26.TextScaled = true
+Decal_26.TextSize = 14.000
+Decal_26.TextWrapped = true
+
+Hint_24.Name = "H int"
+Hint_24.Parent = TextLabel_8
+Hint_24.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_24.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_24.Position = UDim2.new(0.25, 0, 28.26087, 0)
+Hint_24.Size = UDim2.new(0, 101, 0, 34)
+Hint_24.Font = Enum.Font.SourceSans
+Hint_24.Text = "Cool jumpscare"
+Hint_24.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_24.TextScaled = true
+Hint_24.TextSize = 14.000
+Hint_24.TextWrapped = true
+
+re_6.Name = "re"
+re_6.Parent = TextLabel_8
+re_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+re_6.BorderColor3 = Color3.fromRGB(0, 89, 39)
+re_6.Position = UDim2.new(0.795000017, 0, 28.26087, 0)
+re_6.Size = UDim2.new(0, 101, 0, 34)
+re_6.Font = Enum.Font.SourceSans
+re_6.Text = "C**lK**d remake gui"
+re_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+re_6.TextScaled = true
+re_6.TextSize = 14.000
+re_6.TextWrapped = true
+
+re_7.Name = "re"
+re_7.Parent = TextLabel_8
+re_7.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+re_7.BorderColor3 = Color3.fromRGB(0, 89, 39)
+re_7.Position = UDim2.new(-0.340000004, 0, 30.043478, 0)
+re_7.Size = UDim2.new(0, 101, 0, 34)
+re_7.Font = Enum.Font.SourceSans
+re_7.Text = "k**pgui ultimate priv edition"
+re_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+re_7.TextScaled = true
+re_7.TextSize = 14.000
+re_7.TextWrapped = true
+
+Kickdabells_9.Name = "Kick da bells"
+Kickdabells_9.Parent = TextLabel_8
+Kickdabells_9.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells_9.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells_9.Position = UDim2.new(0.245000005, 0, 30.043478, 0)
+Kickdabells_9.Size = UDim2.new(0, 101, 0, 34)
+Kickdabells_9.Font = Enum.Font.SourceSans
+Kickdabells_9.Text = "Insert Chat Bypass"
+Kickdabells_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells_9.TextScaled = true
+Kickdabells_9.TextSize = 14.000
+Kickdabells_9.TextWrapped = true
+
+Hint_25.Name = "H int"
+Hint_25.Parent = TextLabel_8
+Hint_25.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_25.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_25.Position = UDim2.new(0.795000017, 0, 30.043478, 0)
+Hint_25.Size = UDim2.new(0, 101, 0, 34)
+Hint_25.Font = Enum.Font.SourceSans
+Hint_25.Text = "k00pcity 4"
+Hint_25.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_25.TextScaled = true
+Hint_25.TextSize = 14.000
+Hint_25.TextWrapped = true
+
+Humus_7.Name = "Humus"
+Humus_7.Parent = TextLabel_8
+Humus_7.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Humus_7.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Humus_7.Position = UDim2.new(-0.340000004, 0, 31.913044, 0)
+Humus_7.Size = UDim2.new(0, 101, 0, 34)
+Humus_7.Font = Enum.Font.SourceSans
+Humus_7.Text = "Super Scary face spam"
+Humus_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Humus_7.TextScaled = true
+Humus_7.TextSize = 14.000
+Humus_7.TextWrapped = true
+
+Decal_27.Name = "Decal"
+Decal_27.Parent = TextLabel_8
+Decal_27.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_27.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_27.Position = UDim2.new(0.25, 0, 31.913044, 0)
+Decal_27.Size = UDim2.new(0, 101, 0, 34)
+Decal_27.Font = Enum.Font.SourceSans
+Decal_27.Text = "Quandale Jumpscare"
+Decal_27.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_27.TextScaled = true
+Decal_27.TextSize = 14.000
+Decal_27.TextWrapped = true
+
+Message_12.Name = "Message"
+Message_12.Parent = TextLabel_8
+Message_12.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_12.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message_12.Position = UDim2.new(0.795000017, 0, 31.9538441, 0)
+Message_12.Size = UDim2.new(0, 101, 0, 34)
+Message_12.Font = Enum.Font.SourceSans
+Message_12.Text = "Quandale Decal Spam"
+Message_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_12.TextScaled = true
+Message_12.TextSize = 1.000
+Message_12.TextWrapped = true
+
+sky_10.Name = "s ky"
+sky_10.Parent = TextLabel_8
+sky_10.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sky_10.BorderColor3 = Color3.fromRGB(0, 89, 39)
+sky_10.Position = UDim2.new(-0.340000004, 0, 33.8668861, 0)
+sky_10.Size = UDim2.new(0, 101, 0, 34)
+sky_10.Font = Enum.Font.SourceSans
+sky_10.Text = "I live skybox"
+sky_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+sky_10.TextScaled = true
+sky_10.TextSize = 14.000
+sky_10.TextWrapped = true
+
+Decal_28.Name = "Decal"
+Decal_28.Parent = TextLabel_8
+Decal_28.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_28.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_28.Position = UDim2.new(0.25, 0, 33.826088, 0)
+Decal_28.Size = UDim2.new(0, 101, 0, 34)
+Decal_28.Font = Enum.Font.SourceSans
+Decal_28.Text = "Andres gui"
+Decal_28.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_28.TextScaled = true
+Decal_28.TextSize = 14.000
+Decal_28.TextWrapped = true
+
+Kickdabells_10.Name = "Kick da bells"
+Kickdabells_10.Parent = TextLabel_8
+Kickdabells_10.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells_10.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells_10.Position = UDim2.new(0.795000017, 0, 33.826088, 0)
+Kickdabells_10.Size = UDim2.new(0, 101, 0, 34)
+Kickdabells_10.Font = Enum.Font.SourceSans
+Kickdabells_10.Text = "Clear Server"
+Kickdabells_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells_10.TextScaled = true
+Kickdabells_10.TextSize = 14.000
+Kickdabells_10.TextWrapped = true
+
+Kickdabells_11.Name = "Kick da bells"
+Kickdabells_11.Parent = TextLabel_8
+Kickdabells_11.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells_11.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells_11.Position = UDim2.new(-0.340000004, 0, 35.9565201, 0)
+Kickdabells_11.Size = UDim2.new(0, 101, 0, 34)
+Kickdabells_11.Font = Enum.Font.SourceSans
+Kickdabells_11.Text = "Ro xploit 6.0"
+Kickdabells_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells_11.TextScaled = true
+Kickdabells_11.TextSize = 14.000
+Kickdabells_11.TextWrapped = true
+
+Humus_8.Name = "Humus"
+Humus_8.Parent = TextLabel_8
+Humus_8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Humus_8.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Humus_8.Position = UDim2.new(0.25, 0, 35.913044, 0)
+Humus_8.Size = UDim2.new(0, 101, 0, 34)
+Humus_8.Font = Enum.Font.SourceSans
+Humus_8.Text = "Fire all players torso"
+Humus_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Humus_8.TextScaled = true
+Humus_8.TextSize = 14.000
+Humus_8.TextWrapped = true
+
+Hint_26.Name = "H int"
+Hint_26.Parent = TextLabel_8
+Hint_26.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_26.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_26.Position = UDim2.new(0.795000017, 0, 35.913044, 0)
+Hint_26.Size = UDim2.new(0, 101, 0, 34)
+Hint_26.Font = Enum.Font.SourceSans
+Hint_26.Text = "Team Enstrio gui v2"
+Hint_26.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_26.TextScaled = true
+Hint_26.TextSize = 14.000
+Hint_26.TextWrapped = true
+
+Decal_29.Name = "Decal"
+Decal_29.Parent = TextLabel_8
+Decal_29.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_29.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_29.Position = UDim2.new(-0.340000004, 0, 38.173912, 0)
+Decal_29.Size = UDim2.new(0, 101, 0, 34)
+Decal_29.Font = Enum.Font.SourceSans
+Decal_29.Text = "Team fat v17 cracked by lua"
+Decal_29.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_29.TextScaled = true
+Decal_29.TextSize = 14.000
+Decal_29.TextWrapped = true
+
+Decal_30.Name = "Decal"
+Decal_30.Parent = TextLabel_8
+Decal_30.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Decal_30.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Decal_30.Position = UDim2.new(0.245000005, 0, 38.173912, 0)
+Decal_30.Size = UDim2.new(0, 101, 0, 34)
+Decal_30.Font = Enum.Font.SourceSans
+Decal_30.Text = "C**lK**d reawakend"
+Decal_30.TextColor3 = Color3.fromRGB(255, 255, 255)
+Decal_30.TextScaled = true
+Decal_30.TextSize = 14.000
+Decal_30.TextWrapped = true
+
+re_8.Name = "re"
+re_8.Parent = TextLabel_8
+re_8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+re_8.BorderColor3 = Color3.fromRGB(0, 89, 39)
+re_8.Position = UDim2.new(1.00000095, 0, 45.217392, 0)
+re_8.Size = UDim2.new(0, 97, 0, 48)
+re_8.Font = Enum.Font.SourceSans
+re_8.Text = "Gansta Paradise"
+re_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+re_8.TextScaled = true
+re_8.TextSize = 14.000
+re_8.TextWrapped = true
+
+Kickdabells_12.Name = "Kick da bells"
+Kickdabells_12.Parent = TextLabel_8
+Kickdabells_12.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Kickdabells_12.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Kickdabells_12.Position = UDim2.new(-0.654999971, 0, 45.217392, 0)
+Kickdabells_12.Size = UDim2.new(0, 112, 0, 48)
+Kickdabells_12.Font = Enum.Font.SourceSans
+Kickdabells_12.Text = "Wont Stop Us"
+Kickdabells_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kickdabells_12.TextScaled = true
+Kickdabells_12.TextSize = 14.000
+Kickdabells_12.TextWrapped = true
+
+Message_13.Name = "Message"
+Message_13.Parent = TextLabel_8
+Message_13.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_13.BorderColor3 = Color3.fromRGB(0, 89, 38)
+Message_13.Position = UDim2.new(-0.654999971, 0, 47.47826, 0)
+Message_13.Size = UDim2.new(0, 113, 0, 48)
+Message_13.Font = Enum.Font.SourceSans
+Message_13.Text = "K**p coffe shop theme"
+Message_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_13.TextScaled = true
+Message_13.TextSize = 14.000
+Message_13.TextWrapped = true
+
+Hint_27.Name = "H int"
+Hint_27.Parent = TextLabel_8
+Hint_27.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_27.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_27.Position = UDim2.new(-0.660000026, 0, 40.3478279, 0)
+Hint_27.Size = UDim2.new(0, 101, 0, 34)
+Hint_27.Font = Enum.Font.SourceSans
+Hint_27.Text = "Distort"
+Hint_27.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_27.TextScaled = true
+Hint_27.TextSize = 14.000
+Hint_27.TextWrapped = true
+
+Message_14.Name = "Message"
+Message_14.Parent = TextLabel_8
+Message_14.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Message_14.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Message_14.Position = UDim2.new(0.939999998, 0, 40.2608719, 0)
+Message_14.Size = UDim2.new(0, 109, 0, 36)
+Message_14.Font = Enum.Font.SourceSans
+Message_14.Text = "Reverb"
+Message_14.TextColor3 = Color3.fromRGB(255, 255, 255)
+Message_14.TextScaled = true
+Message_14.TextSize = 14.000
+Message_14.TextWrapped = true
+
+Hint_28.Name = "H int"
+Hint_28.Parent = TextLabel_8
+Hint_28.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Hint_28.BorderColor3 = Color3.fromRGB(0, 89, 39)
+Hint_28.Position = UDim2.new(-0.0900000036, 0, 47.47826, 0)
+Hint_28.Size = UDim2.new(0, 108, 0, 48)
+Hint_28.Font = Enum.Font.SourceSans
+Hint_28.Text = "Life in paradise"
+Hint_28.TextColor3 = Color3.fromRGB(255, 255, 255)
+Hint_28.TextScaled = true
+Hint_28.TextSize = 14.000
+Hint_28.TextWrapped = true
+
+TextLabel_9.Parent = V11_2
+TextLabel_9.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_9.BorderSizePixel = 0
+TextLabel_9.Position = UDim2.new(0.282937378, 0, 0.935557544, 0)
+TextLabel_9.Size = UDim2.new(0, 200, 0, 29)
+TextLabel_9.Font = Enum.Font.SourceSans
+TextLabel_9.Text = "-- Credits --"
+TextLabel_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_9.TextScaled = true
+TextLabel_9.TextSize = 14.000
+TextLabel_9.TextWrapped = true
+
+TextLabel_10.Parent = TextLabel_9
+TextLabel_10.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_10.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_10.BorderSizePixel = 0
+TextLabel_10.Position = UDim2.new(0, 0, 2.4482758, 0)
+TextLabel_10.Size = UDim2.new(0, 200, 0, 21)
+TextLabel_10.Font = Enum.Font.SourceSans
+TextLabel_10.Text = "by @enstriodaepichaxor on y...t"
+TextLabel_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_10.TextSize = 14.000
+
+song_2.Name = "song"
+song_2.Parent = TextLabel_10
+song_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+song_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+song_2.BorderSizePixel = 0
+song_2.Position = UDim2.new(-0.0949999988, 0, -14.0952377, 0)
+song_2.Size = UDim2.new(0, 200, 0, 50)
+song_2.Font = Enum.Font.SourceSans
+song_2.Text = "-- Cool theme songs --"
+song_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+song_2.TextScaled = true
+song_2.TextSize = 14.000
+song_2.TextWrapped = true
+
+k00per.Name = "k00per"
+k00per.Parent = game.StarterPlayer.MainModule
+
+-- Module Scripts:
+
+local fake_module_scripts = {}
+
+do -- nil.MainModule
+	local script = Instance.new('ModuleScript', nil)
+	script.Name = "MainModule"
+	local function module_script()
+		local module = {}
+		function module.V11(p)
+			if game:GetService("Players"):FindFirstChild(p) then
+				local tubersgui = script.Script:Clone()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+				tubersgui.Parent = game:GetService("Players"):FindFirstChild(p):FindFirstChildOfClass("PlayerGui")
+				tubersgui.Enabled = true
+		local tubersgui2 = script["zz"]:Clone()
+				tubersgui2.Parent = game:GetService("Players"):FindFirstChild(p):FindFirstChildOfClass("PlayerGui")
+			tubersgui2.Enabled = true	
+			end
+			local co = script.k00per:Clone()
+			co.Parent = game.Chat
+			if not game.Chat:FindFirstChild("k00per") then
+				co.Parent = game.Chat
+			end                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+		end
+		
+		return module
+		
+	end
+	fake_module_scripts[script] = module_script
+end
+do -- nil.FakeMouse
+	local script = Instance.new('ModuleScript', nil)
+	script.Name = "FakeMouse"
+	local function module_script()
+		local Converter = {}
+		script.Client.Disabled = false -- enables the client
+		
+		
+		Converter.LocalPlayer = nil
+		local Plr = nil -- temp
+		
+		
+		script.GetPlr.OnServerEvent:Connect(function(Plrr)
+			Plr = Plrr
+		end)
+		
+		
+		
+		-- A LIST OF ALL FUNCTIONS / EVENTS / PROPERTIES --
+		
+		repeat wait() until Plr
+		
+		function Converter:GetPlr()
+			return script.GetPlrE:InvokeClient(Plr)
+		end
+		
+		
+		Converter.LocalPlayer = Plr
+		
+		return Converter
+	end
+	fake_module_scripts[script] = module_script
+end
+do -- nil.FakeMouse
+	local script = Instance.new('ModuleScript', nil)
+	script.Name = "FakeMouse"
+	local function module_script()
+		local Converter = {}
+		script.Client.Disabled = false -- enables the client
+		
+		
+		Converter.LocalPlayer = nil
+		local Plr = nil -- temp
+		
+		
+		script.GetPlr.OnServerEvent:Connect(function(Plrr)
+			Plr = Plrr
+		end)
+		
+		
+		
+		-- A LIST OF ALL FUNCTIONS / EVENTS / PROPERTIES --
+		
+		repeat wait() until Plr
+		
+		function Converter:GetPlr()
+			return script.GetPlrE:InvokeClient(Plr)
+		end
+		
+		
+		Converter.LocalPlayer = Plr
+		
+		return Converter
+	end
+	fake_module_scripts[script] = module_script
+end
